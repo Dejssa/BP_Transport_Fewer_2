@@ -1645,7 +1645,7 @@ msgid "Editor"
 msgstr "Рэдактар"
 
 msgid "Editor's note"
-msgstr "Заўвага рэдактару"
+msgstr "Заўвага рэдактараў"
 
 msgid "Electric"
 msgstr "Электрычны"
@@ -3294,7 +3294,7 @@ msgid "Open source"
 msgstr "Адкрыць крыніцу"
 
 msgid "Open userdata folder"
-msgstr "Адкрыць тэчку з дадзенымі карыстальку"
+msgstr "Адкрыць тэчку з дадзенымі карыстальніка"
 
 msgid "Open vehicle manager"
 msgstr "Адкрыць налады транспарту"
@@ -5168,10 +5168,10 @@ msgid "Use the terrain tool to change the terrain in free game."
 msgstr "Зьмяніце мясцовасьць праз прылады мясцовасьці ў вольнай гульне."
 
 msgid "User interface mode"
-msgstr "Тып інтэрфейсу карыстальніку"
+msgstr "Тып інтэрфейсу"
 
 msgid "User profile creation failed"
-msgstr "Памылка стварэньня профілю карыстальніку"
+msgstr "Памылка стварэньня профілю карыстальніка"
 
 msgid "VSync"
 msgstr "В-Сынхранізацыя"
@@ -5402,7 +5402,7 @@ msgid "Zoom to cursor"
 msgstr "Павялічыць на курсор"
 
 msgid "[UserData]/"
-msgstr "[Дадзеныя карыстальніку]/"
+msgstr "[UserData]/"
 
 msgid "[not found] "
 msgstr "[ня знойдзена] "
@@ -5564,7 +5564,7 @@ msgstr "Даслана да майстэрні Steam"
 
 msgctxt "mod-state"
 msgid "User mods"
-msgstr "Мадыфікацыі карыстальніку"
+msgstr "Мадыфікацыі карыстальніка"
 
 msgctxt "mod-tags"
 msgid "Airport"
