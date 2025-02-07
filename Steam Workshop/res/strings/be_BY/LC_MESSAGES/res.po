@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-01-31 13:26+0300\n"
+"PO-Revision-Date: 2025-02-07 10:48+0300\n"
 "Last-Translator: Alaksiej (Dejssa)\n"
 "Language-Team: none\n"
 "Language: be\n"
@@ -245,7 +245,7 @@ msgid "Asian"
 msgstr "Азіяцкі"
 
 msgid "Asian Locomotive description text"
-msgstr "Апісаньне азіяцкага лёкаматыву"
+msgstr "Апісаньне азіяцкага лякамву"
 
 msgid "Asphalt"
 msgstr "Асфальт"
@@ -3923,452 +3923,451 @@ msgstr ""
 
 msgid "MISSION_ERA1_INFO"
 msgstr ""
-"Ludzkość nieustannie tworzy niesamowite wynalazki. Zaangażuj się w szybki postęp technologiczny, "
-"aby zapewnić niezawodny transport w różnych częściach świata."
+"Чалавецтва бесьперапынна стварае дзівосныя вынаходніцтвы. Далучайся да хуткага тэхнічнага "
+"поступу, каб забясьпечыць надзейны транспарт у розных частках сьвету."
 
 msgid "MISSION_ERA2_INFO"
 msgstr ""
-"Nowy wiek ma do zaoferowania przeróżne odkrycia, które zrewolucjonizują cały sektor transportu.\n"
-"Doświadcz szybkiego rozwoju w erze wynalazków."
+"Новы век прапануе разнастайныя адкрыцьці, якія рэвалюцыянізуюць увесь транспартны сэктар.\n"
+"Адчуй хуткі поступ у эпоху вынаходніцтваў."
 
 msgid "MISSION_ERA3_INFO"
 msgstr ""
-"Świat dochodzi do siebie, a liczba pasażerów gwałtownie rośnie, podobnie jak globalny przepływ "
-"towarów.\n"
-"Pokonaj wyzwania logistyczne na przełomie tysiąclecia."
+"Сьвет аднаўляецца й колькасьць пасажыраў імкліва павялічваецца, як і сусьветная плынь тавараў.\n"
+"Пераадольвай лягістычныя выклікі на мяжы тысячагодзьдзя."
 
 msgid "MISSION_FUTURECITY_CAMPAIGNSCREEN"
 msgstr ""
-"Chiny, między przeszłością a przyszłością.\n"
-"Megamiasto Szanghaj stale się powiększa.\n"
-"Wiąże się z tym wiele wyzwań, ale także rozwiązań.\n"
-"Wkrótce może się ono stać miejskim rajem albo prawdziwym koszmarem.\n"
-"Los miasta jest niepewny.\n"
-"Pewne jest jednak to, że wiele zależy od przyszłego planowania ruchu.\n"
-"Na drodze do świata jutra!"
+"Кітай, паміж мінуўшчынай й прышласьцю.\n"
+"Мэга-места Шанхай стала пашыраецца.\n"
+"З гэтым зьвязаныя шматлікія выклікі, але таксама й рашэньні.\n"
+"Хутка яно можа стаць мейскім раем альбо сапраўдным кашмарам.\n"
+"Лёс места застаецца няпэўным.\n"
+"Але пэўна адно: шмат што залежыць ад будучага плянаваньня руху.\n"
+"На дарозе да сьвету заўтрашняга дня!"
 
 msgid "MISSION_FUTURECITY_INTRO1"
-msgstr "Najważniejsza metropolia przemysłowa w Chinach."
+msgstr "Найважнейшая мэтраполія прамысловая ў Кітаі."
 
 msgid "MISSION_FUTURECITY_INTRO2"
-msgstr "Najważniejsza metropolia przemysłowa na całym świecie."
+msgstr "Найважнейшая мэтраполія прамысловая ва ўсім сьвеце."
 
 msgid "MISSION_FUTURECITY_INTRO3"
-msgstr "Zawsze w ruchu"
+msgstr "Заўсёды ў руху"
 
 msgid "MISSION_FUTURECITY_INTRO4"
-msgstr "i podlegająca ciągłym zmianom."
+msgstr "й схільная да пастаянных зьменаў."
 
 msgid "MISSION_FUTURECITY_INTRO5"
-msgstr "Nikt nie wie, dokąd zabierze cię ta droga."
+msgstr "Ніхто ня ведае, куды завядзе цябе гэтая дарога."
 
 msgid "MISSION_FUTURECITY_INTRO6"
-msgstr "Ale jedno jest pewne: zrobi to tak szybko, jak to możliwe."
+msgstr "Але адно пэўна: яна зробіць гэта як мага хутчэй."
 
 msgid "MISSION_FUTURECITY_INTRO7"
-msgstr "Jako członek władz miasta, to ty wyznaczasz kurs."
+msgstr "Як сябра уладаў места, гэта ты вызначаеш курс."
 
 msgid "MISSION_FUTURECITY_INTRO8"
-msgstr "Pomaga ci w tym prosta matryca decyzyjna."
+msgstr "Табе ў гэтым дапаможа простая матрыца рашэньняў."
 
 msgid "MISSION_FUTURECITY_INTRO9"
-msgstr "Przyszłość leży w twoich rękach."
+msgstr "Прышласьць ў тваіх руках."
 
 msgid "MISSION_FUTURECITY_MEDAL_1_CAMPAIGNSCREENNAME"
-msgstr "Import/eksport"
+msgstr "Імпарт/экспарт"
 
 msgid "MISSION_FUTURECITY_MEDAL_1_FINISH_NAME"
-msgstr "Osiągnięte cele"
+msgstr "Даступныя мэты"
 
 msgid "MISSION_FUTURECITY_MEDAL_1_FINISH_TEXT"
 msgstr ""
-"\"Cel został osiągnięty.\n"
-"Związane z nim zamierzenia również zostały zrealizowane\"."
+"\"Мэта дасягнута\n"
+" Зьвязаныя зь ёй намеры таксама рэалізаваныя.\""
 
 msgid "MISSION_FUTURECITY_MEDAL_1_IMPLEMENT_NAMEA"
-msgstr "Eksport"
+msgstr "Экспарт"
 
 msgid "MISSION_FUTURECITY_MEDAL_1_IMPLEMENT_NAMEB"
-msgstr "Import"
+msgstr "Імпарт"
 
 msgid "MISSION_FUTURECITY_MEDAL_1_IMPLEMENT_TASKA"
-msgstr "Wyeksportuj ${export_amount} jedn. towarów."
+msgstr "Экспартуй ${export_amount} адз. тавараў."
 
 msgid "MISSION_FUTURECITY_MEDAL_1_IMPLEMENT_TASKB"
-msgstr "Zaimportuj ${import_amount} jedn. towarów."
+msgstr "Імпартуй ${import_amount} адз. тавараў."
 
 msgid "MISSION_FUTURECITY_MEDAL_1_IMPLEMENT_TEXTA"
 msgstr ""
-"Odpowiadasz teraz za eksport towarów.\n"
-"Wymaga to od ciebie osiągnięcia odpowiednich celów."
+"Ты цяпер адказваеш за экспарт тавараў.\n"
+"Гэта патрабуе дасягненьня адпаведных мэтаў."
 
 msgid "MISSION_FUTURECITY_MEDAL_1_IMPLEMENT_TEXTB"
 msgstr ""
-"Odpowiadasz teraz za import towarów.\n"
-"Wymaga to od ciebie osiągnięcia odpowiednich celów."
+"Ты цяпер адказваеш за імпарт тавараў.\n"
+"Гэта патрабуе дасягненьня адпаведных мэтаў."
 
 msgid "MISSION_FUTURECITY_MEDAL_1_NAME"
-msgstr "Port morski"
+msgstr "Марскі порт"
 
 msgid "MISSION_FUTURECITY_MEDAL_1_TEXT"
 msgstr ""
-"Port morski Yangshan umożliwia import i eksport towarów.\n"
-"Istnieje możliwość świadczenia jednej z tych usług."
+"Марскі порт Янгшан дазваляе імпарт і экспарт тавараў.\n"
+"Існуе магчымасьць аказаньня адной з гэтых паслуг."
 
 msgid "MISSION_FUTURECITY_MEDAL_2_CAMPAIGNSCREENNAME"
-msgstr "Kontrola"
+msgstr "Кантроль"
 
 msgid "MISSION_FUTURECITY_MEDAL_2_FINISH_NAME"
-msgstr "Przegląd"
+msgstr "Агляд"
 
 msgid "MISSION_FUTURECITY_MEDAL_2_FINISH_TEXT"
 msgstr ""
-"Cel został osiągnięty.\n"
-"Mieszkańcy mogą być teraz monitorowani."
+"Мэта дасягнутая.\n"
+"За жыхарамі цяпер можна наглядаць."
 
 msgid "MISSION_FUTURECITY_MEDAL_2_IMPLEMENT_NAMEA"
-msgstr "Droga"
+msgstr "Дарога"
 
 msgid "MISSION_FUTURECITY_MEDAL_2_IMPLEMENT_NAMEB"
-msgstr "Stacja"
+msgstr "Станцыя"
 
 msgid "MISSION_FUTURECITY_MEDAL_2_IMPLEMENT_TASKA"
-msgstr "Utwórz korek o wartości ${trafficrating_formated}."
+msgstr "Ствары затор вартасьцю ${trafficrating_formated}."
 
 msgid "MISSION_FUTURECITY_MEDAL_2_IMPLEMENT_TASKB"
-msgstr "Utwórz zatłoczenie stacji na poziomie ${transportrating_formated}."
+msgstr "Ствары перагруз станцыі на ўзроўні ${transportrating_formated}."
 
 msgid "MISSION_FUTURECITY_MEDAL_2_IMPLEMENT_TEXTA"
-msgstr "Monitorowanie mieszkańców na drodze wymaga, aby prywatne samochody podróżowały wolniej."
+msgstr "Нагляданьне за жыхарамі на дарозе патрабуецца, каб прыватныя машыны рухаліся павольней."
 
 msgid "MISSION_FUTURECITY_MEDAL_2_IMPLEMENT_TEXTB"
 msgstr ""
-"Monitorowanie mieszkańców transportu publicznego wymaga, aby spędzali oni więcej czasu na "
-"przystankach."
+"Нагляданьне за жыхароў грамадзкага транспарту патрабуецца, каб яны праводзілі больш часу на "
+"\"прыпынках\"."
 
 msgid "MISSION_FUTURECITY_MEDAL_2_NAME"
-msgstr "Kontrola"
+msgstr "Кантроль"
 
 msgid "MISSION_FUTURECITY_MEDAL_2_TEXT"
 msgstr ""
-"Technologie związane z przemieszczaniem pozwalają rejestrować wzorce ruchu mieszkańców.\n"
-"Daje to możliwość monitorowania populacji miasta."
+"Тэхналёгіі, зьвязаныя зь перамяшчэньнем, дазваляюць рэгістраваць узоры руху жыхароў.\n"
+"Гэта дае магчымасьць наглядаць насельніцтва места."
 
 msgid "MISSION_FUTURECITY_MEDAL_3_CAMPAIGNSCREENNAME"
-msgstr "Oriental Pearl Tower"
+msgstr "Вежа \"Ўсходняя жамчужына\""
 
 msgid "MISSION_FUTURECITY_MEDAL_3_FINISH_NAME"
-msgstr "Budynek wzniesiony"
+msgstr "Будынак узьведзены"
 
 msgid "MISSION_FUTURECITY_MEDAL_3_FINISH_TEXT"
 msgstr ""
-"Cel został osiągnięty.\n"
-"Budowla została wzniesiona."
+"Мэта дасягнутая.\n"
+"Будоўля завершана."
 
 msgid "MISSION_FUTURECITY_MEDAL_3_IMPLEMENT_NAME"
-msgstr "Zbuduj wieżę"
+msgstr "Пабудуй вежу"
 
 msgid "MISSION_FUTURECITY_MEDAL_3_IMPLEMENT_SUB1"
-msgstr "Przewieź pracowników"
+msgstr "Дастаў працаўнікоў"
 
 msgid "MISSION_FUTURECITY_MEDAL_3_IMPLEMENT_TASK"
-msgstr "Konstrukcja wieży wymaga pracowników i materiałów budowlanych."
+msgstr "Будаўніцтва вежы патрабуе працаўнікоў і будаўнічых матэрыялаў."
 
 msgid "MISSION_FUTURECITY_MEDAL_3_IMPLEMENT_TEXT"
-msgstr "Budowa wymaga siły roboczej."
+msgstr "Будаўніцтва патрабуе рабочай сілы."
 
 msgid "MISSION_FUTURECITY_MEDAL_3_NAME"
-msgstr "Oriental Pearl Tower"
+msgstr "Вежа \"Ўсходняя жамчужына\""
 
 msgid "MISSION_FUTURECITY_MEDAL_3_TEXT"
 msgstr ""
-"Szanghaj potrzebuje nowego punktu orientacyjnego.\n"
-"Istnieje możliwość wzniesienia tej struktury."
+"Шанхай патрабуе новага пункту арыентацыі.\n"
+"Існуе магчымасьць узьвесьці гэтую структуру."
 
 msgid "MISSION_FUTURECITY_NAME"
-msgstr "Megamiasto"
+msgstr "Мэга-места"
 
 msgid "MISSION_FUTURECITY_PARAMS_CONMATPLANT"
-msgstr "Fabryka materiałów budowlanych w Nantong"
+msgstr "Завод будаўнічых матэрыялаў у Наньтуне"
 
 msgid "MISSION_FUTURECITY_PARAMS_EXPORT"
-msgstr "Port eksportowy w Szanghaju"
+msgstr "Порт экспарту ў Шанхаі"
 
 msgid "MISSION_FUTURECITY_PARAMS_FOODFACTORY"
-msgstr "Zakład przetwórstwa spożywczego w Suzhou"
+msgstr "Завод харчовай перапрацоўкі ў Сучжоў"
 
 msgid "MISSION_FUTURECITY_PARAMS_FUELREFINERY"
-msgstr "Rafineria paliwa w Jiaxing"
+msgstr "Нафтаперагонны завод ў Цьзясіне"
 
 msgid "MISSION_FUTURECITY_PARAMS_GOODSFACTORY"
-msgstr "Fabryka dóbr w Suzhou"
+msgstr "Завод тавараў у Сучжоў"
 
 msgid "MISSION_FUTURECITY_PARAMS_HANGZHOU"
-msgstr "Hangzhou"
+msgstr "Ханчжоў"
 
 msgid "MISSION_FUTURECITY_PARAMS_JIAXING"
-msgstr "Jiaxing"
+msgstr "Цьзясін"
 
 msgid "MISSION_FUTURECITY_PARAMS_MACHINESFACTORY"
-msgstr "Fabryka maszyn w Hangzhou"
+msgstr "Завод машын у Ханчжоў"
 
 msgid "MISSION_FUTURECITY_PARAMS_NANTONG"
-msgstr "Nantong"
+msgstr "Наньтун"
 
 msgid "MISSION_FUTURECITY_PARAMS_PEARLTOWER"
-msgstr "Oriental Pearl Tower"
+msgstr "Вежа \"Ўсходняя жамчужына\""
 
 msgid "MISSION_FUTURECITY_PARAMS_SHANGHAI"
-msgstr "Szanghaj"
+msgstr "Шанхай"
 
 msgid "MISSION_FUTURECITY_PARAMS_SUZHOU"
-msgstr "Suzhou"
+msgstr "Сучжоў"
 
 msgid "MISSION_FUTURECITY_PARAMS_TOOLSFACTORY"
-msgstr "Fabryka narzędzi w Jiaxing"
+msgstr "Завод прылад у Цьзясіне"
 
 msgid "MISSION_FUTURECITY_PARAMS_WUXI"
-msgstr "Wuxi"
+msgstr "Усі"
 
 msgid "MISSION_FUTURECITY_TASK_1_DECIDE_NAME"
-msgstr "Podejmowanie decyzji"
+msgstr "Прыняцьце рашэньняў"
 
 msgid "MISSION_FUTURECITY_TASK_1_DECIDE_OPTION1"
-msgstr "Skup się na samolotach"
+msgstr "Засяродзься на самалётах"
 
 msgid "MISSION_FUTURECITY_TASK_1_DECIDE_OPTION2"
-msgstr "Skup się na pociągach"
+msgstr "Засяродзься на цягніках"
 
 msgid "MISSION_FUTURECITY_TASK_1_DECIDE_TASK"
-msgstr "Podejmij decyzję"
+msgstr "Прыняць рашэньне"
 
 msgid "MISSION_FUTURECITY_TASK_1_DECIDE_TEXT"
 msgstr ""
-"Istnieją dwa sposoby poradzenia sobie z taką liczbą pasażerów.\n"
-"Pociągi lub samoloty."
+"Існуюць два спосабы справіцца з такой колькасьцю пасажыраў.\n"
+"Цягнікі або самалёты."
 
 msgid "MISSION_FUTURECITY_TASK_1_IMPLEMENT_NAME"
-msgstr "Zapewnianie usług"
+msgstr "Забесьпячэньне паслуг"
 
 msgid "MISSION_FUTURECITY_TASK_1_IMPLEMENT_SUB1"
-msgstr "Buduj lotniska"
+msgstr "Будуй лётнішчы"
 
 msgid "MISSION_FUTURECITY_TASK_1_IMPLEMENT_SUB2"
-msgstr "Dodawaj połączenia lotnicze"
+msgstr "Дадавай лініі пералётаў"
 
 msgid "MISSION_FUTURECITY_TASK_1_IMPLEMENT_SUB3"
-msgstr " Transportuj pasażerów samolotami"
+msgstr "Транспартуй пасажыраў самалётамі"
 
 msgid "MISSION_FUTURECITY_TASK_1_IMPLEMENT_SUB4"
-msgstr "Buduj dworce kolejowe"
+msgstr "Будуй чыгуначныя станцыі"
 
 msgid "MISSION_FUTURECITY_TASK_1_IMPLEMENT_SUB5"
-msgstr "Dodawaj linie kolejowe"
+msgstr "Дадавай чыгуначныя лініі"
 
 msgid "MISSION_FUTURECITY_TASK_1_IMPLEMENT_SUB6"
-msgstr "Transportuj pasażerów koleją"
+msgstr "Транспартуй пасажыраў чыгункай"
 
 msgid "MISSION_FUTURECITY_TASK_1_IMPLEMENT_TASK"
-msgstr "Spełnij wszystkie wymagania."
+msgstr "Выконвай усе патрабаваньні."
 
 msgid "MISSION_FUTURECITY_TASK_1_IMPLEMENT_TEXT"
 msgstr ""
-"Decyzja zapadła.\n"
-"Musisz się teraz skupić na budowie odpowiedniej infrastruktury i zapewnieniu niezbędnych usług."
+"Рашэньне прынята.\n"
+"Цяпер ты мусіш засяродзіцца на будаўніцтве адпаведнай інфраструктуры й забесьпячэньні неабходных "
+"паслуг."
 
 msgid "MISSION_FUTURECITY_TASK_1_NAME"
-msgstr "Transport dalekobieżny"
+msgstr "Транспарт далёкага накіраваньня"
 
 msgid "MISSION_FUTURECITY_TASK_1_TEXT"
 msgstr ""
-"Szanghaj, metropolia zamieszkana przez miliony, jest otoczona dzielnicami zamieszkanymi przez "
-"miliony.\n"
-"Zapotrzebowanie na mobilność wciąż rośnie.\n"
-"Podejmij niezbędne decyzje, aby rozwinąć transport dalekobieżny."
+"Шанхай, мэтраполія, населеная мільёнамі, акружаная раёнамі, дзе жывуць \"мільёны\".\n"
+"Патрэба ў мабільнасьці няспынна расьце.\n"
+"Прымі неабходныя рашэньні дзеля разьвіцьця транспарту далёкага накіраваньня."
 
 msgid "MISSION_FUTURECITY_TASK_2_DECIDE_NAME"
-msgstr "Podejmowanie decyzji"
+msgstr "Прыняцьце рашэньняў"
 
 msgid "MISSION_FUTURECITY_TASK_2_DECIDE_OPTION1"
-msgstr "Skup się na pojazdach prywatnych"
+msgstr "Засяродзься на прыватным транспарце"
 
 msgid "MISSION_FUTURECITY_TASK_2_DECIDE_OPTION2"
-msgstr "Skup się na transporcie publicznym"
+msgstr "Засяродзься на грамадзкім транспарце"
 
 msgid "MISSION_FUTURECITY_TASK_2_DECIDE_TASK"
-msgstr "Podejmij decyzję"
+msgstr "Прыняць рашэньне"
 
 msgid "MISSION_FUTURECITY_TASK_2_DECIDE_TEXT"
 msgstr ""
-"Istnieją dwa sposoby łączenia węzłów transportowych: pojazdy prywatne lub transport publiczny."
+"Існуюць два спосабы злучэньня транспартных вузлоў: прыватны транспарт або грамадзкі транспарт."
 
 msgid "MISSION_FUTURECITY_TASK_2_IMPLEMENT_NAME"
-msgstr "Zapewnianie usług"
+msgstr "Забесьпячэньне паслуг"
 
 msgid "MISSION_FUTURECITY_TASK_2_IMPLEMENT_SUB1"
-msgstr "Zbudowana autostrada (m)"
+msgstr "Пабудаваная аўтастрада (м)"
 
 msgid "MISSION_FUTURECITY_TASK_2_IMPLEMENT_SUB2"
-msgstr "Osiągnij wartość pojazdów prywatnych na poziomie"
+msgstr "Дасягні значэньня прыватнага транспарту на ўзроўні"
 
 msgid "MISSION_FUTURECITY_TASK_2_IMPLEMENT_SUB3"
-msgstr "Osiągnij wartość transportu publicznego na poziomie"
+msgstr "Дасягні значэньня грамадзкага транспарту на ўзроўні"
 
 msgid "MISSION_FUTURECITY_TASK_2_IMPLEMENT_SUB4"
-msgstr " Transportuj ludzi autobusami, tramwajami lub statkami"
+msgstr "Транспартуй людзей аўтобусамі, трамваямі або караблямі"
 
 msgid "MISSION_FUTURECITY_TASK_2_IMPLEMENT_TASK"
-msgstr "Spełnij wszystkie wymagania."
+msgstr "Выконвай усе патрабаваньні."
 
 msgid "MISSION_FUTURECITY_TASK_2_IMPLEMENT_TEXT"
 msgstr ""
-"Decyzja zapadła.\n"
-"Musisz się teraz skupić na budowie odpowiedniej infrastruktury i zapewnieniu niezbędnych usług."
+"Рашэньне прынята.\n"
+"Цяпер ты мусіш засяродзіцца на будаўніцтве адпаведнай інфраструктуры й забесьпячэньні неабходных "
+"паслуг."
 
 msgid "MISSION_FUTURECITY_TASK_2_NAME"
-msgstr "Połączenie"
+msgstr "Злучэньне"
 
 msgid "MISSION_FUTURECITY_TASK_2_TEXT"
 msgstr ""
-"Świetna robota.\n"
-"Transport dalekobieżny pomiędzy węzłami jest już zapewniony.\n"
-"Musisz teraz połączyć te węzły z lokalnymi punktami.\n"
-"Podejmij niezbędne decyzje dotyczące preferowanego środka transportu."
+"Цудоўная праца.\n"
+"Транспарт далёкага накіраваньня паміж вузламі ўжо забясьпечаны.\n"
+"Цяпер табе трэба злучыць гэтыя вузлы зь мясцовымі пунктамі.\n"
+"Прымі неабходныя рашэньні адносна пераважнага віду транспарту."
 
 msgid "MISSION_FUTURECITY_TASK_3_DECIDE_NAME"
-msgstr "Wybierz, na czym się skupisz"
+msgstr "Абяры, на чым засяродзіцца"
 
 msgid "MISSION_FUTURECITY_TASK_3_DECIDE_OPTION1"
-msgstr "Skup się na przemyśle"
+msgstr "Засяродзься на прамысловасьці"
 
 msgid "MISSION_FUTURECITY_TASK_3_DECIDE_OPTION2"
-msgstr "Skup się na biznesie"
+msgstr "Засяродзься на бізнэсе"
 
 msgid "MISSION_FUTURECITY_TASK_3_DECIDE_TASK"
-msgstr "Podejmij decyzję"
+msgstr "Прыняць рашэньне"
 
 msgid "MISSION_FUTURECITY_TASK_3_DECIDE_TEXT"
 msgstr ""
-"Istnieją dwa sposoby ukierunkowania rozwoju: skupienie się na operacjach przemysłowych lub "
-"komercyjnych."
+"Існуюць два спосабы накіраваньня разьвіцьця: засяродзіцца на прамысловых апэрацыях альбо "
+"гандлёвых."
 
 msgid "MISSION_FUTURECITY_TASK_3_IMPLEMENT_NAME"
-msgstr "Dostarcz dobra"
+msgstr "Дастаўляй тавары"
 
 msgid "MISSION_FUTURECITY_TASK_3_IMPLEMENT_SUB1"
-msgstr "Dostarcz maszyny"
+msgstr "Дастаўляй машыны"
 
 msgid "MISSION_FUTURECITY_TASK_3_IMPLEMENT_SUB2"
-msgstr "Dostarcz materiały budowlane"
+msgstr "Дастаўляй будаўнічыя матэрыялы"
 
 msgid "MISSION_FUTURECITY_TASK_3_IMPLEMENT_SUB3"
-msgstr "Dostarcz paliwo"
+msgstr "Дастаўляй паліва"
 
 msgid "MISSION_FUTURECITY_TASK_3_IMPLEMENT_SUB4"
-msgstr "Dostarcz żywność"
+msgstr "Дастаўляй ежу"
 
 msgid "MISSION_FUTURECITY_TASK_3_IMPLEMENT_SUB5"
-msgstr "Dostarcz narzędzia"
+msgstr "Дастаўляй прылады"
 
 msgid "MISSION_FUTURECITY_TASK_3_IMPLEMENT_SUB6"
-msgstr "Dostarcz dobra"
+msgstr "Дастаўляй тавары"
 
 msgid "MISSION_FUTURECITY_TASK_3_IMPLEMENT_TASK"
-msgstr "Spełnij wszystkie wymagania."
+msgstr "Выконвай усе патрабаваньні."
 
 msgid "MISSION_FUTURECITY_TASK_3_IMPLEMENT_TEXT"
 msgstr ""
-"Decyzja zapadła.\n"
-"Musisz teraz dostarczyć wymaganą ilość odpowiednich materiałów."
+"Рашэньне прынята.\n"
+"Цяпер табе трэба даставіць патрэбную колькасьць адпаведных матэрыялаў."
 
 msgid "MISSION_FUTURECITY_TASK_3_NAME"
-msgstr "Kontrola rozwoju"
+msgstr "Кантроль разьвіцьця"
 
 msgid "MISSION_FUTURECITY_TASK_3_TEXT"
 msgstr ""
-"Dobra robota.\n"
-"Węzły zostały połączone z lokalnymi sieciami transportu.\n"
-"Stymulowany przez to rozwój musi teraz zostać ukierunkowany.\n"
-"Podejmij niezbędne decyzje dotyczące przyszłych kluczowych branż."
+"Цудоўная праца.\n"
+"Вузлы злучаныя зь мясцовымі транспартнымі сеткамі.\n"
+"Гэта стымулюе разьвіцьцё, якое цяпер патрабуе накіраваньня.\n"
+"Прымі неабходныя рашэньні адносна будучых ключавых галін."
 
 msgid "MISSION_FUTURECITY_TASK_4_DECIDE_NAME"
-msgstr "Wybierz, na czym się skupisz"
+msgstr "Абяры, на чым засяродзіцца"
 
 msgid "MISSION_FUTURECITY_TASK_4_DECIDE_OPTION1"
-msgstr "Skup się na mieszkańcach"
+msgstr "Засяродзься на жыхарах"
 
 msgid "MISSION_FUTURECITY_TASK_4_DECIDE_OPTION2"
-msgstr "Skup się na przemyśle i biznesie"
+msgstr "Засяродзься на прамысловасьці й бізнэсе"
 
 msgid "MISSION_FUTURECITY_TASK_4_DECIDE_TASK"
-msgstr "Podejmij decyzję."
+msgstr "Прыняць рашэньне."
 
 msgid "MISSION_FUTURECITY_TASK_4_DECIDE_TEXT"
 msgstr ""
-"Istnieją dwa kierunki przyszłego rozwoju miasta: skupienie się na potrzebach mieszkańców lub "
-"skoncentrowanie się na potrzebach przemysłu i biznesu."
+"Існуюць два кірункі будучага разьвіцьця места: засяроджваньне на патрэбах жыхароў або на "
+"патрэбах прамысловасьці й бізнэсу."
 
 msgid "MISSION_FUTURECITY_TASK_4_IMPLEMENT_NAME"
-msgstr "Rozwój dzielnic"
+msgstr "Разьвіцьцё раёнаў"
 
 msgid "MISSION_FUTURECITY_TASK_4_IMPLEMENT_SUB1"
-msgstr "Osiągnij wielkość populacji na poziomie"
+msgstr "Дасягні велічыні насельніцтва на ўзроўні"
 
 msgid "MISSION_FUTURECITY_TASK_4_IMPLEMENT_SUB2"
-msgstr "Osiągnij określony rozmiar strefy przemysłowej i handlowej"
+msgstr "Дасягні вызначанага памеру прамысловых і гандлёвых зонаў"
 
 msgid "MISSION_FUTURECITY_TASK_4_IMPLEMENT_TASK"
-msgstr "Spełnij wszystkie wymagania."
+msgstr "Выконвай усе патрабаваньні."
 
 msgid "MISSION_FUTURECITY_TASK_4_IMPLEMENT_TEXT"
 msgstr ""
-"Decyzja zapadła.\n"
-"Wymaga ona rozwoju pewnych kluczowych wskaźników."
+"Рашэньне прынята.\n"
+"Гэта патрабуе разьвіцьця пэўных ключавых паказчыкаў."
 
 msgid "MISSION_FUTURECITY_TASK_4_NAME"
-msgstr "Planowanie miasta"
+msgstr "Плянаваньне места"
 
 msgid "MISSION_FUTURECITY_TASK_4_TEXT"
 msgstr ""
-"Dobra robota.\n"
-"Rozwój został ukierunkowany w pożądanym kierunku.\n"
-"Teraz musisz zaplanować przyszły rozwój miasta.\n"
-"Podejmij niezbędne decyzje dotyczące ścieżki, którą należy podążać."
+"Цудоўная праца.\n"
+"Разьвіцьцё накіравана ў патрэбны кірунак.\n"
+"Цяпер табе трэба сплянаваць будучае разьвіцьцё места.\n"
+"Прымі неабходныя рашэньні адносна дарогі, якой варта ісьці."
 
 msgid "MISSION_FUTURECITY_TASK_5_IMPLEMENT_NAME"
-msgstr "Osiąganie celów"
+msgstr "Дасягненьне мэтаў"
 
 msgid "MISSION_FUTURECITY_TASK_5_IMPLEMENT_SUB1"
-msgstr "Zarób"
+msgstr "Зарабі"
 
 msgid "MISSION_FUTURECITY_TASK_5_IMPLEMENT_SUB2"
-msgstr "Osiągnij wynik na poziomie"
+msgstr "Дасягні выніку на ўзроўні"
 
 msgid "MISSION_FUTURECITY_TASK_5_IMPLEMENT_TASK"
-msgstr "Spełnij wszystkie wymagania."
+msgstr "Выконвай усе патрабаваньні."
 
 msgid "MISSION_FUTURECITY_TASK_5_IMPLEMENT_TEXT"
-msgstr "Cele wymagają odpowiedniego rozwoju w wybranych kategoriach."
+msgstr "Мэты патрабуюць адпаведнага разьвіцьця ў выбраных катэгорыях."
 
 msgid "MISSION_FUTURECITY_TASK_5_NAME"
-msgstr "Osiągnij cele"
+msgstr "Дасягні мэтаў"
 
 msgid "MISSION_FUTURECITY_TASK_5_TEXT"
 msgstr ""
-"Dobra robota.\n"
-"Miasto rozwija się teraz zgodnie z pożądaną ścieżką.\n"
-"Musisz teraz osiągnąć wymagane cele.\n"
-"Opierają się one na podejmowanych przez ciebie dotychczas decyzjach."
+"Цудоўная праца.\n"
+"Места цяпер разьвіваецца згодна з абраным кірункам.\n"
+"Табе цяпер трэба дасягнуць неабходных мэтаў, якія залежаць ад прынятых раней рашэньняў."
 
 msgid "MISSION_FUTURECITY_TASK_FINISH_NAME"
-msgstr "Urbanizacja!"
+msgstr "Урбанізацыя!"
 
 msgid "MISSION_FUTURECITY_TASK_FINISH_TEXT"
 msgstr ""
-"Dobra robota.\n"
-"Oto masz przed sobą miasto przyszłości.\n"
-"Przestrzeń miejską ukształtowaną według twoich decyzji.\n"
-"Największe jak dotąd osiągnięcie w historii transportu!"
+"Цудоўная праца.\n"
+"Вось перад табою места будучыні.\n"
+"Гарадзкая прастора, сфармаваная паводле тваіх рашэньняў.\n"
+"Найбольшае дасягненьне ў гісторыі транспарту!"
 
 msgid "MISSION_HIGHLANDS_CAMPAIGNSCREEN"
 msgstr ""
@@ -14290,8 +14289,8 @@ msgstr "RA2"
 
 msgid "VEHICLE_MULTIPLEUNIT_RE_450_DESCRIPTION"
 msgstr ""
-"Re 450 – гэта цягнік з чатырохвосевым электрычным лёкаматывам, які часта выкарыстоўваецца "
-"нямецкімі чыгункамі S-Bahn. Лёкаматыў нават мае рэдка ўжываны багажны адсек."
+"Re 450 – гэта цягнік з чатырохвосевым электрычным лякамвам, які часта выкарыстоўваецца нямецкімі "
+"чыгункамі S-Bahn. Лякаматыў нават мае рэдка ўжываны багажны адсек."
 
 msgid "VEHICLE_MULTIPLEUNIT_RE_450_NAME"
 msgstr "Прыгарадны цягнік Re 450"
@@ -14783,14 +14782,14 @@ msgid "VEHICLE_TRAIN_A3_5_705_NAME"
 msgstr "A 3/5"
 
 msgid "VEHICLE_TRAIN_AE_4_7_DESCRIPTION"
-msgstr "Моцны швэйцарскі ўнівэрсальны лёкаматыў з прывадам Buchli."
+msgstr "Моцны швэйцарскі ўнівэрсальны лякамў з прывадам Buchli."
 
 msgid "VEHICLE_TRAIN_AE_4_7_NAME"
 msgstr "Ae 4/7"
 
 msgid "VEHICLE_TRAIN_ALCO_HH600_DESCRIPTION"
 msgstr ""
-"Сэрыя ALCO HH была раньняй сэрыяй дызэль-электрычных лёкаматываў, пабудаваных кампаніяй American "
+"Сэрыя ALCO HH была раньняй сэрыяй дызэль-электрычных лякамваў, пабудаваных кампаніяй American "
 "Locomotive Company (ALCO) у Скенэктады, Нью-Ёрк."
 
 msgid "VEHICLE_TRAIN_ALCO_HH600_NAME"
@@ -14798,7 +14797,7 @@ msgstr "ALCO HH 600"
 
 msgid "VEHICLE_TRAIN_ALCO_PA_DESCRIPTION"
 msgstr ""
-"Сэрыя Alco PA часта апісваецца як самая прыгожы й эстэтычны дызэльны лёкаматыў, калі-кольвек "
+"Сэрыя Alco PA часта апісваецца як самая прыгожы й эстэтычны дызэльны лякамў, калі-кольвек "
 "пабудаваны. P азначае «пасажырская», а A азначае «з кабінай машыніста»."
 
 msgid "VEHICLE_TRAIN_ALCO_PA_NAME"
@@ -14820,7 +14819,7 @@ msgstr "4-4-2 Atlantic"
 
 msgid "VEHICLE_TRAIN_BALDWIN_CLASS_56_DESCRIPTION"
 msgstr ""
-"«Consolidation» быў стандартным грузавым лёкаматывам і маг цягнуць удвая больш цяжкія саставы за "
+"«Consolidation» быў стандартным грузавым лякамвам і маг цягнуць удвая больш цяжкія саставы за "
 "палову кошту ў параўнаньні з папярэднікамі."
 
 msgid "VEHICLE_TRAIN_BALDWIN_CLASS_56_NAME"
@@ -14828,15 +14827,15 @@ msgstr "2-8-0 Baldwin Class 56"
 
 msgid "VEHICLE_TRAIN_BALDWIN_SIX_WHEELS_DESCRIPTION"
 msgstr ""
-"Гэты патройна-злучаны лёкаматыў быў распрацаваны Матхіясам Болдвінам у 1842 годзе. Яго мэтай "
-"было выкарыстаньне ўсёй вагі для перадачы магутнасьці."
+"Гэты патройна-злучаны лякамў быў распрацаваны Матхіясам Болдвінам у 1842 годзе. Яго мэтай было "
+"выкарыстаньне ўсёй вагі для перадачы магутнасьці."
 
 msgid "VEHICLE_TRAIN_BALDWIN_SIX_WHEELS_NAME"
 msgstr "Baldwin's Six-Wheels"
 
 msgid "VEHICLE_TRAIN_BIGBOY_DESCRIPTION"
 msgstr ""
-"Гэты злучаны лёкаматыў быў сапраўдным монстрам і выкарыстоўваў найноўшыя тэхналёгіі паравых "
+"Гэты злучаны лякамў быў сапраўдным монстрам і выкарыстоўваў найноўшыя тэхналёгіі паравых "
 "цягнікоў. Яна служыла галоўным чынам для буксіроўкі грузавых складаў."
 
 msgid "VEHICLE_TRAIN_BIGBOY_NAME"
@@ -14844,16 +14843,15 @@ msgstr "4-8-8-4 Big Boy"
 
 msgid "VEHICLE_TRAIN_BORSIG_1860_DESCRIPTION"
 msgstr ""
-"Кампанія Borsig вырабляла паравые лёкаматывы ў Бэрліне. Гэтая мадэль была вельмі прасунутай на "
-"той час, хоць яшчэ ня мела даху над кабінай."
+"Кампанія Borsig вырабляла паравые лякамвы ў Бэрліне. Гэтая мадэль была вельмі прасунутай на той "
+"час, хоць яшчэ ня мела даху над кабінай."
 
 msgid "VEHICLE_TRAIN_BORSIG_1860_NAME"
 msgstr "Borsig"
 
 msgid "VEHICLE_TRAIN_BR53_PREUS_G3_DESCRIPTION"
 msgstr ""
-"Патройна-злучаны грузавы лёкаматыў сярэдняй прапускной здольнасьці для Прускай дзяржаўнай "
-"чыгункі."
+"Патройна-злучаны грузавы лякамў сярэдняй прапускной здольнасьці для Прускай дзяржаўнай чыгункі."
 
 msgid "VEHICLE_TRAIN_BR53_PREUS_G3_NAME"
 msgstr "BR 53 preuss. G 3"
@@ -14867,17 +14865,16 @@ msgstr "BR 75.4 bad. VI c"
 
 msgid "VEHICLE_TRAIN_BR89_DESCRIPTION"
 msgstr ""
-"Патройна-злучаная танкавы цягнік без задніх восей. Адзін зь першых паравых лёкаматываў, "
-"пабудаваных паводле стандартаў."
+"Патройна-злучаная танкавы цягнік без задніх восей. Адзін зь першых паравых лякамваў, пабудаваных "
+"паводле стандартаў."
 
 msgid "VEHICLE_TRAIN_BR89_NAME"
 msgstr "BR 89 preuss. T 3"
 
 msgid "VEHICLE_TRAIN_BR_103_1_DESCRIPTION"
 msgstr ""
-"Цяжкі шасьцівосевы электрычны лёкаматыў для хуткасных пасажырскіх перавозак быў доўгі час "
-"візітнай карткай нямецкай чыгункі. У свой час ён быў самым магутным адначасткавым лёкаматывам у "
-"сьвеце."
+"Цяжкі шасьцівосевы электрычны лякамў для хуткасных пасажырскіх перавозак быў доўгі час візітнай "
+"карткай нямецкай чыгункі. У свой час ён быў самым магутным адначасткавым лякамвам у сьвеце."
 
 msgid "VEHICLE_TRAIN_BR_103_1_NAME"
 msgstr "BR 103.1"
@@ -14891,14 +14888,14 @@ msgid "VEHICLE_TRAIN_BR_185_TRAXX_NAME"
 msgstr "BR 185"
 
 msgid "VEHICLE_TRAIN_BR_218_DESCRIPTION"
-msgstr "Аднарухавіковы дызэльны лёкаматыў быў прызначаны для лініяў зь сярэднім рухам."
+msgstr "Аднарухавіковы дызэльны лякамў быў прызначаны для лініяў зь сярэднім рухам."
 
 msgid "VEHICLE_TRAIN_BR_218_NAME"
 msgstr "BR 218"
 
 msgid "VEHICLE_TRAIN_BR_246_TRAXX_DESCRIPTION"
 msgstr ""
-"У гэтым дызэльным лёкаматыве паліўны бак займае столькі ж мейсца, колькі трансфарматар у "
+"У гэтым дызэльным лякамве паліўны бак займае столькі ж мейсца, колькі трансфарматар у "
 "электрычнай вэрсіі."
 
 msgid "VEHICLE_TRAIN_BR_246_TRAXX_NAME"
@@ -14906,23 +14903,22 @@ msgstr "Сэрыя 246"
 
 msgid "VEHICLE_TRAIN_BR_E94_DESCRIPTION"
 msgstr ""
-"Гэты цяжкі шасьцівосеве электрычны лёкаматыў для грузавых перавозак меў назву «Нямецкі "
-"Кракадзіл»."
+"Гэты цяжкі шасьцівосеве электрычны лякамў для грузавых перавозак меў назву «Нямецкі Кракадзіл»."
 
 msgid "VEHICLE_TRAIN_BR_E94_NAME"
 msgstr "BR E 94"
 
 msgid "VEHICLE_TRAIN_C6_8_DESCRIPTION"
 msgstr ""
-"Швэйцарскі электрычны лёкаматыў быў створаны для цяжкіх грузавых цягнікоў на вітых лініях, такіх "
-"як чыгунка Готард. Назва «Кракадзіл» паходзіць ад падоўжанай канструкцыі й зялёнага колеру."
+"Швэйцарскі электрычны лякамў быў створаны для цяжкіх грузавых цягнікоў на вітых лініях, такіх як "
+"чыгунка Готард. Назва «Кракадзіл» паходзіць ад падоўжанай канструкцыі й зялёнага колеру."
 
 msgid "VEHICLE_TRAIN_C6_8_NAME"
 msgstr "Ce 6/8 II Crocodile"
 
 msgid "VEHICLE_TRAIN_CHINA_DF4B_DESCRIPTION"
 msgstr ""
-"Гэты лёкаматыў належыць да сэрыі DF4, найбольш распаўсюджанай у Кітаі для пасажырскіх і грузавых "
+"Гэты лякамў належыць да сэрыі DF4, найбольш распаўсюджанай у Кітаі для пасажырскіх і грузавых "
 "перавозак."
 
 msgid "VEHICLE_TRAIN_CHINA_DF4B_NAME"
@@ -14931,22 +14927,22 @@ msgstr "China Railways DF4B"
 msgid "VEHICLE_TRAIN_CHINA_DF5_DESCRIPTION"
 msgstr ""
 "Пасьля ўвядзеньня палепшанага рухавіку было ўдала пабудавана больш за 1000 адзінак гэтага "
-"лёкаматыву."
+"лякамву."
 
 msgid "VEHICLE_TRAIN_CHINA_DF5_NAME"
 msgstr "China Railways DF5"
 
 msgid "VEHICLE_TRAIN_CHINA_HXD3B_DESCRIPTION"
 msgstr ""
-"HXD3B — гэта грузавы лёкаматыў, які дзякуючы сваёй вялікай магутнасьці можа цягнуць цяжкія "
-"грузы. Ён абсталяваная халадзільнікам, мікрахвалевай печкай і туалетам."
+"HXD3B — гэта грузавы лякамў, які дзякуючы сваёй вялікай магутнасьці можа цягнуць цяжкія грузы. "
+"Ён абсталяваная халадзільнікам, мікрахвалевай печкай і туалетам."
 
 msgid "VEHICLE_TRAIN_CHINA_HXD3B_NAME"
 msgstr "China Railways HXD3B"
 
 msgid "VEHICLE_TRAIN_CHINA_JF1_DESCRIPTION"
 msgstr ""
-"Лёкаматыў быў ўведзены для паляпшэньня грузавых перавозак у Паўднёвай Маньчжурыі падчас Першай "
+"Лякаматыў быў ўведзены для паляпшэньня грузавых перавозак у Паўднёвай Маньчжурыі падчас Першай "
 "сусьветнай вайны."
 
 msgid "VEHICLE_TRAIN_CHINA_JF1_NAME"
@@ -14970,16 +14966,16 @@ msgstr "China Railways SS9G"
 
 msgid "VEHICLE_TRAIN_CLASS_9000_DESCRIPTION"
 msgstr ""
-"Гэты лёкаматывы аказаліся даволі пасьпяховымі, але іх абслугоўваньне было кашмарам з-за "
-"унутраных трох цыліндраў, якія рушалі другія восі."
+"Гэты лякамвы аказаліся даволі пасьпяховымі, але іх абслугоўваньне было кашмарам з-за унутраных "
+"трох цыліндраў, якія рушалі другія восі."
 
 msgid "VEHICLE_TRAIN_CLASS_9000_NAME"
 msgstr "4-12-2 Кляс 9000"
 
 msgid "VEHICLE_TRAIN_CLASS_PRR_GG1_DESCRIPTION"
 msgstr ""
-"Дзякуючы прыгожай, абцякальнай канструкцыі, лёкаматыў GG1 ня толькі выглядае выдатна, але й "
-"дасягаў высокіх хуткасьцяў, служыўшы на працягу многіх гадоў."
+"Дзякуючы прыгожай, абцякальнай канструкцыі, лякамў GG1 ня толькі выглядае выдатна, але й дасягаў "
+"высокіх хуткасьцяў, служыўшы на працягу многіх гадоў."
 
 msgid "VEHICLE_TRAIN_CLASS_PRR_GG1_NAME"
 msgstr "PRR-Кляс GG1"
@@ -14994,7 +14990,7 @@ msgstr "D 1/3"
 
 msgid "VEHICLE_TRAIN_DB_V100_DESCRIPTION"
 msgstr ""
-"Лёкаматыў з гідраўлічна-дызэльным прывадам быў створана для замены паравых лёкаматываў, якія "
+"Лякаматыў з гідраўлічна-дызэльным прывадам быў створана для замены паравых лякамваў, якія "
 "ўжываліся на нэлектрыфікаваных бакавых лініях."
 
 msgid "VEHICLE_TRAIN_DB_V100_NAME"
@@ -15002,8 +14998,8 @@ msgstr "BR V 100"
 
 msgid "VEHICLE_TRAIN_EMD_AEM_7_DESCRIPTION"
 msgstr ""
-"Гэты лёкаматыў выкарыстоўваў найноўшыя тэхналёгіі зь цяговымі рухавікамі, кіраванымі "
-"тырыстарамі, што забясьпечвала максымальную магутнасьць без прасьлізганьня колаў."
+"Гэты лякамў выкарыстоўваў найноўшыя тэхналёгіі зь цяговымі рухавікамі, кіраванымі тырыстарамі, "
+"што забясьпечвала максымальную магутнасьць без прасьлізганьня колаў."
 
 msgid "VEHICLE_TRAIN_EMD_AEM_7_NAME"
 msgstr "EMD AEM-7"
@@ -15011,7 +15007,7 @@ msgstr "EMD AEM-7"
 msgid "VEHICLE_TRAIN_EMD_GP9_NEW_DESCRIPTION"
 msgstr ""
 "Сэрыя GP9 ад кампаніі GM Electro-Motive Division была вялікім посьпехам і стала адной з найбольш "
-"пасьпяховых дызэльных лёкаматываў, якія калі-кольвек будаваліся."
+"пасьпяховых дызэльных лякамваў, якія калі-кольвек будаваліся."
 
 msgid "VEHICLE_TRAIN_EMD_GP9_NEW_NAME"
 msgstr "EMD GP 9"
@@ -15026,7 +15022,7 @@ msgstr "EMD SD40-2"
 
 msgid "VEHICLE_TRAIN_EURODUAL_DESCRIPTION"
 msgstr ""
-"Eurodual — гэта двайны лёкаматыў для пасажырскіх і грузавых перавозак. Ён можа працаваць на "
+"Eurodual — гэта двайны лякамў для пасажырскіх і грузавых перавозак. Ён можа працаваць на "
 "электрычным і на электра-дызэльным рухавіках, што дае гнуткае ўжываньне."
 
 msgid "VEHICLE_TRAIN_EURODUAL_NAME"
@@ -15034,15 +15030,15 @@ msgstr "Eurodual"
 
 msgid "VEHICLE_TRAIN_GENERAL_DESCRIPTION"
 msgstr ""
-"Гэты лёкаматыў «амэрыканскага» тыпу пасьпяхова выкарыстоўваўся на многіх чыгуначных лініях у ЗША "
-"й таксама вядомы зь фільме Бастэра Кітона «Генэрал»."
+"Гэты лякамў «амэрыканскага» тыпу пасьпяхова выкарыстоўваўся на многіх чыгуначных лініях у ЗША й "
+"таксама вядомы зь фільме Бастэра Кітона «Генэрал»."
 
 msgid "VEHICLE_TRAIN_GENERAL_NAME"
 msgstr "4-4-0 Генэрал"
 
 msgid "VEHICLE_TRAIN_GE_C40_8W_DESCRIPTION"
 msgstr ""
-"Гэты шасьцівосевыя дызэль-электрычны лёкаматыў быў пабудаваныя кампаніяй GE Transportation. Ён "
+"Гэты шасьцівосевыя дызэль-электрычны лякамў быў пабудаваныя кампаніяй GE Transportation. Ён "
 "адрозьніваецца ад Dash 8-40C шырэйшай кабінай бясьпекі."
 
 msgid "VEHICLE_TRAIN_GE_C40_8W_NAME"
@@ -15050,7 +15046,7 @@ msgstr "GE C40-8W"
 
 msgid "VEHICLE_TRAIN_GE_E60C_2_DESCRIPTION"
 msgstr ""
-"Мадэль зь сямейства электрычных і дызэль-электрычных лёкаматываў кампаніі Bombardier для "
+"Мадэль зь сямейства электрычных і дызэль-электрычных лякамваў кампаніі Bombardier для "
 "выкарыстаньня ў сярэдніх грузавых і пасажырскіх складаў."
 
 msgid "VEHICLE_TRAIN_GE_E60C_2_NAME"
@@ -15058,7 +15054,7 @@ msgstr "Ge E60C-2"
 
 msgid "VEHICLE_TRAIN_GE_P42_DC_DESCRIPTION"
 msgstr ""
-"Сэрыя GE Genesis зьяўляецца ўнікальнай сярод цяперашніх лёкаматываў, якія будуюцца ў Паўночнай "
+"Сэрыя GE Genesis зьяўляецца ўнікальнай сярод цяперашніх лякамваў, якія будуюцца ў Паўночнай "
 "Амэрыцы, паколькі гэтыя транспартныя сродкі асабліва лёгкія з-за канструкцыі цэльнага корпуса."
 
 msgid "VEHICLE_TRAIN_GE_P42_DC_NAME"
@@ -15066,23 +15062,23 @@ msgstr "GE P42 DC"
 
 msgid "VEHICLE_TRAIN_HEAVY_MIKADO_DESCRIPTION"
 msgstr ""
-"Мадэль «Mikado» быў найбольш распаўсюджаным грузавым лёкаматывам да канца паравой эры. У ЗША "
-"выкарыстоўвалася больш за 9500 такіх лёкаматываў."
+"Мадэль «Mikado» быў найбольш распаўсюджаным грузавым лякамвам да канца паравой эры. У ЗША "
+"выкарыстоўвалася больш за 9500 такіх лякамваў."
 
 msgid "VEHICLE_TRAIN_HEAVY_MIKADO_NAME"
 msgstr "2-8-2 Mikado"
 
 msgid "VEHICLE_TRAIN_HHP_8_DESCRIPTION"
 msgstr ""
-"HHP-8 азначае «High Horse Power 8000». Гэты электрычны лёкаматыў з падвойнай кабінай быў "
-"выраблены да ўжываньня ў сыстэмах Westrail і Maryland Area Regional Commuter."
+"HHP-8 азначае «High Horse Power 8000». Гэты электрычны лякамў з падвойнай кабінай быў выраблены "
+"да ўжываньня ў сыстэмах Westrail і Maryland Area Regional Commuter."
 
 msgid "VEHICLE_TRAIN_HHP_8_NAME"
 msgstr "HHP 8"
 
 msgid "VEHICLE_TRAIN_HIAWATHA_DESCRIPTION"
 msgstr ""
-"Гэтыя хуткія лёкаматывы «Atlantic» былі абсталяваныя палепшанымі аэрадынамічнымі ахоўнымі "
+"Гэтыя хуткія лякамвы «Atlantic» былі абсталяваныя палепшанымі аэрадынамічнымі ахоўнымі "
 "абцякальнікамі. Яны былі пабудаваны кампаніяй ALCO для буксіроўкі пасажырскіх цягнікоў Hiawatha "
 "на Milwaukee Road."
 
@@ -15100,9 +15096,9 @@ msgstr "Вагон-барысты Mark 3"
 
 msgid "VEHICLE_TRAIN_LNER_CLASS_A4_DESCRIPTION"
 msgstr ""
-"Хуткі паравы лёкаматыў чыгуначнай кампаніі London North Eastern Railway. 3ь ліпеня 1938 году "
-"лёкаматыў «4468 Mallard» усталяваў сусьветны рэкорд хуткасьці паравых лёкаматываў на ўзроўні "
-"201,2 км/г, які не быў пабіты да сёньняшняга дня."
+"Хуткі паравы лякамў чыгуначнай кампаніі London North Eastern Railway. 3ь ліпеня 1938 году лякамў "
+"«4468 Mallard» усталяваў сусьветны рэкорд хуткасьці паравых лякамваў на ўзроўні 201,2 км/г, які "
+"не быў пабіты да сёньняшняга дня."
 
 msgid "VEHICLE_TRAIN_LNER_CLASS_A4_NAME"
 msgstr "Кляс A4"
@@ -15118,8 +15114,8 @@ msgstr "Кляс A3 Flying Scotsman"
 
 msgid "VEHICLE_TRAIN_MILW_EP_2_DESCRIPTION"
 msgstr ""
-"Гэты лёкаматыщ, вядомы як «Bi-Polar», зьяўляецца адным з самых цікавых і складаных у гісторыі. "
-"Ён складаецца ажно з трох злучаных частак."
+"Гэты лякамщ, вядомы як «Bi-Polar», зьяўляецца адным з самых цікавых і складаных у гісторыі. Ён "
+"складаецца ажно з трох злучаных частак."
 
 msgid "VEHICLE_TRAIN_MILW_EP_2_NAME"
 msgstr "MILW-Кляс EP-2"
@@ -15141,7 +15137,7 @@ msgstr "M-300"
 
 msgid "VEHICLE_TRAIN_NEW_HAVEN_DESCRIPTION"
 msgstr ""
-"New Haven EP-5 быў электрычным лёкаматывам кампаніі General Electric. Першапачаткова ён ужыўвася "
+"New Haven EP-5 быў электрычным лякамвам кампаніі General Electric. Першапачаткова ён ужыўвася "
 "галоўным чынам на пасажырскім маршруце паміж Нью-Ёркам і Нью-Хэйвэнам."
 
 msgid "VEHICLE_TRAIN_NEW_HAVEN_NAME"
@@ -15149,28 +15145,28 @@ msgstr "New Haven EP5"
 
 msgid "VEHICLE_TRAIN_NOHAB_DESCRIPTION"
 msgstr ""
-"Гэты дызэльна-электрычны лёкаматыў был эўрапейскай ліцэнзійнай вэрсіяй амэрыканскага "
-"стандартнага лёкаматыва сэрыі F кампаніі GM."
+"Гэты дызэльна-электрычны лякамў был эўрапейскай ліцэнзійнай вэрсіяй амэрыканскага стандартнага "
+"лякамва сэрыі F кампаніі GM."
 
 msgid "VEHICLE_TRAIN_NOHAB_NAME"
 msgstr "NoHAB AA16"
 
 msgid "VEHICLE_TRAIN_OBB_1042_DESCRIPTION"
 msgstr ""
-"Сэрыя 1042 шырока ўжывалася электралёкаматывам чыгуначнага прадпрыемства Österreichische "
+"Сэрыя 1042 шырока ўжывалася электралякамвам чыгуначнага прадпрыемства Österreichische "
 "Bundesbahnen."
 
 msgid "VEHICLE_TRAIN_OBB_1042_NAME"
 msgstr "Сэрыя 1042"
 
 msgid "VEHICLE_TRAIN_PLM_220_DESCRIPTION"
-msgstr "Вельмі футурыстычная «Big C» зьяўляецца піянерам аэрадынамічных лёкаматываў."
+msgstr "Вельмі футурыстычная «Big C» зьяўляецца піянерам аэрадынамічных лякамваў."
 
 msgid "VEHICLE_TRAIN_PLM_220_NAME"
 msgstr "PLM 220"
 
 msgid "VEHICLE_TRAIN_RE_44I_DESCRIPTION"
-msgstr "Гэты лёгкі электрычны хуткасьнік быў першым лёкаматывам у Швэйцарыі, абсталяваным вазкамі."
+msgstr "Гэты лёгкі электрычны хуткасьнік быў першым лякамвам у Швэйцарыі, абсталяваным вазкамі."
 
 msgid "VEHICLE_TRAIN_RE_44I_NAME"
 msgstr "Re 4/4"
@@ -15189,7 +15185,7 @@ msgstr "CLe 2/4 Roter Pfeil"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_B_DESCRIPTION"
 msgstr ""
-"Лёкаматывы сэрыі B будаваліся ў Маскве. Іх асаблівасьцю быў паравы тэрмакампрэсар без рухомых "
+"Лякаматывы сэрыі B будаваліся ў Маскве. Іх асаблівасьцю быў паравы тэрмакампрэсар без рухомых "
 "частак, распрацаваны прадпрыемцам Аляксандрам Фрыдманам."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_B_NAME"
@@ -15197,7 +15193,7 @@ msgstr "Расейскі кляс B"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_CHS4_DESCRIPTION"
 msgstr ""
-"Лёкаматыў быў некалькі разоў палепшаны й перапраэктаваны, каб дасягнуць неабходнай прычэпнасьці. "
+"Лякаматыў быў некалькі разоў палепшаны й перапраэктаваны, каб дасягнуць неабходнай прычэпнасьці. "
 "Яго максымальная хуткасьць складала 200 км/г."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_CHS4_NAME"
@@ -15205,22 +15201,22 @@ msgstr "Расейскі кляс CHS4"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_FD_DESCRIPTION"
 msgstr ""
-"Плянаваньне гэтага лёкаматыва заняло ўсяго 100 дзён, а сярэдні час будаўніцтву складаў 170 дзён."
+"Плянаваньне гэтага лякамва заняло ўсяго 100 дзён, а сярэдні час будаўніцтву складаў 170 дзён."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_FD_NAME"
 msgstr "Расейскі кляс FD"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_F_FAIRLIE_DESCRIPTION"
 msgstr ""
-"Найбольш характэрнай асаблівасьцю гэтага паравога лёкаматыва зьяўляецца яго сымэтрыя. Яна "
-"выдатна падыходзіць для складаных маршрутаў з вузкімі паваротамі й стромкімі пад’ёмамі."
+"Найбольш характэрнай асаблівасьцю гэтага паравога лякамва зьяўляецца яго сымэтрыя. Яна выдатна "
+"падыходзіць для складаных маршрутаў з вузкімі паваротамі й стромкімі пад’ёмамі."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_F_FAIRLIE_NAME"
 msgstr "Расейскі кляс F Fairlie"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_GV_DESCRIPTION"
 msgstr ""
-"Лёкаматыў быў набыты для грузавых перавозак на лініі з Санкт-Пецярбургу да Варшавы. Першая "
+"Лякаматыў быў набыты для грузавых перавозак на лініі з Санкт-Пецярбургу да Варшавы. Першая "
 "мадэль была пабудаваная на заводах у Англіі, Францыі, Бэльгіі й Аўстрыі."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_GV_NAME"
@@ -15228,7 +15224,7 @@ msgstr "Расейскі кляс GV"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_L_DESCRIPTION"
 msgstr ""
-"Гэты магутны тып 1-5-0 быў адным з самых надзейных і папулярных лёкаматываў у Радавым Зьвязе. У "
+"Гэты магутны тып 1-5-0 быў адным з самых надзейных і папулярных лякамваў у Радавым Зьвязе. У "
 "ўжытку знаходзілася больш за 4000 адзінак."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_L_NAME"
@@ -15236,7 +15232,7 @@ msgstr "Расейскі кляс L"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_OB_DESCRIPTION"
 msgstr ""
-"Основной» — гэта першы паравоз, які стаў галоўным лёкаматывам расейскага чыгуначнага флёту. У "
+"Основной» — гэта першы паравоз, які стаў галоўным лякамвам расейскага чыгуначнага флёту. У "
 "пэрыяд з 1890 па 1915 год было выраблена больш за 9000 адзінак на 12 розных заводах."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_OB_NAME"
@@ -15244,7 +15240,7 @@ msgstr "Расейскі кляс OB"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_P36_DESCRIPTION"
 msgstr ""
-"Гэты лёкаматыў зьяўляецца вышынёй дасягненьняў у галіне будаўніцтву радавых цягнікоў. Яна мае "
+"Гэты лякамў зьяўляецца вышынёй дасягненьняў у галіне будаўніцтву радавых цягнікоў. Яна мае "
 "мноства інавацыйных рашэньняў, у тым ліку мэханічны падавальнік вугалю."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_P36_NAME"
@@ -15252,7 +15248,7 @@ msgstr "Расейскі кляс P36"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_PV_DESCRIPTION"
 msgstr ""
-"Лёкаматывы гэтай сэрыі вырабляліся ў Каломенскім заводзе на базе лёкаматыва Brosig. Пазьнейшыя "
+"Лякаматывы гэтай сэрыі вырабляліся ў Каломенскім заводзе на базе лякамва Brosig. Пазьнейшыя "
 "мадэлі былі абсталяваныя рэвалюцыйнымі тармазамі Westinghouse."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_PV_NAME"
@@ -15261,7 +15257,7 @@ msgstr "Расейскі кляс PV"
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_SCH_DESCRIPTION"
 msgstr ""
 "Рост колькасьці грузавых цягнікоў у канцы XIX стагодзьдзя прывёў да таго, што пасьля закупкі "
-"лёкаматываў у ЗША было прынята рашэньне аб будаўніцтве такога тыпу лёкаматываў у Харкаве."
+"лякамваў у ЗША было прынята рашэньне аб будаўніцтве такога тыпу лякамваў у Харкаве."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_SCH_NAME"
 msgstr "Расейскі кляс SCH"
@@ -15276,7 +15272,7 @@ msgstr "Расейскі кляс SU"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_S_DESCRIPTION"
 msgstr ""
-"На пачатку XX стагодзьдзя запасы вугалю высокай якасьці былі невялікія. Лёкаматыў быў "
+"На пачатку XX стагодзьдзя запасы вугалю высокай якасьці былі невялікія. Лякаматыў быў "
 "распрацаваны такім чынам, каб яго можна было ладаваць таксама горшым вугалём."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_S_NAME"
@@ -15284,7 +15280,7 @@ msgstr "Расейскі кляс S"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_TE3_DESCRIPTION"
 msgstr ""
-"У 60-х гадах XX стагодзьдзя мадэль TE3 была галоўным грузавым лёкаматывам на ўсіх не "
+"У 60-х гадах XX стагодзьдзя мадэль TE3 была галоўным грузавым лякамвам на ўсіх не "
 "электрыфікаваных маршрутах."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_TE3_NAME"
@@ -15292,7 +15288,7 @@ msgstr "Расейскі кляс TE3"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_T_TYPE1_DESCRIPTION"
 msgstr ""
-"Лёкаматывы сэрыі T былі вельмі распаўсюджаныя. Першапачаткова яны будаваліся без кабіны "
+"Лякаматывы сэрыі T былі вельмі распаўсюджаныя. Першапачаткова яны будаваліся без кабіны "
 "машыніста, але пазьней былі палепшаны для заховы экіпажу ў неспрыяльных умовах надвор'я."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_T_TYPE1_NAME"
@@ -15300,7 +15296,7 @@ msgstr "Расейскі кляс T, тып 1"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_VL80S_DESCRIPTION"
 msgstr ""
-"Сэрыя VL80, якая выпускалася на працягу 33 гадоў, лічыцца лёкаматывам з найдаўжэйшым пэрыядам "
+"Сэрыя VL80, якая выпускалася на працягу 33 гадоў, лічыцца лякамвам з найдаўжэйшым пэрыядам "
 "вытворчасьці ў ЗРСР. У ранніх мадэлях выкарыстоўваўся ртутны выпрамнік, пазьней заменены на "
 "крамянёвы."
 
@@ -15309,7 +15305,7 @@ msgstr "Расейскі кляс VL80S"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_V_TYPE1_DESCRIPTION"
 msgstr ""
-"Лёкаматыў тыпу 2-2-0 выкарыстоўвалася як пасажырскі лёкаматыў на маршруце Санкт-Пецярбургу - "
+"Лякаматыў тыпу 2-2-0 выкарыстоўвалася як пасажырскі лякамў на маршруце Санкт-Пецярбургу - "
 "Масква. Вялікія вядучыя колы забясьпечвалі высокую хуткасьць."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_V_TYPE1_NAME"
@@ -15318,7 +15314,7 @@ msgstr "Расейскі кляс V, тып 1"
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_YE_DESCRIPTION"
 msgstr ""
 "Падчас Першай і Другой сусьветных войнаў у ЗША было пабудавана больш за 3000 адзінак гэтых "
-"лёкаматываў для Расеі й Радавага Зьвязу. Яна была распрацаваная расейскімі інжынэрамі."
+"лякамваў для Расеі й Радавага Зьвязу. Яна была распрацаваная расейскімі інжынэрамі."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_YE_NAME"
 msgstr "Расейскі кляс YE"
@@ -15333,7 +15329,7 @@ msgstr "Рэйкавы аўтобус"
 
 msgid "VEHICLE_TRAIN_TEN_WHEELER_DESCRIPTION"
 msgstr ""
-"Мадэль гэтай грузавога й пасажырскага лёкаматыву вёў Кейсі Джонс у ноч сьмяротнай катастрофы 30 "
+"Мадэль гэтай грузавога й пасажырскага лякамву вёў Кейсі Джонс у ноч сьмяротнай катастрофы 30 "
 "красавіка 1900 году. Дзякуючы свайму гераічнаму паводзінам машыніст сёньня лічыцца героем."
 
 msgid "VEHICLE_TRAIN_TEN_WHEELER_NAME"
@@ -15373,8 +15369,7 @@ msgstr "CAF Urbos 3"
 
 msgid "VEHICLE_TRAM_DAMPFTRAM_DESCRIPTION"
 msgstr ""
-"Двухвосевы лёкаматыў паравога трамваю, якая выкарыстоўвалася, напрыклад, як «паравы трамвай» у "
-"Вене."
+"Двухвосевы лякамў паравога трамваю, якая выкарыстоўвалася, напрыклад, як «паравы трамвай» у Вене."
 
 msgid "VEHICLE_TRAM_DAMPFTRAM_NAME"
 msgstr "Dampftram"
@@ -15414,7 +15409,7 @@ msgstr "Іван"
 msgid "VEHICLE_TRAM_KOLOMNA_DESCRIPTION"
 msgstr ""
 "Першы транспартны сродак, выраблены на заводах Kolomna Locomotive Works, быў грузавой паравы "
-"лёкаматыў."
+"лякамў."
 
 msgid "VEHICLE_TRAM_KOLOMNA_NAME"
 msgstr "Kolomna"

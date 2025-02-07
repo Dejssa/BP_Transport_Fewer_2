@@ -836,7 +836,7 @@ msgid "Camera tool: Clear keyframes"
 msgstr "Прылада камэры: Выдаліць ключавыя кадры"
 
 msgid "Camera tool: Load"
-msgstr "Прылада камэры: Загрузіць"
+msgstr "Прылада камэры: Счытаць"
 
 msgid "Camera tool: Pause"
 msgstr "Прылада камэры: Прыпыніць"
@@ -2603,46 +2603,46 @@ msgid "Load"
 msgstr "Загрузіць"
 
 msgid "Load Camera config"
-msgstr "Загрузіць налады камэры"
+msgstr "Счытаць налады камэры"
 
 msgid "Load Game"
-msgstr "Загрузіць гульню"
+msgstr "Счытаць гульню"
 
 msgid "Load Map"
-msgstr "Загрузіць мапу"
+msgstr "Счытаць мапу"
 
 msgid "Load a map"
-msgstr "Загрузіць мапу"
+msgstr "Счытаць мапу"
 
 msgid "Load an existing game"
-msgstr "Загрузіць існуючую гульню"
+msgstr "Счытаць існуючую гульню"
 
 msgid "Load an existing map"
-msgstr "Загрузіць існуючую мапу"
+msgstr "Счытаць існуючую мапу"
 
 msgid "Load game"
-msgstr "Загрузіць гульню"
+msgstr "Счытаць гульню"
 
 msgid "Load if available"
 msgstr "Загруджаць, калі магчыма"
 
 msgid "Load key frames"
-msgstr "Загрузіць ключавы кадр"
+msgstr "Счытаць ключавы кадр"
 
 msgid "Load map"
-msgstr "Загрузіць мапу"
+msgstr "Счытаць мапу"
 
 msgid "Load mod preset"
-msgstr "Загруць нарыхтоўку мадыфікацый"
+msgstr "Счытаць нарыхтоўку мадыфікацый"
 
 msgid "Load presets"
-msgstr "Загрузіць нарыхтоўку"
+msgstr "Счытаць нарыхтоўку"
 
 msgid "Load savegame?"
-msgstr "Загрузіць гульню?"
+msgstr "Счытаць гульню?"
 
 msgid "Load the map"
-msgstr "Загрузіць мапу"
+msgstr "Счытаць мапу"
 
 msgid "Loaded"
 msgstr "Загруджанны"
@@ -3687,7 +3687,7 @@ msgid "Relative mode"
 msgstr "Рэжым адноснасьці"
 
 msgid "Reload all textures?"
-msgstr "Перазагрузіць усе тэкстуры?"
+msgstr "Перасчытаць усе тэкстуры?"
 
 msgid "Relocate"
 msgstr "Перасунуць"
@@ -4361,7 +4361,7 @@ msgid ""
 "Some DLCs and/or mods could not be found. Please install them first in order "
 "to load this savegame."
 msgstr ""
-"Некаторы Сьцягваемы Зьмест ня можа быць знойдзены. Каб загрузіць гэтае "
+"Некаторы Сьцягваемы Зьмест ня можа быць знойдзены. Каб счытаць гэтае "
 "захаваньне, вы мусіце спачатку ўсталяваць іх."
 
 msgid "Some cargo items are lost because station is overloaded."
@@ -5050,7 +5050,7 @@ msgid ""
 "Unable to load. The current save contains content that is not included in "
 "your version."
 msgstr ""
-"Немагчыма загрузіць. Бягучае захаваньне зьмяшчае зьмесьціва, якое не "
+"Немагчыма cчытаць. Бягучае захаваньне зьмяшчае зьмесьціва, якое не "
 "ўключана ў вашу версію."
 
 msgid "Unconnected streets"
