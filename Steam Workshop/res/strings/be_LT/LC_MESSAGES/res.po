@@ -14518,7 +14518,7 @@ msgid "Total earnings"
 msgstr "Агульны заробак"
 
 msgid "Town names"
-msgstr "Назвы мест"
+msgstr "Назвы местаў"
 
 msgid "Town statistics"
 msgstr "Статыстыкі места"

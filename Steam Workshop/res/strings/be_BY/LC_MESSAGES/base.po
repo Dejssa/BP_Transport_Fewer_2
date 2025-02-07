@@ -4882,7 +4882,7 @@ msgid "Town growth"
 msgstr "Развіцьцё места"
 
 msgid "Town names:"
-msgstr "Назвы мест:"
+msgstr "Назвы местаў:"
 
 msgid "Town statistics"
 msgstr "Статыстыка места"
