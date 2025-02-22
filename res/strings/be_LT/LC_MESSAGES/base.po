@@ -1,0 +1,6403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TransportFever\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-12-04 13:15+0300\n"
+"Last-Translator: Alaksiej (Dejssa)\n"
+"Language-Team: Dejssa\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "  - activate your dedicated graphics card (if available)"
+msgstr " - pieraklučyciesia na vydzielenuiu hrafičnuiu kartku, kali takaia maiecca"
+
+msgid "  - install the latest graphics drivers"
+msgstr " - ustalujcie najnoŭšyia hrafičnyia drajviery"
+
+msgid " (terminal %1%)"
+msgstr " (terminał %1%)"
+
+msgid " + "
+msgstr " + "
+
+msgid " or "
+msgstr " albo  "
+
+msgid "%1% - %2%"
+msgstr "%1% – %2%"
+
+msgid "%1% Destinations"
+msgstr "Napramki: %1%"
+
+msgid "%1% Vehicle"
+msgid_plural "%1% Vehicles"
+msgstr[0] "Transpart: %1%"
+msgstr[1] "Transpart: %1%"
+msgstr[2] "Transpart: %1%"
+
+msgid "%1% Vehicle selected"
+msgid_plural "%1% Vehicles selected"
+msgstr[0] "Vybrany transpart.: %1%"
+msgstr[1] "Vybrany transpart.: %1%"
+msgstr[2] "Vybrany transpart.: %1%"
+
+msgid "%1% capacity"
+msgstr "Iomistaść: %1%"
+
+msgid "%1% day"
+msgid_plural "%1% days"
+msgstr[0] "%1% dzień"
+msgstr[1] "%1% dzion"
+msgstr[2] "%1% dzion"
+
+msgid "%1% industry"
+msgid_plural "%1% industries"
+msgstr[0] "Pramysłovaść: %1%"
+msgstr[1] "Pramysłovaści: %1%"
+msgstr[2] "Pramysłovaści: %1%"
+
+msgid "%1% is on its way to heaven."
+msgstr "%1% nakiravany da nieba."
+
+msgid "%1% mod available"
+msgid_plural "%1% mods available"
+msgstr[0] "Dastupna madyfikacyia: %1%"
+msgstr[1] "Dastupny madyfikacyi: %1%"
+msgstr[2] "Dastupny madyfikacyi: %1%"
+
+msgid "%1% mod enabled"
+msgid_plural "%1% mods enabled"
+msgstr[0] "Uklučana madyfikacyia: %1%"
+msgstr[1] "Uklučany madyfikacyi: %1%"
+msgstr[2] "Uklučany madyfikacyi: %1%"
+
+msgid "%1% month"
+msgid_plural "%1% months"
+msgstr[0] "%1% miesiac"
+msgstr[1] "%1% miesiacy"
+msgstr[2] "%1% miesiacy"
+
+msgid "%1% per vehicle"
+msgstr "%1%/transpart"
+
+msgid "%1% signal will be removed"
+msgid_plural "%1% signals will be removed"
+msgstr[0] "Syhnał %1% budzie vydaleny"
+msgstr[1] "Syhnałaŭ budzie vydalena: %1%"
+msgstr[2] "Syhnałaŭ budzie vydalena: %1%"
+
+msgid "%1% stop will be removed"
+msgid_plural "%1% stops will be removed"
+msgstr[0] "Prypynak %1% budzie vydaleny"
+msgstr[1] "Prypynkaŭ budzie vydalena: %1%"
+msgstr[2] "Prypynkaŭ budzie vydalena: %1%"
+
+msgid "%1% town"
+msgid_plural "%1% towns"
+msgstr[0] "Miesta: %1%"
+msgstr[1] "Miesty: %1%"
+msgstr[2] "Miesty: %1%"
+
+msgid "%1% variant"
+msgid_plural "%1% variants"
+msgstr[0] "varyiant: %1%"
+msgstr[1] "varyianty: %1%"
+msgstr[2] "varyianty: %1%"
+
+msgid "%1% year"
+msgid_plural "%1% years"
+msgstr[0] "%1% hod"
+msgstr[1] "%1% hady"
+msgstr[2] "%1% hady"
+
+msgid "%1%, %2%"
+msgstr "%1%, %2%"
+
+msgid "%1%/m²"
+msgstr "%1%/m²"
+
+msgid "%1%/year"
+msgstr "%1%/hod"
+
+msgid "%1%: %2%"
+msgstr "%1%: %2%"
+
+msgid "%1%: %2% (in %3% or %4%)"
+msgstr "%1%: %2% (u %3% abo %4%)"
+
+msgid "%1%m to %2%m"
+msgstr "%1% m da %2% m"
+
+msgid "%d"
+msgstr "%d"
+
+msgid "%d Year"
+msgid_plural "%d Years"
+msgstr[0] "%d hod"
+msgstr[1] "%d hady"
+msgstr[2] "%d hady"
+
+msgid "%d for having a fast vehicle"
+msgstr "%d za šybki transpart"
+
+msgid "%d for having a profit of at least $10M"
+msgstr "%d za prybytak minimum 10 młn. $"
+
+msgid "%d for having a very long vehicle"
+msgstr "%d za doŭhi transpart"
+
+msgid "%d for having transported at least 100000 passengers"
+msgstr "%d puntaŭ za transparciroŭku minimum 100 000 pasažyraŭ"
+
+msgid "%d for having transported at least 100000 units of cargo"
+msgstr "%d puntaŭ za transparciroŭku minimum 100 000 adzinak tavaru"
+
+msgid "%d for high-speed rail network"
+msgstr "%d puntaŭ za sietku vysakachutkasnaj čyhunki"
+
+msgid "%d for rail network bridges"
+msgstr "%d puntaŭ za masty čyhunačnaj sietki"
+
+msgid "%d for rail network electrification"
+msgstr "%d puntaŭ za elektryfikacyiu čyhunačnaj sietki"
+
+msgid "%d for rail network length"
+msgstr "%d puntaŭ za daŭžyniu čyhunačnaj sietki"
+
+msgid "%d for rail network tunnels"
+msgstr "%d puntaŭ za tuneli čyhunačnaj sietki"
+
+msgid "%d point(s) for company value"
+msgstr "%d punktaŭ za košt kampanii"
+
+msgid "%d point(s) for having more than 10 trains"
+msgstr "%d punktaŭ za maiomaść bolš za 10 ciahnikoŭ"
+
+msgid "%d point(s) for having more than 100 road vehicles"
+msgstr "%d punktaŭ za maiomaść bolš za 100 adzinak darožnaha transpartu"
+
+msgid "%d point(s) for having more than 20 trams"
+msgstr "%d punktaŭ za maiomaść bolš za 20 tramvaiaŭ"
+
+msgid "%d point(s) for having more than 5 aircraft"
+msgstr "%d punktaŭ za maiomaść bolš za 5 samalotaŭ"
+
+msgid "%d point(s) for having more than 5 ships"
+msgstr "%d punktaŭ za maiomaść bolš za 5 karabloŭ"
+
+msgid "%d point(s) for maximum vehicle age"
+msgstr ""
+"%d punktaŭ za maiomaść transpartam, iaki dasiahnuŭ maksimalnaha ŭzrostu"
+
+msgid "'{otherAction}': [{otherCombo}]"
+msgstr "'{otherAction}': [{otherCombo}]"
+
+msgid "(%1% compartment)"
+msgid_plural "(%1% compartments)"
+msgstr[0] "(%1% adsiek)"
+msgstr[1] "(%1% adsiekaŭ)"
+msgstr[2] "(%1% adsiekaŭ)"
+
+msgid "(+ Early Supporter content)"
+msgstr "(+ Źmiest raniašniaha padtrymščyku)"
+
+msgid "(+ Pre-order content)"
+msgstr "(+ Źmiest pierad. zamoŭcy)"
+
+msgid "(No target)"
+msgstr "(Brak celi)"
+
+msgid "(stopped)"
+msgstr "(zatrymany)"
+
+msgid "-"
+msgstr "-"
+
+msgid "---"
+msgstr "---"
+
+msgid "."
+msgstr "."
+
+msgid "... insert code"
+msgstr "... uvieści kod"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "125%"
+msgstr "125%"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "16-bit grayscale"
+msgstr "16-bitavaia škała adcieńniaŭ šeraha"
+
+msgid "175%"
+msgstr "175%"
+
+msgid "1:1"
+msgstr "1:1"
+
+msgid "1:2"
+msgstr "1:2"
+
+msgid "1:3"
+msgstr "1:3"
+
+msgid "1:4"
+msgstr "1:4"
+
+msgid "1:5"
+msgstr "1:5"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "2x"
+msgstr "2x"
+
+msgid "3D"
+msgstr "3D"
+
+msgid "4x"
+msgstr "4x"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "< 0"
+msgstr "<0"
+
+msgid "<unknown artist>"
+msgstr "<nieviadomy vykanaŭca>"
+
+msgid "<unknown title>"
+msgstr "<nieviadomaia nazva>"
+
+msgid ">5000 years"
+msgstr "> 5000 hadoŭ"
+
+msgid ">= 0"
+msgstr ">= 0"
+
+msgid "A game update is required to load this savegame."
+msgstr "Dla zahruzki hetaj zachavańnia patrabuiecca abnaŭleńnie."
+
+msgid "A grieving day"
+msgstr "Dzień smutku"
+
+msgid "A new mod will be created on {backend}."
+msgstr "Budzie stvorana novaia madyfikacyia ({backend})."
+
+msgid "A one-way street can't have stops or waypoints on both sides"
+msgstr ""
+"Vulica z adnabakovym rucham nia moža mieć prypynkaŭ abo maršrutnych punktaŭ z "
+"abodvuch bakoŭ"
+
+msgid ""
+"A path has been found, but one or more sections of the path are not "
+"electrified. The vehicle requires electrification. Use the electrification "
+"tool to modify the sections."
+msgstr ""
+"Maršrut znojdzieny, ale adzin ci niekalki ŭčastkaŭ nie elektryfikavany. "
+"Transpart patrabuie elektryfikacyi. Skarystajciesia pryładami elektryfikacyi, "
+"kab źmianić hetyia ŭčastki."
+
+msgid ""
+"A path has been found, but one or more sections of the path do not have tram "
+"tracks. The vehicle requires tram tracks. Use the tram track tool to modify "
+"the sections."
+msgstr ""
+"Maršrut znojdzieny, ale na adnym abo niekalkich učastkach adsutničaiuć "
+"tramvajnyia rejki. Transpart patrebuie tramvajnyia rejki. Skarystajciesia "
+"poładami tramvajnaj rejki, kab źmianić hetyia ŭčastki."
+
+msgid ""
+"A path has been found, but only small aircraft are allowed on this path. "
+"Consider using small aircraft or large airports."
+msgstr ""
+"Maršrut znojdzieny, ale im mohuć karystacca tolki maleńkiia samaloty. "
+"Skarystajciesia maleńkimi samalotami abo vialikimi lotniščami."
+
+msgid ""
+"A path has been found, but only small ships are allowed on this path. "
+"Consider using small ships or large docks."
+msgstr ""
+"Maršrut znojdzieny, ale im mohuć karystacca tolki małyia karabli. "
+"Skarystajciesia małymi karablami abo vialikimi partami."
+
+msgid "A station appears consecutively twice"
+msgstr "Stancyia z'iaŭlaiecca dvojčy zapar"
+
+msgid "AGC"
+msgstr "AGC"
+
+msgid ""
+"Abandoned industry! Closes forever and disappears from the map if not "
+"operational within %1%"
+msgstr ""
+"Zakinuta pramysłovaść! Ana budzie začynieny nazaŭždy j źniknie z mapy, kali "
+"nie pačnie pracavać na praciahu %1%"
+
+msgid "Abandoned industry! Closes in %1%."
+msgstr "Zakinuta pramysłovaść! Ana začynicca praz %1%."
+
+msgid "Abort"
+msgstr "Admova"
+
+msgid "Accept"
+msgstr "Pryniać"
+
+msgid "Accept!"
+msgstr "Pryniać!"
+
+msgid "Account"
+msgstr "Rachunak"
+
+msgid ""
+"Accumulate a fortune of 1 billion (without debt) in free game with hard mode."
+msgstr ""
+"Nabudźcie dabrabytu ab 1 miliardzie (biez pazyk) u volnaj hulnie, ciažki režym."
+
+msgid "Accumulate a fortune of 1 billion (without debt) in free game."
+msgstr "Nabudźcie dabrabytu ab 1 miliardzie (biez pazyk) u volnaj hulnie."
+
+msgid "Accumulate a fortune of 1 million (without debt) in free game."
+msgstr "Nabudźcie dabrabytu ab 1 milionie (biez pazyk) u volnaj hulnie."
+
+msgid "Accumulate a fortune of 10 millions (without debt) in free game."
+msgstr "Nabudźcie dabrabytu ab 10 milionach (biez pazyk) u volnaj hulnie."
+
+msgid ""
+"Accumulate a fortune of 100 millions (without debt) in free game with hard "
+"mode."
+msgstr ""
+"Nabudźcie dabrabytu ab 100 milionach (biez pazyk) u volnaj hulnie, ciažki "
+"režym."
+
+msgid "Accumulate a fortune of 100 millions (without debt) in free game."
+msgstr "Nabudźcie dabrabytu ab 100 milionach (biez pazyk) u volnaj hulnie."
+
+msgid "Actions"
+msgstr "Dzieiańni"
+
+msgid "Activate/deactivate bulldozer"
+msgstr "Uklučyć/vyklučyć buldozier"
+
+msgid "Add"
+msgstr "Dadać"
+
+msgid "Add New"
+msgstr "Dadać novy"
+
+msgid "Add a fade"
+msgstr "Dadać źniknieńnie"
+
+msgid "Add a key frame"
+msgstr "Dadać klučavy kadr"
+
+msgid "Add a subtitle"
+msgstr "Dadać padzahałovak"
+
+msgid "Add mods from preset to the end of the list of activated mods."
+msgstr "Dadać madyfikacyi z naładaŭ ŭ kaniec śpisu aktyŭnych madyfikacyj."
+
+msgid "Add station"
+msgstr "Dadać stancyiu"
+
+msgid "Advanced"
+msgstr "Pašyranyia"
+
+msgid "Advanced Game Settings"
+msgstr "Pašyranyia nałady hulni"
+
+msgid "Advanced Menu"
+msgstr "Pašyranaie meniu"
+
+msgid "Advanced Settings"
+msgstr "Pašyranyia nałady"
+
+msgid "Advanced settings"
+msgstr "Pašyranyia nałady"
+
+msgid "Age"
+msgstr "Uzrost"
+
+msgid "Air"
+msgstr "Pavietravy"
+
+msgid "Aircraft"
+msgid_plural "Aircraft"
+msgstr[0] "Samalot"
+msgstr[1] "Samaloty"
+msgstr[2] "Samaloty"
+
+msgid "Aircraft entrepreneur"
+msgstr "Uładar niabiosaŭ"
+
+msgid "Aircraft {number}"
+msgstr "Samalot {number}"
+
+msgid "All"
+msgstr "Usie"
+
+msgid "All cargo"
+msgstr "Usie hruzy"
+
+msgid "All locomotives"
+msgstr "Usie lokamatyvy"
+
+msgid "All missions completed!"
+msgstr "Usie misii vykanany!"
+
+msgid "All multiple units"
+msgstr "Usie ciahavyia kopleksy"
+
+msgid "All unsaved progress will be lost."
+msgstr "Uvieś niezachavany postup budzie stračany."
+
+msgid ""
+"All unsaved progress will be lost.\n"
+"Where to go next?"
+msgstr ""
+"Uvieś niezachavany postup budzie stračany.\n"
+"Kudy dalej?"
+
+msgid "All vehicle types"
+msgstr "Usie typy transpartu"
+
+msgid "All wagons"
+msgstr "Usie vahony"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Ambient occlusion (SSAO)"
+msgstr "Navakolnaia akluziia (SSAO)."
+
+msgid "American vehicles"
+msgstr "Amerykanski transpart"
+
+msgid ""
+"An integrated graphic chip is active. For best performance, make sure to:"
+msgstr "Ubudavanaia videakarta aktyŭna. Dla najlepšaj pradukcyjnasici:"
+
+msgid "Angle: {angle}°"
+msgstr "Kut: {angle}°"
+
+msgid "Anti-aliasing"
+msgstr "Zhładžvańnie"
+
+msgid "Antique"
+msgstr "Antyčny"
+
+msgid "Any cargo type"
+msgstr "Hruz luboha typu"
+
+msgid "Any conflicting bindings will be removed."
+msgstr "Łiubyia supiarečlivyia pryviazki buduć vydaleny."
+
+msgid "Append"
+msgstr "Dadać"
+
+msgid "Apply"
+msgstr "Užyć"
+
+msgid "Apply changes"
+msgstr "Užyć źmieny"
+
+msgid "Apply the settings and close"
+msgstr "Užyć nałady j zakryć"
+
+msgid "Approximate annual throughput per station"
+msgstr "Prykładnaia hadavaia prapuščalnaść stancyi"
+
+msgid "Are you sure you want to log out?"
+msgstr "Ci sapraŭdy vy žadaiecie vyjści?"
+
+msgid "Ascending"
+msgstr "Narastaiuča"
+
+msgid "Asia"
+msgstr "Aziia"
+
+msgid "Asian vehicles"
+msgstr "Aziiacki transpart"
+
+msgid "Asset locked"
+msgstr "Element zablakavany"
+
+msgid "Assets"
+msgstr "Elementy"
+
+msgid "Assign to %1%"
+msgstr "Pryznačyć da: %1%"
+
+msgid "At home"
+msgstr "Doma"
+
+msgid "At least %1% GB of graphics memory are recommended for these settings."
+msgstr ""
+"U vypadku takich naład minimalny pamier pamiaci videakarty składaie %1% HB."
+
+msgid "At work"
+msgstr "Na pracy"
+
+msgid "Audio"
+msgstr "Huk"
+
+msgid "Audio settings"
+msgstr "Nałady huku"
+
+msgid "Author"
+msgstr "Aŭtar:ka"
+
+msgid "Authors"
+msgstr "Aŭtary"
+
+msgid "Auto set speed"
+msgstr "Aŭtamatyčnaia ustaloŭka chutkaści"
+
+msgid "Automatic"
+msgstr "Aŭtamatyčna"
+
+msgid ""
+"Automatically send crash dump files (not including personal data) to the "
+"developers"
+msgstr ""
+"Aŭtamatyčna dasyłać fajły avaryjnaha dampa (vyklučaiučy asabistyia dadzienyia) "
+"raspracoŭščykam"
+
+msgid "Autosave interval (minutes)"
+msgstr "Častata aŭtazachavańnia (u chvilinach)"
+
+msgid "Autosave..."
+msgstr "Aŭtazachavańnie..."
+
+msgid "Autosaves to keep"
+msgstr "Zachavać aŭtazachavańni"
+
+msgid "Available heightmaps:"
+msgstr "Dastupnyia mapy vyšyni:"
+
+msgid "Average"
+msgstr "Siarednie"
+
+msgid "Average emission reaching residential buildings: %1%"
+msgstr "Siaredniaie zabrudžvańnie, iakoie dasiahaie žyłych damoŭ: %1%"
+
+msgid ""
+"Average number of shoppings facilities and jobs the residents of {townName} "
+"can reach"
+msgstr ""
+"Siaredniaia kolkaść handlovych ab'iektaŭ i pracoŭnych miejscaŭ, dastupnych dla "
+"žycharoŭ miesta {townName}"
+
+msgid "BONUS TASKS"
+msgstr "DADATKOVYA ZADAČY"
+
+msgid "Back"
+msgstr "Nazad"
+
+msgid "Back to the future"
+msgstr "Nazad da pryšłaści"
+
+msgid "Bad"
+msgstr "Błaha"
+
+msgid "Balance"
+msgstr "Kaštarys"
+
+msgid "Balance:"
+msgstr "Kaštarys:"
+
+msgid "Bank balance"
+msgstr "Rachunak"
+
+msgid "Basic Game Settings"
+msgstr "Hałoŭnyia nałady hulni"
+
+msgid "Basic Settings"
+msgstr "Hałoŭnyia nałady"
+
+msgid "Big aircraft"
+msgstr "Vialiki samalot"
+
+msgid "Big aircraft is incompatible with small airport"
+msgstr "Maleńkaie lotnišča nia moža absłuhoŭvać vialikiia samaloty"
+
+msgid "Big ship"
+msgstr "Vialiki karabiel"
+
+msgid "Big ship is incompatible with small harbour"
+msgstr "Maleńki port nia moža absłuhoŭvać vialikiia karabli"
+
+msgid "Big spender"
+msgstr "Vielizarnyia vydatki"
+
+msgid "Bit depth must be 1, 8 or 16."
+msgstr "Nieabchodnaia razradnasć 1, 8 abo 16."
+
+msgid "Bloom"
+msgstr "Efekt siajva (bloom)"
+
+msgid "Bob Ross"
+msgstr "Bob Ross"
+
+msgid "Bonus task completed"
+msgstr "Dadatkovaie zadańnie vykanana"
+
+msgid "Bonus tasks"
+msgstr "Dadatkovyia zadačy"
+
+msgid "Borderless"
+msgstr "Biaz ramki"
+
+msgid "Borrow %1%"
+msgstr "Pazyčać %1%"
+
+msgid "Bridge"
+msgstr "Most"
+
+msgid "Bridge pillar collision"
+msgstr "Sutyknieńnie z aporaj mostu"
+
+msgid "Brush"
+msgstr "Pendzal"
+
+msgid "Brush size"
+msgstr "Pamier pendzalu"
+
+msgid "Build"
+msgstr "Zbudavać"
+
+msgid "Build a bus stop in free game."
+msgstr "Zbudavać prypynak aŭtobusu ŭ volnaj hulnie."
+
+msgid "Build a passenger train station in free game."
+msgstr "Zbudavać pasažyrski čyhunačny vakzał u volnaj hulnie."
+
+msgid "Build a town"
+msgstr "Zbudavać miesta"
+
+msgid "Build a train line with at least 10 trains in motion in free game."
+msgstr "U volnaj hulnie pabudujcie čyhunačnuiu liniiu, prynamsi, z 10 ciahnikoŭ."
+
+msgid "Build date"
+msgstr "Data zbudovy"
+
+msgid "Build high bridges over rivers so that ships can pass under."
+msgstr "Budujcie praz reki vysokiia masty, kab pad imi mahli płyć karabli."
+
+msgid "Build the company headquarters in free game."
+msgstr "Pabudujcie štab-kvateru kampanii ŭ volnaj hulnie."
+
+msgid "Build town not possible"
+msgstr "Budova miesta nie mahčyma"
+
+msgid "Building town..."
+msgstr "Miesta buduiecca..."
+
+msgid "Buildings"
+msgstr "Budynki"
+
+msgid "Buildings must be removed first"
+msgstr "Papierš vydalicie budynki"
+
+msgid "Bulldozer"
+msgstr "Buldozier"
+
+msgid "Bus"
+msgstr "Aŭtobus"
+
+msgid "Bus and tram stops"
+msgstr "Prypynak aŭtobusny j tramvajny"
+
+msgid "Bus lane"
+msgstr "Aŭtobusnaia liniia"
+
+msgid "Bus lane tool"
+msgstr "Pryłada aŭtobusnaj linii"
+
+msgid "Bus/Tram station"
+msgstr "Stancyia aŭtobusaŭ/tramvaiaŭ"
+
+msgid "Bus/truck not compatible"
+msgstr "Aŭtobus/hruzavik nie sumiaščalny"
+
+msgid "Buy"
+msgstr "Kupić"
+
+msgid "Buy a bus and run a line in free game."
+msgstr "Kupicie aŭtobus i zapuścicie liniiu ŭ volnaj hulnie."
+
+msgid "Buy a ship and run a line in free game."
+msgstr "Kupicie karabiel i zapuścicie liniiu ŭ volnaj hulnie."
+
+msgid "Buy a steam train and run a line in free game."
+msgstr "Kupicie paravoz i zapuścicie liniiu ŭ volnaj hulnie."
+
+msgid "Buy aircraft"
+msgstr "Kupić samalot"
+
+msgid "Buy an aircraft and run a line in free game."
+msgstr "Kupicie samalot i zapuścicie liniiu ŭ volnaj hulnie."
+
+msgid "Buy an electric train and run a line in free game."
+msgstr "Kupicie elektryčny ciahnik i zapuścicie liniiu ŭ volnaj hulnie."
+
+msgid "Buy for "
+msgstr "Kupić za "
+
+msgid "Buy road vehicles"
+msgstr "Kupić darožny transpart"
+
+msgid "Buy ships"
+msgstr "Kupić karabli"
+
+msgid "Buy trains"
+msgstr "Kupić ciahniki"
+
+msgid "Buy trams"
+msgstr "Kupić tramvai"
+
+msgid "Buy vehicles"
+msgstr "Kupić transpart"
+
+msgid "By car"
+msgstr "Mašynaj"
+
+msgid "By foot"
+msgstr "Piešam"
+
+msgid "By submitting this item, you agree to the workshop terms of service."
+msgstr "Dasyłaiučy źmiest, vy zhadžaieciesia z umovami majsterni Steam."
+
+msgid "By submitting this mod, you agree to the mod.io terms of Use."
+msgstr "Dasyłaiučy źmiest, vy zhadžaieciesia z umovami majsterni mod.io."
+
+msgid "Cadet"
+msgstr "Kadet"
+
+msgid "Calendar"
+msgstr "Kalandar"
+
+msgid "Camera Manager"
+msgstr "Nałady kamery"
+
+msgid "Camera config name"
+msgstr "Nazva naład kamery"
+
+msgid "Camera focal length"
+msgstr "Fokusnaia adlehłaść kamery"
+
+msgid "Camera move down"
+msgstr "Pieramiaścić kameru nazad"
+
+msgid "Camera move left"
+msgstr "Pieramiaścić kameru levaruč"
+
+msgid "Camera move right"
+msgstr "Pieramiaścić kameru pravaruč"
+
+msgid "Camera move up"
+msgstr "Pieramiaścić kameru napierad"
+
+msgid "Camera rotate left"
+msgstr "Krucić kameru levaruč"
+
+msgid "Camera rotate right"
+msgstr "Krucić kameru pravaruč"
+
+msgid "Camera tilt down"
+msgstr "Nachilić kameru da dołu"
+
+msgid "Camera tilt up"
+msgstr "Nachilić kameru da hary"
+
+msgid "Camera tool"
+msgstr "Pryłada kamery"
+
+msgid "Camera tool: Add keyframe"
+msgstr "Pryłada kamery: Dadać klučavy kadr"
+
+msgid "Camera tool: Capture"
+msgstr "Pryłada kamery: Zdymak ekranu"
+
+msgid "Camera tool: Clear keyframes"
+msgstr "Pryłada kamery: Vydalić klučavyia kadry"
+
+msgid "Camera tool: Load"
+msgstr "Pryłada kamery: Sčytać"
+
+msgid "Camera tool: Pause"
+msgstr "Pryłada kamery: Prypynić"
+
+msgid "Camera tool: Play"
+msgstr "Pryłada kamery: Prajhrać"
+
+msgid "Camera tool: Save"
+msgstr "Pryłada kamery: Zachavać"
+
+msgid "Camera tool: Start recording"
+msgstr "Pryłada kamery: Pačać zapis"
+
+msgid "Camera tool: Stop"
+msgstr "Pryłada kamery: Spynić"
+
+msgid "Camera tool: Toggle play/pause"
+msgstr "Pryłada kamery: Pieraklučeńnie - prajhrać/prypynić"
+
+msgid "Camera tool: Toggle play/stop"
+msgstr "Pryłada kamery: Pieraklučeńnie - prajhrać/spynić"
+
+msgid "Camera zoom in"
+msgstr "Pavialičyć vid"
+
+msgid "Camera zoom out"
+msgstr "Addalić vid"
+
+msgid "Campaign"
+msgstr "Kampaniia"
+
+msgid "Campaign \"%1%\", mission \"%2%\""
+msgstr "Kampaniia „%1%”, misiia „%2%”"
+
+msgid "Campaign expert"
+msgstr "Ekspert kampanii"
+
+msgid "Campaign shark"
+msgstr "Čempiion kampanii"
+
+msgid "Campaign tycoon"
+msgstr "Mahnat kampanii"
+
+msgid "Campaign: Open mission window"
+msgstr "Kampaniia: Adkryjć akno misii"
+
+msgid "Campaigns"
+msgstr "Kampanii"
+
+msgid "Cancel"
+msgstr "Skasavać"
+
+msgid "Cancel and leave store"
+msgstr "Skasavać i vyjści z kramy"
+
+msgid "Cancel publishing"
+msgstr "Skasavać publikavańnie"
+
+msgid "Cannot bulldoze headquarters, use relocate instead!"
+msgstr "Nielha razburyć štab-kvarteru. Sprabujcie pieranieści iaho!"
+
+msgid "Cannot get enough"
+msgstr "Ciahnikoŭ nikoli nie zanadta"
+
+msgid "Capacity"
+msgstr "Iomistaść"
+
+msgid "Capture image"
+msgstr "Zachavać vyiavu"
+
+msgid "Capture images"
+msgstr "Zachavać vyiavy"
+
+msgid "Capture latlong"
+msgstr "Zapisać daŭžyniu/šyryniu"
+
+msgid "Capture videos"
+msgstr "Zachavać videa"
+
+msgid "Car owner"
+msgstr "Uładar mašyny"
+
+msgid "Cargo"
+msgstr "Hruzavyia"
+
+msgid "Cargo filter is set"
+msgstr "Ustalavany filtr hruzaŭ"
+
+msgid "Cargo hub"
+msgstr "Hruzavy vuzieł"
+
+msgid "Cargo items consumed by this building"
+msgstr "Hruzy ŭžyvaiemyia hetym budynkam"
+
+msgid "Cargo items produced by this building"
+msgstr "Hruzy vyrablaiemyia hetym budynkam"
+
+msgid "Cargo layer"
+msgstr "Słai hruzaŭ"
+
+msgid "Cargo needs"
+msgstr "Popyt na hruzy"
+
+msgid "Cargo production"
+msgstr "Vytvorčaść hruzaŭ"
+
+msgid "Cargo production rating (average of last twelve months)"
+msgstr "Acenka vyrabu hruzaŭ (u siarednim za apošniia 12 miesiacaŭ)"
+
+msgid "Cargo station"
+msgstr "Hruzavaia stancyia"
+
+msgid "Cargo stop can not used by passenger vehicles"
+msgstr "Pasažyrski transpart nia moža być užyty praz hruzavyia prypynki"
+
+msgid "Cargo supply of {townName}"
+msgstr "Dastava hruzu: {townName}"
+
+msgid "Cargo supply rating (average of last twelve months)"
+msgstr "Acenka dastavy hruzaŭ (u siarednim za apošniia 12 miesiacaŭ)"
+
+msgid "Cargo transported (last 12 months)"
+msgstr "Pieraviezieny hruz (apošniia 12 miesiacaŭ)"
+
+msgid "Cargo transported (total)"
+msgstr "Pieraviezieny hruz (usiaho)"
+
+msgid "Cargo type"
+msgid_plural "Cargo types"
+msgstr[0] "Typ hruzu"
+msgstr[1] "Typy hruzaŭ"
+msgstr[2] "Typy hruzaŭ"
+
+msgid "Cargo types"
+msgstr "Typy hruzaŭ"
+
+msgid "Cargo wagons"
+msgstr "Hruzavyia vahony"
+
+msgid "Catenary"
+msgstr "Kantaktnaia sietka"
+
+msgid "Change"
+msgstr "Źmianić"
+
+msgid "Change Type"
+msgstr "Źmianić typ"
+
+msgid "Change date"
+msgstr "Źmianić datu"
+
+msgid "Change log"
+msgstr "Śpis źmienaŭ"
+
+msgid "Change note:"
+msgstr "Natatka a źmienach:"
+
+msgid "Change sorting"
+msgstr "Źmianić sartavańnie"
+
+msgid "Charles Alton Ellis"
+msgstr "Čarlz Ałtan Elis"
+
+msgid "Charts"
+msgstr "Dyiahrama"
+
+msgid "Cheats"
+msgstr "Kody"
+
+msgid "Check for available disk space (Code: {code})"
+msgstr "Praviercie dastupnaie miejsca na dysku (kod: {code})"
+
+msgid "Choose heightmap"
+msgstr "Vybierycie mapu vyšyń"
+
+msgid "Choose the game's difficulty"
+msgstr "Vybierycie składanaść hulni"
+
+msgid "Choose the game's start year"
+msgstr "Vybierycie hod pačatku hulni"
+
+msgid "City"
+msgstr "Miesta"
+
+msgid "Classic"
+msgstr "Klasika"
+
+msgid "Clear"
+msgstr "Ačyścić"
+
+msgid "Clear all key frames?"
+msgstr "Ačyścić usie klučavyia kadry?"
+
+msgid "Clear key frame list"
+msgstr "Ačyścić śpis klučavych kadraŭ"
+
+msgid "Click on icons to select residents"
+msgstr "Naciśnicie na znački, kab vybrać žycharoŭ"
+
+msgid "Click on stations to add"
+msgstr "Naciśni na stancyiu, kab dadać"
+
+msgid ""
+"Click on the icon to jump to the first point where the path couldn't "
+"continue."
+msgstr ""
+"Naciśnicie na značok, kab pierajści da pieršaha punkta, u iakim niemahčyma "
+"praciahnuć maršrut."
+
+msgid "Click to change date speed"
+msgstr "Naciśni, kab źmianić chutkaść dzion"
+
+msgid "Click to choose a logo..."
+msgstr "Naciśni, kab abrać łahatyp..."
+
+msgid "Click to modify balance"
+msgstr "Naciśni, kab źmianić kaštarys"
+
+msgid "Climate"
+msgstr "Klimat"
+
+msgid "Climate change"
+msgstr "Źmiena klimatu"
+
+msgid "Climate:"
+msgstr "Klimat:"
+
+msgid "Clone all vehicles"
+msgstr "Skłanavać uvieś transpart"
+
+msgid "Clone all vehicles?"
+msgstr "Kłanavać uvieś transpart?"
+
+msgid "Clone selected vehicle"
+msgid_plural "Clone selected vehicles"
+msgstr[0] "Skłanavać vybrany transpart"
+msgstr[1] "Skłanavać vybrany transpart"
+msgstr[2] "Skłanavać vybrany transpart"
+
+msgid "Clone vehicle"
+msgstr "Skłanavać transpart"
+
+msgid "Cloning can only be performed for {number} vehicles at once"
+msgstr "Adnačasova nielha kłanavać bolš za {number} transpartu"
+
+msgid "Close"
+msgstr "Zakryć"
+
+msgid "Close all"
+msgstr "Zakryć usio"
+
+msgid "Close mod detail window"
+msgstr "Zakryć akno detalaŭ modu"
+
+msgid "Closed."
+msgstr "Zakryta."
+
+msgid "Closes in %1%."
+msgstr "Zakryiecca praz %1%."
+
+msgid "Cmd"
+msgstr "K-radok"
+
+msgid "Cockpit camera: horn sound"
+msgstr "Kamera kabiny: hukavy syhnał"
+
+msgid "Cockpit camera: next position"
+msgstr "Kamera kabiny: nastupnaia pazicyia"
+
+msgid "Cockpit camera: previous position"
+msgstr "Kamera kabiny: papiaredniaia pazicyia"
+
+msgid "Code has been resent"
+msgstr "Kod byŭ dasłany iznoŭ"
+
+msgid "Code:"
+msgstr "Kod:"
+
+msgid "Collapse"
+msgstr "Zharnuć"
+
+msgid "Collision"
+msgstr "Sutyknieńnie"
+
+msgid "Color"
+msgstr "Koler"
+
+msgid "Comment"
+msgstr "Kamientar"
+
+msgid "Commercial"
+msgstr "Handlovy"
+
+msgid "Commercial area"
+msgstr "Handlovaia zona"
+
+msgid "Commercial building"
+msgstr "Handlovy budynak"
+
+msgid "Commercial supply"
+msgstr "Handlovaia dastava"
+
+msgid "Company"
+msgstr "Tavarystva"
+
+msgid "Company finances"
+msgstr "Kaštarys kampanii"
+
+msgid "Company score"
+msgstr "Vynik kampanii"
+
+msgid "Complete campaign \"%1%\" to unlock"
+msgstr "Kab adblakavać, zaviaršycie kampaniiu „%1%”"
+
+msgid "Complete the entire campaign."
+msgstr "Skončyć usiu kampaniiu."
+
+msgid "Complete the first and second era of the campaign."
+msgstr "Skončyć pieršuiu j druhuiu ery kampanii."
+
+msgid "Complete the first era of the campaign."
+msgstr "Skončyć pieršuiu eru kampanii."
+
+msgid "Complete the first mission of the campaign."
+msgstr "Skončyć pieršuiu misiiu kampanii."
+
+msgid "Condition"
+msgstr "Stan"
+
+msgid "Configure"
+msgstr "Naładzić"
+
+msgid "Configure construction"
+msgstr "Naładzić kanstrukcyiu"
+
+msgid "Configure graphics and more"
+msgstr "Naładzić hrafiku j inšyia elementy"
+
+msgid "Configure maintenance for all vehicles"
+msgstr "Ustalavać ŭtrymańnie dla ŭsiaho transpartu"
+
+msgid "Configure maintenance for selected vehicle"
+msgid_plural "Configure maintenance for selected vehicles"
+msgstr[0] "Ustalavać utrymańnie dla vybranaha traspartu"
+msgstr[1] "Ustalavać utrymańnie dla vybranaha traspartu"
+msgstr[2] "Ustalavać utrymańnie dla vybranaha traspartu"
+
+msgid "Confirm decommission"
+msgstr "Paćvierdzić vyvad z ekspłuatacyi"
+
+msgid "Confirm delete?"
+msgstr "Upeŭnieny z vydaleńniem?"
+
+msgid "Confirm destruction"
+msgstr "Paćvierdzić źniščeńnie"
+
+msgid "Confirm destruction?"
+msgstr "Upeŭnieny ź źniščeńniem?"
+
+msgid "Confirm disposal"
+msgstr "Paćvierdzić vyprodaž"
+
+msgid "Confirm mass clone"
+msgstr "Paćvierdzić masavaie kłanavańnie"
+
+msgid "Confirm rebind"
+msgstr "Paćvierdzić pierapryznačeńnie"
+
+msgid "Congratulations"
+msgstr "Vinšavańni"
+
+msgid "Console compatible"
+msgstr "Sumiaščalnaść z kansollu"
+
+msgid "Console variant found"
+msgstr "Znojdzieny kansolny varyiant"
+
+msgid "Construction"
+msgstr "Budynak"
+
+msgid "Construction locked"
+msgstr "Budynak zabłakavany"
+
+msgid "Construction not possible"
+msgstr "Budoŭla niemahčyma"
+
+msgid "Construction option 1"
+msgstr "Varyiant budovy 1"
+
+msgid "Construction option 2"
+msgstr "Varyiant budovy 2"
+
+msgid "Construction option 3"
+msgstr "Varyiant budovy 3"
+
+msgid "Construction option 4"
+msgstr "Varyiant budovy 4"
+
+msgid "Construction option 5"
+msgstr "Varyiant budovy 5"
+
+msgid "Construction option 6"
+msgstr "Varyiant budovy 6"
+
+msgid "Construction option 7"
+msgstr "Varyiant budovy 7"
+
+msgid "Construction option 8"
+msgstr "Varyiant budovy 8"
+
+msgid "Construction option precise 1"
+msgstr "Dakładny varyiant pabudovy 1"
+
+msgid "Construction option precise 2"
+msgstr "Dakładny varyiant pabudovy 2"
+
+msgid "Construction option precise 3"
+msgstr "Dakładny varyiant pabudovy 3"
+
+msgid "Construction option precise 4"
+msgstr "Dakładny varyiant pabudovy 4"
+
+msgid "Construction option precise 5"
+msgstr "Dakładny varyiant pabudovy 5"
+
+msgid "Construction option precise 6"
+msgstr "Dakładny varyiant pabudovy 6"
+
+msgid "Construction option precise 7"
+msgstr "Dakładny varyiant pabudovy 7"
+
+msgid "Construction option precise 8"
+msgstr "Dakładny varyiant pabudovy 8"
+
+msgid "Consumers"
+msgstr "Spažyŭcy"
+
+msgid "Consumption"
+msgstr "Spažyvańnie"
+
+msgid "Contained by following lines as waypoint"
+msgstr "Naležać da nastupnych linij iak maršrutny punkt"
+
+msgid "Context help"
+msgstr "Kantekstnaia dapamoha"
+
+msgid "Continue"
+msgstr "Praciahnuć"
+
+msgid "Continue anyway"
+msgstr "Usio adno praciahnuć"
+
+msgid "Continue playing..."
+msgstr "Praciahnuć hulniu..."
+
+msgid "Continue to external website?"
+msgstr "Pierajści da źniešniaj veb-staronki?"
+
+msgid "Contour lines layer"
+msgstr "Słoj konturnych linij"
+
+msgid "Coord.sys."
+msgstr "Systema kaardynat"
+
+msgid "Copy"
+msgstr "Kapiiavać"
+
+msgid "Cost: "
+msgstr "Košt: "
+
+msgid "Costs"
+msgstr "Košt"
+
+msgid "Costs: %1%"
+msgstr "Košt %1%"
+
+msgid "Could not connect all alternative terminals"
+msgstr "Nie atrymałasia padłučyć usie alternatyŭnyia terminały"
+
+msgid "Could not connect all stations"
+msgstr "Nie atrymałasia padłučyć usie stancyi"
+
+msgid "Could not refresh"
+msgstr "Nie ŭdałosia abnavić"
+
+msgid ""
+"Could not save game. Please check free\n"
+"disk space and/or folder permissions."
+msgstr ""
+"Niemahčyma zachavać stan hulni. Praviercie naiaŭnaść\n"
+"volnaj pamiaci ci prava na dostup da tečki."
+
+msgid "Create New Game"
+msgstr "Stvaryć novuiu hulniu"
+
+msgid "Create New Map"
+msgstr "Stvaryć novuiu mapu"
+
+msgid "Create a line with at least two stops in free game."
+msgstr "U volnaj hulnie stvarycie liniiu prynamsi ź dźviuma prypynkami."
+
+msgid "Create a new line"
+msgstr "Stvaryć novuiu liniiu"
+
+msgid "Creating fields..."
+msgstr "Stvareńnie palej..."
+
+msgid "Creating industries..."
+msgstr "Stvareńnie pramysłovych ustanoŭ..."
+
+msgid "Creating streets..."
+msgstr "Stvareńnie vulic..."
+
+msgid "Creating towns..."
+msgstr "Stvareńnie miest..."
+
+msgid "Credits"
+msgstr "Aŭtary"
+
+msgid ""
+"Critical: Disabling will remove essential mod content, which causes the save "
+"game to become unstable or unusable."
+msgstr ""
+"Važna: adklučeńnie pryviadzie da vydaleńnia klučavoha źmiestu madyfikacyi, što "
+"zrobić zachavańnie hulni niestabilnym albo nieprydatnym da hulni."
+
+msgid "Crowd in a train"
+msgstr "Natoŭp u ciahniku"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Current"
+msgstr "Biahučy"
+
+msgid "Current consumption rate"
+msgstr "Pakazalnik biahučaha spažyvańnia"
+
+msgid "Curve: {angle}°"
+msgstr "Vyhin: {angle}°"
+
+msgid "Curved"
+msgstr "Vyhnuty"
+
+msgid "Custom"
+msgstr "Svaie"
+
+msgid "Custom Settings"
+msgstr "Svaie nałady"
+
+msgid "Custom cargo"
+msgstr "Svaie hruzy"
+
+msgid "Custom colors"
+msgstr "Svaie kolery"
+
+msgid "Custom game settings"
+msgstr "Svaie nałady hulni"
+
+msgid "Cycle game speed"
+msgstr "Źmiena chutkaści hulni"
+
+msgid "DMCA"
+msgstr "Aŭtarskiia pravy (DMCA)"
+
+msgid "DX12"
+msgstr "DX12"
+
+msgid "Data layers"
+msgstr "Słai dadzienych"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Date added"
+msgstr "Data dadadziena"
+
+msgid "Date speed"
+msgstr "Chutkaść płyni času"
+
+msgid "Date updated"
+msgstr "Data abnoŭlena"
+
+msgid "Date:"
+msgstr "Data:"
+
+msgid "Day"
+msgstr "Dzień"
+
+msgid "Deadzone"
+msgstr "Miortvaia zona"
+
+msgid "Debt"
+msgstr "Doŭh"
+
+msgid "Debug mode"
+msgstr "Režym naładki"
+
+msgid "Default"
+msgstr "Pa zmaŭčańni"
+
+msgid "Delete"
+msgstr "Vydalić"
+
+msgid "Delete Savegame?"
+msgstr "Vydalić zachavańie?"
+
+msgid "Delete Settings (DEBUG)"
+msgstr "Vydalić nałady (NAŁADKA)"
+
+msgid "Delete camera config "
+msgstr "Vydalić nałady kamery "
+
+msgid "Delete camera config?"
+msgstr "Vydalić nałady kamery?"
+
+msgid "Delete fade"
+msgstr "Vydalić źniknieńnie"
+
+msgid "Delete key frame"
+msgstr "Vydalić klučavy kadr"
+
+msgid "Delete line"
+msgstr "Vydalić liniiu"
+
+msgid "Delete mod preset "
+msgstr "Vydalić narychtoŭku madyfikacyi "
+
+msgid "Delete mod preset?"
+msgstr "Vydalić narychtoŭku madyfikacyi?"
+
+msgid "Delete subtitle"
+msgstr "Vydalić nadpis"
+
+msgid "Deliver every product to every city that requires it in free game."
+msgstr ""
+"U volnaj hulnie dastaŭlajcie kožny pradukt da kožnaha miesta, iakomu ion "
+"patrebny."
+
+msgid "Deluxe Edition"
+msgstr "Raskošnaie vydańnie"
+
+msgid "Departure configuration"
+msgstr "Nałady ad'iezdu"
+
+msgid "Dependencies ({num})"
+msgstr "Zaležnaści ({num})"
+
+msgid "Depot contains vehicles"
+msgstr "U depo znachodzicca transpart"
+
+msgid "Depots"
+msgstr "Depo"
+
+msgid "Descending"
+msgstr "Sychodziačy"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "Destination"
+msgstr "Nakiravany da"
+
+msgid "Destination: {stopName}"
+msgstr "Nakiravany da: {stopName}"
+
+msgid "Destination: {stopName} via {viaName}"
+msgstr "Nakiravany da: {stopName}, praz: {viaName}"
+
+msgid "Destinations"
+msgstr "Nakiravańni"
+
+msgid "Destinations layer"
+msgstr "Słoj nakiravańniaŭ"
+
+msgid "Details"
+msgstr "Padrabiaznaści"
+
+msgid "Diesel"
+msgstr "Dyzel"
+
+msgid "Diesel Train"
+msgstr "Dyzelny ciahnik"
+
+msgid "Diesel locomotives"
+msgstr "Dyzelny lokamatyŭ"
+
+msgid "Diesel multiple units"
+msgstr "Dyzelny ciahavy kopleks"
+
+msgid "Different cargo types transported"
+msgstr "Dastaŭlenyia roznyia vidy hruzaŭ"
+
+msgid "Difficulty"
+msgstr "Ciažkaść"
+
+msgid "Difficulty:"
+msgstr "Ciažkaść:"
+
+msgid "Directory: {folder}"
+msgstr "Tečka: {folder}"
+
+msgid "Disable"
+msgstr "Vyklučyć"
+
+msgid "Disable all"
+msgstr "Vyklučyć usio"
+
+msgid "Disable all mods currently visible in the list"
+msgstr "Adklučyć usie madyfikacyi, bačnyia ŭ śpisie"
+
+msgid "Disable construction snapping"
+msgstr "Adklučyć pryviazku budynku"
+
+msgid "Disable mod"
+msgstr "Adklučyć madyfikacyiu"
+
+msgid "Disabled"
+msgstr "Vyklučana"
+
+msgid "Discard changes"
+msgstr "Skasavać źmieny"
+
+msgid "Disconnected!"
+msgstr "Raz'iadnana!"
+
+msgid "Display mode"
+msgstr "Režym pakazu"
+
+msgid "Distance units"
+msgstr "Adzinki adlehłaści"
+
+msgid "Do not show again"
+msgstr "Nie pakazvać bolš"
+
+msgid "Do you wish to proceed?"
+msgstr "Ci chočacie praciahnuć?"
+
+msgid "Docks outside of navigable waters"
+msgstr "Doki pa-za miežami sudnachodnych vod"
+
+msgid "Don't take any additional loan until the year 2050 in free game."
+msgstr "Nie biarycie anivodnaj dadatkovaj pazyki da 2050 hoda ŭ volnaj hulnie."
+
+msgid "Double slip switch"
+msgstr "Dvajny ckryžavany pieramykač"
+
+msgid "Down"
+msgstr "Da dołu"
+
+msgid "Download pending"
+msgstr "Ściahvańnie čakaiecca"
+
+msgid "Downloading"
+msgstr "Ściahvaiecca"
+
+msgid "Downloading mods"
+msgstr "Ściahvaiemyia madyfikacyi"
+
+msgid "Downloads"
+msgstr "Ściahvańni"
+
+msgid "Drive backwards"
+msgstr "Iechać nazad"
+
+msgid "Duration"
+msgstr "Čas tryvańnia"
+
+msgid "E.P.E.C."
+msgstr "USIo.PAŬSUL."
+
+msgid "Earn 1 million with airplanes within a month in free game."
+msgstr "Zarabicie 1 milion na dastaŭcy samalotami za miesiac u volnaj hulnie."
+
+msgid "Earn 1 million with ships within a month in free game."
+msgstr "Zarabicie 1 milion na dastaŭcy karablami za miesiac u volnaj hulnie."
+
+msgid "Earn 50 millions not using any train in free game."
+msgstr "U volnaj hulnie zarabicie 50 milionaŭ biez užyvańnia ciahnikoŭ."
+
+msgid "Earn all medals in one of the campaign missions."
+msgstr "Zarabicie ŭsie medali ŭ adnoj ź misij kampanii."
+
+msgid "Earn all medals of the entire campaign."
+msgstr "Zarabicie ŭsie medali za ŭsiu kampaniiu."
+
+msgid "Edge scrolling"
+msgstr "Kraiovaia prakrutka"
+
+msgid "Edit all vehicles"
+msgstr "Redahavać uvieś transpart"
+
+msgid "Edit selected vehicle"
+msgid_plural "Edit selected vehicles"
+msgstr[0] "Redahdavać vybrany transpart"
+msgstr[1] "Redahdavać vybrany transpart"
+msgstr[2] "Redahdavać vybrany transpart"
+
+msgid "Edit vehicle"
+msgid_plural "Edit vehicles"
+msgstr[0] "Redahdavać transpart"
+msgstr[1] "Redahdavać transpart"
+msgstr[2] "Redahdavać transpart"
+
+msgid "Editor"
+msgstr "Redaktar"
+
+msgid "Editor's note"
+msgstr "Zaŭvaha redaktaraŭ"
+
+msgid "Electric"
+msgstr "Elektryčny"
+
+msgid "Electric Train"
+msgstr "Ełektryčny ciahnik"
+
+msgid "Electric locomotives"
+msgstr "Ełektryčny lokamatyŭ"
+
+msgid "Electric multiple units"
+msgstr "Elektryčny ciahavy kopleks"
+
+msgid "Electrification tool"
+msgstr "Pryłada elektryfikacyi"
+
+msgid "Email"
+msgstr "E-pošta"
+
+msgid "Email:"
+msgstr "E-pošta:"
+
+msgid "Emission"
+msgstr "Zabrudžvańnie"
+
+msgid "Emission %1%"
+msgstr "Zabrudžvańnie %1%"
+
+msgid "Emission %1% + %2% (%3% condition)"
+msgstr "Zabrudžvańnie: %1% + %2% (stan: %3%)"
+
+msgid "Emission at mouse cursor: %s"
+msgstr "Zabrudžvańnie pry kursory myšy: %s"
+
+msgid "Emission at screen center: %s"
+msgstr "Zabrudžvańnie ŭ centry ekranu: %s"
+
+msgid "Emissions layer"
+msgstr "Słoj zabrudžvańnia"
+
+msgid "Empty"
+msgstr "Pusta"
+
+msgid "Empty construction"
+msgstr "Pusty budynak"
+
+msgid "Enable"
+msgstr "Uklučyć"
+
+msgid "Enable Custom settings"
+msgstr "Uklučyć svaie nałady"
+
+msgid "Enable all"
+msgstr "Uklučyć usie"
+
+msgid "Enable all mods currently visible in the list"
+msgstr "Uklučyć usie madyfikacyi, bačnyia ŭ śpisie"
+
+msgid "Enable camera tool"
+msgstr "Uklučyć pryłady kamery"
+
+msgid "Enable custom game settings"
+msgstr "Uklučyć svaie nałady hulni"
+
+msgid "Enable guide system"
+msgstr "Uklučyć systemu dapamohi"
+
+msgid "Enable mod"
+msgstr "Uklučyć madyfikacyiu"
+
+msgid "Enable mods from a mod preset. Already enabled mods are not disabled."
+msgstr ""
+"Uklučyć madyfikacyi z papiaredniaj narechtoŭki. Raniej uklučanyia madyfikacyi nia "
+"buduć adklučany."
+
+msgid "Enable mouse/keyboard"
+msgstr "Uklučyć myš/klaviiaturu"
+
+msgid "Enable production or ship items to prevent closure."
+msgstr "Kab praduchilić zakryćcio, pačnicie vytvorčaść abo dastaŭcie tavary."
+
+msgid "Enabled"
+msgstr "Uklučany"
+
+msgid "Enabled mods"
+msgstr "Uklučonyia madyfikacyi"
+
+msgid "Enabled/disabled mod(s) may lead to unexpected results."
+msgstr "Uklučanyia/adklučanyia modyfikacyi mohuć vyklikać niečakanyia z'iavy."
+
+msgid "Enabled/disabled mod(s) will likely cause the game to crash!"
+msgstr "Uklučeńnie/vyklučeńnie madyfikacyj moža pryvieści da zboiu hulni!"
+
+msgid "Engine Type"
+msgid_plural "Engine Types"
+msgstr[0] "Typ ruchaviku"
+msgstr[1] "Typy ruchavikoŭ"
+msgstr[2] "Typy ruchavikoŭ"
+
+msgid "Enter a file name!"
+msgstr "Uviadzicie nazvu fajłu!"
+
+msgid "Enter bank balance!"
+msgstr "Uviadzicie bałans rachunku!"
+
+msgid "Enter change note"
+msgstr "Uviadzicie natatku źmien"
+
+msgid "Enter cockpit"
+msgstr "Uvajści ŭ kabinu"
+
+msgid "Enter comment"
+msgstr "Uviadzicie kamientar"
+
+msgid "Enter current day!"
+msgstr "Uviadzicie biahučy dzień!"
+
+msgid "Enter current month!"
+msgstr "Uviadzicie biahučy miesiac!"
+
+msgid "Enter current yonth!"
+msgstr "Uviadzicie biahučy hod!"
+
+msgid "Enter description"
+msgstr "Uviadzicie apisańnie"
+
+msgid "Enter email address"
+msgstr "Uviadzicie e-poštu"
+
+msgid "Enter save game name"
+msgstr "Uviadzicie nazvu zachavańnia hulni"
+
+msgid "Enter summary"
+msgstr "Uviadzicie padsumavańnie"
+
+msgid "Environment:"
+msgstr "Asiarodździe:"
+
+msgid "Erase assets with a brush."
+msgstr "Dazvalaie vydalać elemienty pendźlam."
+
+msgid "Erase the terrain painting (restore the default material)."
+msgstr "Ścierci malavańnie miascovaści (viartaie materyiał pa zmaŭčańni)."
+
+msgid "Eraser tool"
+msgstr "Pryłada – humka"
+
+msgid "Error loading settings file"
+msgstr "Pamyłka zahruzki fajłu naład"
+
+msgid "Europe"
+msgstr "Eŭropa"
+
+msgid "European vehicles"
+msgstr "Eŭrapejski transpart"
+
+msgid "Excellent"
+msgstr "Vydatna"
+
+msgid "Exemplary student"
+msgstr "Uzorny vučań"
+
+msgid "Exit"
+msgstr "Vyjście"
+
+msgid "Expand"
+msgstr "Pašyryć"
+
+msgid "Expenditure"
+msgstr "Vydatki"
+
+msgid "Export"
+msgstr "Ekspart"
+
+msgid "Export heightmap"
+msgstr "Ekspart map vyšyń"
+
+msgid "Extracting"
+msgstr "Raspakoŭvańnie"
+
+msgid "FPS limit"
+msgstr "Abmiež. k/s"
+
+msgid "Fade {num}"
+msgstr "Źnikaie {num}"
+
+msgid "Fades"
+msgstr "Źnikaie"
+
+msgid "Failed to login"
+msgstr "Nie ŭdałosia ŭvajści"
+
+msgid "Failed to logout"
+msgstr "Nie ŭdałosia vyjści"
+
+msgid "Failed to rate"
+msgstr "Nie ŭdałosia acanić"
+
+msgid "Failed to refresh"
+msgstr "Nie ŭdałosia abnavić"
+
+msgid "Failed to retrieve mod list"
+msgstr "Nie ŭdałosia ściahnuć śpis madyfikacyj"
+
+msgid "Failed to share savegame"
+msgstr "Nie ŭdałosia padzialicca zachavańniem"
+
+msgid "Failed to show mod details"
+msgstr "Nie ŭdałosia pakazać detali madyfikacyi"
+
+msgid "Failed to subscribe"
+msgstr "Nie ŭdałosia padpisacca"
+
+msgid "Failed to uninstall"
+msgstr "Nie ŭdałosia vydalić"
+
+msgid "Failed to unsubscribe"
+msgstr "Nie ŭdałosia adpisacca"
+
+msgid "Failed to upload mod"
+msgstr "Nie ŭdałosia dasłać madyfikacyiu"
+
+msgid "False Information"
+msgstr "Iłžyvaia infarmacyia"
+
+msgid "Fetching Results"
+msgstr "Pošuk vynikaŭ"
+
+msgid "File Name"
+msgstr "Nazva fajłu"
+
+msgid "File error"
+msgstr "Pamyłka fajłu"
+
+msgid "File size"
+msgstr "Pamier fajłu"
+
+msgid "Filesystem error"
+msgstr "Pamyłka fajłavaj systemy"
+
+msgid "Filter"
+msgstr "Filtr"
+
+msgid "Finances"
+msgstr "Finansy"
+
+msgid "Finances - Chart"
+msgstr "Finansy - dyiahrama"
+
+msgid "Finances - Table"
+msgstr "Finansy - tablica"
+
+msgid "First"
+msgstr "Pieršy"
+
+msgid "First aircraft arrived"
+msgstr "Pieršy samalot na miejscy"
+
+msgid "First bus arrived"
+msgstr "Pieršy aŭtobus na miejscy"
+
+msgid "First bus stop"
+msgstr "Pieršy prypynak"
+
+msgid "First cargo item on board"
+msgstr "Adpraŭka pieršaha hruzu"
+
+msgid "First cargo item waiting"
+msgstr "Pieršy hruz čakaie na adpraŭku"
+
+msgid "First electric train arrived"
+msgstr "Pieršy elektryčny ciahnik na miejscy"
+
+msgid "First industry upgraded"
+msgstr "Pieršaie palapšeńnie pramysłovaści"
+
+msgid "First line"
+msgstr "Pieršaia liniia"
+
+msgid "First passenger on board"
+msgstr "Adpraŭka pierašaha pasažyru"
+
+msgid "First passenger waiting"
+msgstr "Pieršy pasažyr čakaie na adpraŭku"
+
+msgid "First ship arrived"
+msgstr "Pieršy karabiel na miejscy"
+
+msgid "First steam train arrived"
+msgstr "Pieršy paravoz na miejscy"
+
+msgid "First train station"
+msgstr "Pieršy čyhunačny vakzał"
+
+msgid "Fix slope"
+msgstr "Vypraŭcie nachił"
+
+msgid "Flatten the terrain."
+msgstr "Vyraŭnoŭvaie miascovaść."
+
+msgid "Flatten tool"
+msgstr "Prałada raŭnavańnia"
+
+msgid "Flip vehicle"
+msgstr "Raźviarnuć traspart"
+
+msgid "Foc."
+msgstr "Fokus."
+
+msgid "Focus Mods"
+msgstr "Zasiarod. na madyfikacyiach"
+
+msgid "Focus Sidebar"
+msgstr "Zasiarod. na bakavoj paneli"
+
+msgid "Folder:"
+msgstr "Tečka:"
+
+msgid "For experts:"
+msgstr "Dla ekspertaŭ:"
+
+msgid "Force uninstall"
+msgstr "Prymusovaie vydaleńnie"
+
+msgid "Force units"
+msgstr "Adzinki siły"
+
+msgid "Frame rate"
+msgstr "Kadraŭ na sekundu"
+
+msgid "Free Game"
+msgstr "Volnaia hulnia"
+
+msgid "Free camera"
+msgstr "Volnaia kamera"
+
+msgid "Freq."
+msgstr "Čast."
+
+msgid "Frequence"
+msgstr "Častata"
+
+msgid "Full load (all)"
+msgstr "Poŭnaia zahruzka (usie)"
+
+msgid "Full load (any)"
+msgstr "Poŭnaia zahruzka (luby)"
+
+msgid "Fullscreen"
+msgstr "Poŭnaekranny"
+
+msgid "GNM"
+msgstr "GNM"
+
+msgid "Game"
+msgstr "Hulnia"
+
+msgid "Game Storage"
+msgstr "Pamiać hulni"
+
+msgid "Game options"
+msgstr "Nałady hulni"
+
+msgid "Game paused"
+msgstr "Hulnia prypyniena"
+
+msgid "Game speed up"
+msgstr "Paskoryć hulniu"
+
+msgid "Generate"
+msgstr "Utvaryć"
+
+msgid "Generate a random seed"
+msgstr "Utvaryć vypadkovaie nasieńnia"
+
+msgid "Generate heightmap"
+msgstr "Utvaryć mapy vyšyń"
+
+msgid "Generate industries"
+msgstr "Utvaryć pramysłovych ustanoŭ"
+
+msgid "Generate streets"
+msgstr "Utvaryć vulicy"
+
+msgid "Generate towns"
+msgstr "Utvaryć miesty"
+
+msgid "Generating industries..."
+msgstr "Utvareńnie pramysłovych ustanoŭ..."
+
+msgid "Generating map..."
+msgstr "Utvareńnie mapy..."
+
+msgid "Generating preview..."
+msgstr "Utvareńnie papiar. prahladu..."
+
+msgid "Generating streets..."
+msgstr "Utvareńnie vulic..."
+
+msgid "Generating terrain..."
+msgstr "Utvareńnie miascovaści..."
+
+msgid "Generating towns..."
+msgstr "Sparadžáńnie miest..."
+
+msgid "Generator"
+msgstr "Utvaralnik"
+
+msgid "Generator:"
+msgstr "Utvaralnik:"
+
+msgid "Generic"
+msgstr "Ahulny"
+
+msgid "Geometry"
+msgstr "Hieametryia"
+
+msgid "Glacier express"
+msgstr "Hletčarny ekspres"
+
+msgid "Go back to menu"
+msgstr "Viarnucca da meniu"
+
+msgid "Go to next page"
+msgstr "Pierajści da nastupnaj staronki"
+
+msgid "Go to previous page"
+msgstr "Pierajści da papiaredniaj staronki"
+
+msgid "Go to station"
+msgstr "Napravicca da stancyi"
+
+msgid "Going to depot"
+msgstr "U darozie da depo"
+
+msgid "Good"
+msgstr "Dobra"
+
+msgid "Graphic API"
+msgstr "Hrafičnyj API"
+
+msgid "Graphics"
+msgstr "Hrafika"
+
+msgid "Graphics Preference"
+msgstr "Nałady Hrafiki"
+
+msgid "Graphics context creation failed ({graphicsApi})"
+msgstr "Pamyłka stvareńnia kantekstu {graphicsApi}"
+
+msgid "Graphics settings"
+msgstr "Nałady hrafiki"
+
+msgid "Grass"
+msgstr "Trava"
+
+msgid "Growth"
+msgstr "Raźvićcio"
+
+msgid "Growth: %1% residents"
+msgstr "Raźvićcio: %1% žycharoŭ"
+
+msgid "HUD icon filter"
+msgstr "HUD značok filtru"
+
+msgid "HUD: Toggle aircraft"
+msgstr "HUD: Pieraklučeńnie samalotaŭ"
+
+msgid "HUD: Toggle bus/tram stops"
+msgstr "HUD: Pieraklučeńnie prypynkaŭ aŭtobusaŭ/tramvaiaŭ"
+
+msgid "HUD: Toggle costs labels"
+msgstr "HUD: Pieraklučeńnie cetlikaŭ koštu"
+
+msgid "HUD: Toggle depots"
+msgstr "HUD: Pieraklučeńnie depo"
+
+msgid "HUD: Toggle income labels"
+msgstr "HUD: Pieraklučeńnie cetlikaŭ zarobkaŭ"
+
+msgid "HUD: Toggle industries"
+msgstr "HUD: Pieraklučeńnie pramysłovaściej"
+
+msgid "HUD: Toggle rail vehicles"
+msgstr "HUD: Pieraklučeńnie čyhunačnaha transpartu"
+
+msgid "HUD: Toggle road vehicles"
+msgstr "HUD: Pieraklučeńnie darožnaha transpartu"
+
+msgid "HUD: Toggle ships"
+msgstr "HUD: Pieraklučeńnie karabloŭ"
+
+msgid "HUD: Toggle signals"
+msgstr "HUD: Pieraklučeńnie syhnałaŭ"
+
+msgid "HUD: Toggle stations"
+msgstr "HUD: Pieraklučeńnie stancyj"
+
+msgid "HUD: Toggle towns"
+msgstr "HUD: Pieraklučeńnie miest"
+
+msgid "Hangar"
+msgstr "Anhar"
+
+msgid "Have 100km of railway tunnels in free game."
+msgstr "Zbudujcie 100km čyhunačnych tunelaŭ u volnaj hulnie."
+
+msgid "Have 400km of tracks in free game."
+msgstr "Prakładzicie 400km cyhunki ŭ volnaj hulnie."
+
+msgid "Have 50km of railway bridges in free game."
+msgstr "Pabudujcie 50 km čyhunačnych mastoŭ u volnaj hulnie."
+
+msgid "Have a cargo item transported with one of your vehicles in free game."
+msgstr "Pieravieźci hruz na transparcie ŭ volnaj hulnie."
+
+msgid "Have a cargo item waiting at a terminal in free game."
+msgstr "Miejcie hruz čakaiuščyŭ u terminale ŭ volnaj hulnie."
+
+msgid ""
+"Have a line with every passenger road vehicle type available from 1850 to "
+"2020 in free game."
+msgstr ""
+"U volnaj hulnie miejcie liniiu, iakaia budzie užyvać uvieś dastupny transpart ad "
+"1850 da 2020."
+
+msgid "Have a monthly maintenance cost of 200 million in free game."
+msgstr "U volnaj hulnie miejcie štomiesiačny košt utrymańnia ab 200 milionaŭ."
+
+msgid "Have a passenger on a vehicle in free game."
+msgstr "Pieravieźci pasažyra na transparcie ŭ volnaj hulnie."
+
+msgid "Have a town with a population of at least 1500 in free game."
+msgstr ""
+"U volnaj hulnie dasiahnicie nasielnictva adnaho ź miest nie miešn za 1500 "
+"žycharoŭ."
+
+msgid "Have a town with a population of at least 750 in free game."
+msgstr ""
+"U volnaj hulnie dasiahnicie nasielnictva adnaho ź miest nie miešn za 750 "
+"žycharoŭ."
+
+msgid "Have a train filled with at least 100 passengers in free game."
+msgstr "Pieravieźci 100 pasažyraŭ na ciahniku za adnu paiezdku ŭ volnaj hulnie."
+
+msgid "Have a train filled with at least 200 passengers in free game."
+msgstr "Pieravieźci 200 pasažyraŭ na ciahniku za adnu paiezdku ŭ volnaj hulnie."
+
+msgid "Have a train filled with at least 250 cargo items in free game."
+msgstr "Pieravieźci 250 hruzaŭ na ciahniku za adnu paiezdku ŭ volnaj hulnie."
+
+msgid "Have a train longer than the longest possible station in free game."
+msgstr ""
+"U volnaj hulnie stvarycie ciahnik, daŭžynia iakoha bolš za samuiu doŭhuiu "
+"dazvolenuiu stancyiu."
+
+msgid "Have a train that reaches higher than 450 meters in free game."
+msgstr "U volnaj hulnie zrabicie ciahnik na daŭžej za 450 metraŭ."
+
+msgid ""
+"Have all tracks electrified and high speed in free game. Have at least 100km "
+"of tracks."
+msgstr ""
+"U volnaj hulnie elektryfikujcie j adaptujcie čyhunku da vysokich chutkaściej. "
+"Prakłaści prynamsi 100 km."
+
+msgid "Have at least 300 cargo items waiting at a train station in free game."
+msgstr ""
+"U volnaj hulnie miejcie nie mienš za 300 tavaraŭ, čakaiuščych na transparciroŭku "
+"na vakzale."
+
+msgid "Have at least 300 passengers waiting in a train station in free game."
+msgstr ""
+"U volnaj hulnie miejcie nie mienš za 300 pasažyraŭ, čakaiuščych na ciahnik na "
+"vakzale."
+
+msgid ""
+"Have every industry shipping items using your transport network in free game."
+msgstr ""
+"U volnaj hulnie vaša transpartnaia sietka pieravozić pradukcyiu kožnaj "
+"pramysłovaści."
+
+msgid "Have two trains stuck facing each other in free game."
+msgstr ""
+"U volnaj hulnie zrabicie dva ciahnika, iakiia staiać adzin nasuprać adnaho."
+
+msgid "Heading for depot"
+msgstr "Nakirovany da depo"
+
+msgid "Heading for {stopName}"
+msgstr "Nakiravany da: {stopName}"
+
+msgid "Headquarters"
+msgstr "Štab-kvatera"
+
+msgid "Heavily loaded"
+msgstr "Mocna zahružany"
+
+msgid "Height at mouse cursor: {height}"
+msgstr "Vyšynia na kursory myšy: {height}"
+
+msgid "Height at screen center: {height}"
+msgstr "Vyšynia na centry ekrana: {height}"
+
+msgid "Heightmap"
+msgstr "Mapa vyšyń"
+
+msgid "Heightmap height invalid. Valid heights: %1%."
+msgstr "Niapravilnaia vyšynia mapy vyšyni. Dazvolenaia vyšynia: %1%."
+
+msgid "Heightmap texture tool"
+msgstr "Pryłada teksturavańnia map vyšyń"
+
+msgid "Heightmap texture tool: Invert"
+msgstr "Pryłada teksturavańnia map vyšyń: adviarnuć"
+
+msgid "Heightmap too large. Number of pixels must not exceed %1%M."
+msgstr ""
+"Mapa vyšyń zavialikaia. Kolkaść piksielaŭ nia moža by bolš za %1% milionaŭ."
+
+msgid "Heightmap width invalid. Valid widths: %1%."
+msgstr "Niapravilnaia šyrynia mapy vyšyni. Dazvolenaia šyrynia: %1%."
+
+msgid "Help"
+msgstr "Dapamoha"
+
+msgid "High"
+msgstr "Vysoki"
+
+msgid "High speed"
+msgstr "Vysokaia chutkaść"
+
+msgid "High-speed"
+msgstr "Šybki"
+
+msgid "High-speed track tool"
+msgstr "Pryłada čyhunki vysokaj chutkaści"
+
+msgid "Horse"
+msgstr "Koń"
+
+msgid "Idle"
+msgstr "Biaździejny"
+
+msgid ""
+"If you continue, all unfinished downloads will be cancelled and download "
+"progress will be lost."
+msgstr ""
+"Kali praciahnuć, usie aktyŭnyia ściahvańni buduć skasavany, i ich postup "
+"budzie stračany."
+
+msgid "Illegal Content"
+msgstr "Nielehalny źmiest"
+
+msgid "Image file too large (must be less than 1MB)"
+msgstr "Fajł vyiavy zavialiki (muść być mienš za 1 MB)!"
+
+msgid "Image type must be grayscale."
+msgstr "Typ vyiavy musić być u adcieńniach šeraha."
+
+msgid "Image:"
+msgstr "Vyiava:"
+
+msgid "Import"
+msgstr "Impartavać"
+
+msgid "Import heightmap"
+msgstr "Impartavać mapu vyšyń"
+
+msgid "Important note"
+msgstr "Važna natatka"
+
+msgid "In"
+msgstr "Uvachod"
+
+msgid "In depot"
+msgstr "U depo"
+
+msgid "Income"
+msgstr "Dachody"
+
+msgid "Incoming vehicle(s)"
+msgstr "Prybyvaiučy transpart"
+
+msgid "Industrial"
+msgstr "Pramysłovaść"
+
+msgid "Industrial area"
+msgstr "Pramysłovaia zona"
+
+msgid "Industrial building"
+msgstr "Pramysłovy budynak"
+
+msgid "Industrial supply"
+msgstr "Pramysłovyia tavary"
+
+msgid "Industrialist"
+msgstr "Pramysłoviec"
+
+msgid "Industries"
+msgstr "Pramysłovyia ŭstanovy"
+
+msgid "Industry"
+msgstr "Pramysłovaść"
+
+msgid "Industry closure"
+msgstr "Zakryćcio pramysłovaści"
+
+msgid "Industry spawn"
+msgstr "Uźniknieńnie pramysłovaści"
+
+msgid "Industry statistics"
+msgstr "Statystyka pramysłovaści"
+
+msgid "Infrastructure"
+msgstr "Infrastruktura"
+
+msgid "Initial street angle range"
+msgstr "Pačatkovy dyiapazon kutkoŭ vulicy"
+
+msgid "Insert a random seed to be used for the generator"
+msgstr "Ustaŭcie vypadkovaie ziernie, iakoie budzie užyta ŭtvarataram"
+
+msgid "Insert fade after"
+msgstr "Ustavić zniknieńnie paśla"
+
+msgid "Insert fade before"
+msgstr "Ustavić zniknieńnie pierad"
+
+msgid "Insert key frame after"
+msgstr "Ustavić klučavy kadr paśla"
+
+msgid "Insert key frame before"
+msgstr "Ustavić klučavy kadr pierad"
+
+msgid "Insert subtitle after"
+msgstr "Ustavić podpis paśla"
+
+msgid "Insert subtitle before"
+msgstr "Ustavić podpis pierad"
+
+msgid "Installation failed due to insufficient storage space"
+msgstr "Ustaloŭka nie ŭdałasia z-za braku volnaha miejsca"
+
+msgid "Installation pending"
+msgstr "Idzie ŭstaloŭka"
+
+msgid "Installed"
+msgstr "Ustalavana"
+
+msgid "Insufficient storage space"
+msgstr "Mała miejsca"
+
+msgid "Interface"
+msgstr "Interfejs"
+
+msgid "Interface scaling"
+msgstr "Maštabavańnie interfejsu"
+
+msgid "Internal error (see console for details)"
+msgstr "Unutranaia pamyłka (padrabiaznaści ŭ kansoli)"
+
+msgid "Invalid configuration, %1% module will collide."
+msgid_plural "Invalid configuration, %1% modules will collide."
+msgstr[0] "Niapravilnyia nałady. Adbudziecca sutyknieńnie z modulem %1%."
+msgstr[1] "Niapravilnyia nałady. Adbudziecca sutyknieńnie z modulami %1%."
+msgstr[2] "Niapravilnyia nałady. Adbudziecca sutyknieńnie z modulami %1%."
+
+msgid "Inventory"
+msgstr "Ryštunak"
+
+msgid "Invert"
+msgstr "Adviarnuć"
+
+msgid "Invert panning"
+msgstr "Adviarnuć panaramavańnie"
+
+msgid "Invert rotate"
+msgstr "Adviarnuć kručeńnie"
+
+msgid "Invert rotation"
+msgstr "Adviarnuć kručeńnie"
+
+msgid "Invert rotation keys"
+msgstr "Adviarnuć klavišy kručeńnia"
+
+msgid "Invert tilt"
+msgstr "Adviarnuć nachił"
+
+msgid "Invert tilting"
+msgstr "Adviarnuć nachileńnie"
+
+msgid "Invert zoom"
+msgstr "Adviarnuć maštab"
+
+msgid "Invert zooming"
+msgstr "Adviarnuć maštabavańnie"
+
+msgid "Investments"
+msgstr "Układy"
+
+msgid "JPEG couldn't be read"
+msgstr "Niemahčyma pračytać fajł JPEG"
+
+msgid "JPEG has not enough channels (min: 3)"
+msgstr "Fajł JPEG nia maie dastatkovaj kolkaści kanałaŭ (min. 3)."
+
+msgid "Jobs"
+msgstr "Miejscy pracy"
+
+msgid "Keep"
+msgstr "Zachavać"
+
+msgid ""
+"Keep a train built before 1900 running until the year 2000 in free game."
+msgstr ""
+"U volnaj hulnie ŭžyvajcie ciahnik, pabudavany pierad 1900 hodzie da 2000 hoda."
+
+msgid "Keep assets"
+msgstr "Zachavać elemienty"
+
+msgid "Keep editing"
+msgstr "Praciahnuć redahdavańnie"
+
+msgid "Keep existing industries"
+msgstr "Zachavać isnuiučyia pramysłovaści"
+
+msgid "Keep existing industries:"
+msgstr "Zachavać isnuiučyia pramysłovaści:"
+
+msgid "Keep existing streets"
+msgstr "Zachavać isnuiučyia vulicy"
+
+msgid "Keep existing towns"
+msgstr "Zachavać isnuiučyia miesty"
+
+msgid "Keep existing towns:"
+msgstr "Zachavać isnuiučyia miesty:"
+
+msgid "Keep heightmap"
+msgstr "Zachavać mapu vyšyni"
+
+msgid "Keep resolution?"
+msgstr "Zachavać raździalalnaść?"
+
+msgid "Keep trees and rocks"
+msgstr "Zachavać drevy j kamiani"
+
+msgid "Key mapping"
+msgstr "Pryznačeńnie klaviš"
+
+msgid "KeyFrame {frame_num}"
+msgstr "Klučavy kadr {frame_num}"
+
+msgid "Keyboard"
+msgstr "Klaviiatura"
+
+msgid "Keyboard settings"
+msgstr "Nałady klaviiatury"
+
+msgid "Keyframes"
+msgstr "Klučavyia kadry"
+
+msgid "Land use"
+msgstr "Zabudova ziamli"
+
+msgid "Land use layer"
+msgstr "Słoj zabudavańnia ziamli"
+
+msgid "Landscaping"
+msgstr "Praekt kraiavidu"
+
+msgid "Lanes: %1%, Speed limit: %2%"
+msgstr "Kalejki: %1%; abmiežavańnie chutkaści: %2%"
+
+msgid "Language"
+msgstr "Mova"
+
+msgid "Last Image:"
+msgstr "Apošniaia vyiava:"
+
+msgid "Last recording:"
+msgstr "Apošni zapis:"
+
+msgid "Last savegame \"%1%\""
+msgstr "Apošniaia zachavanaia hulnia: „%1%”"
+
+msgid "Leaving game..."
+msgstr "Vychad z hulni…"
+
+msgid "Length"
+msgstr "Daŭžynia"
+
+msgid "Length: %1%"
+msgstr "Daŭžynia: %1%"
+
+msgid "Let a manufacturing industry upgrade in free game."
+msgstr "Palepšyć pramysłovuiu ŭstanovu ŭ volnaj hulnie."
+
+msgid "Level"
+msgstr "Uzrovień"
+
+msgid "Liabilities"
+msgstr "Zapazyčanaści"
+
+msgid "Lifespan"
+msgstr "Tryvałaść"
+
+msgid "Lifetime reached"
+msgstr "Dasiahnuty cykł žyćcia"
+
+msgid "Likes"
+msgstr "Padabajki"
+
+msgid "Limit of {number} industries on map reached"
+msgstr "Dasiahnuta miaža {number} pramysłovaściej na mapie"
+
+msgid "Limit of {number} towns on map reached"
+msgstr "Dasiahnuta miaža {number} miest na mapie"
+
+msgid "Limit reached!\n"
+msgstr "Dasiahnuta abmiežavańnie!\n"
+
+msgid "Line"
+msgstr "Liniia"
+
+msgid "Line Usage"
+msgstr "Užyvańnie linii"
+
+msgid "Line contains too few stations"
+msgstr "Na hetaj linii zamała stancyj"
+
+msgid "Line manager"
+msgstr "Nałady linij"
+
+msgid "Line must contain at least one stop"
+msgstr "Na linii pavinien być prynamsi adzin prypynak"
+
+msgid "Line statistics"
+msgstr "Statystyka linij"
+
+msgid "Lines"
+msgstr "Linii"
+
+msgid "Lines passing:"
+msgstr "Prachadzimyia linii:"
+
+msgid "Lines report following problems:"
+msgstr "Linii paviedamlaiuć pra nastupnyia prablemy:"
+
+msgid "Liquidity"
+msgstr "Płynnaść"
+
+msgid "Load"
+msgstr "Zahruzić"
+
+msgid "Load Camera config"
+msgstr "Sčytać nałady kamery"
+
+msgid "Load Game"
+msgstr "Sčytać hulniu"
+
+msgid "Load Map"
+msgstr "Sčytać mapu"
+
+msgid "Load a map"
+msgstr "Sčytać mapu"
+
+msgid "Load an existing game"
+msgstr "Sčytać isnuiučuiu hulniu"
+
+msgid "Load an existing map"
+msgstr "Sčytać isnuiučuiu mapu"
+
+msgid "Load game"
+msgstr "Sčytać hulniu"
+
+msgid "Load if available"
+msgstr "Zahrudžać, kali mahčyma"
+
+msgid "Load key frames"
+msgstr "Sčytać klučavy kadr"
+
+msgid "Load map"
+msgstr "Sčytać mapu"
+
+msgid "Load mod preset"
+msgstr "Sčytać narychtoŭku madyfikacyj"
+
+msgid "Load presets"
+msgstr "Sčytać narychtoŭku"
+
+msgid "Load savegame?"
+msgstr "Sčytać hulniu?"
+
+msgid "Load the map"
+msgstr "Sčytać mapu"
+
+msgid "Loaded"
+msgstr "Zahrudžanny"
+
+msgid "Loading order, click to change"
+msgstr "Paradak zahruzki. Naciścicie, kab zmianić"
+
+msgid "Loading page {page}"
+msgstr "Zahruzka staronki {page}"
+
+msgid "Loading report"
+msgstr "Zahruzka spravazdačy"
+
+msgid "Loading speed"
+msgstr "Chutkaść pahruzki"
+
+msgid ""
+"Loading speed reduced because train length ({train}) exceeds platform length "
+"({station})"
+msgstr ""
+"Chutkaść pahruzki źnižana z-za daŭžyni ciahnika ({train}), iakaia bolš za "
+"daŭžyniu platformy ({station})"
+
+msgid "Loading speed: {amount}x"
+msgstr "Chutkaść pahruzki: {amount}x"
+
+msgid "Loading..."
+msgstr "Zahruzka..."
+
+msgid "Loan"
+msgstr "Pazyka"
+
+msgid "Loan interest"
+msgstr "Pracenty pazyki"
+
+msgid "Loan to repay: %1%"
+msgstr "Pazyka da viartańnia: %1%"
+
+msgid "Locate"
+msgstr "Znajści"
+
+msgid "Locomotives"
+msgstr "Łiokamatyvy"
+
+msgid "Logging Out"
+msgstr "Vychad z akaŭntu"
+
+msgid "Logging in, please wait..."
+msgstr "Idzie ŭvachod u akaŭnt, čakajcie..."
+
+msgid "Login"
+msgstr "Uvajści ŭ akaŭnt"
+
+msgid "Login to mod.io"
+msgstr "Uvajść u akaŭnt mod.io"
+
+msgid "Logout"
+msgstr "Vyjści z akaŭntu"
+
+msgid "Louis Favre"
+msgstr "Łui Favr"
+
+msgid "Low"
+msgstr "Nizka"
+
+msgid "Lower"
+msgstr "Źnizić"
+
+msgid "Lower the terrain."
+msgstr "Źnizić ziamlu."
+
+msgid "Lower tool"
+msgstr "Prałada zanižeńnia"
+
+msgid "Lower {townName}"
+msgstr "{townName} Dolnaie miesta"
+
+msgid "MODIO_INFO"
+msgstr ""
+"Mod.io - heta rekamendavanaia Urban Games platforma dla prahladu madyfikacyiaŭ "
+"da Transport Fever 2, iakaia dazvalaie ŭsim karystalnikam PK (nia tolki "
+"karystalnikam Steam), a taksama ŭładalnikam PlayStation®5 i Xbox Series X|"
+"S zapampoŭvać iak madyfikacyi elementaŭ, tak i skrypty dla Transport Fever "
+"2.\n"
+"\n"
+"Kab zrabić ich dastupnymi dla šyrokaj supolnaści karystalnikaŭ kansolaŭ i "
+"karystalnikaŭ, iakiia nie vykarystoŭvaiuć Steam, aŭtaram madyfikacyiaŭ "
+"nieabchodna specyialna zapampavać svaie mody na mod.io, što možna lohka "
+"zrabić praz pryładu publikacyi madyfikacyiaŭ u hulni. Mody z mod.io možna "
+"niepasredna ściahvać, ustaloŭvać i aŭtamatyčna abnaŭlać praz ubudavany "
+"ahladalnik madyfikacyiaŭ u hulni. Vialiki dziakuj usim aŭtaram madyfikacyiaŭ "
+"za ich uniosak."
+
+msgid "Main connection will be interrupted"
+msgstr "Hałoŭnyia złučeńni buduć priervany"
+
+msgid "Main connections"
+msgstr "Hałoŭnyia złučeńni"
+
+msgid "Main connections:"
+msgstr "Hałoŭnyia złučeńni:"
+
+msgid "Maintenance"
+msgstr "Utrymańnie"
+
+msgid "Maintenance depots"
+msgstr "Utrymańnie depo"
+
+msgid "Maintenance infrastructure"
+msgstr "Utrymańnie infrastruktury"
+
+msgid "Maintenance other"
+msgstr "Utrymańnie druhoha"
+
+msgid "Maintenance roads"
+msgstr "Utrymańnie daroh"
+
+msgid "Maintenance set to keep vehicle at %1% condition"
+msgstr "Utrymańnie ŭstalavana na zachoŭvańnie transpartu ŭ stanie: %1%"
+
+msgid "Maintenance stations"
+msgstr "Utrymańnie stancyj"
+
+msgid "Maintenance tracks"
+msgstr "Utrymańnie reiak"
+
+msgid "Maintenance vehicles"
+msgstr "Utrymańnie transpartu"
+
+msgid "Make public"
+msgstr "Zrabić ahulnadastupnym"
+
+msgid "Manage line"
+msgstr "Naładzić liniiu"
+
+msgid "Manage vehicle"
+msgstr "Naładzić transpart"
+
+msgid "Manage vehicles"
+msgstr "Naładzić transpart"
+
+msgid "Map Editor"
+msgstr "Redaktar map"
+
+msgid "Map Parameters"
+msgstr "Parametry mapy"
+
+msgid "Map format"
+msgstr "Farmat mapy"
+
+msgid "Map generation failed"
+msgstr "Nie ŭdałosia utvaryć mapu"
+
+msgid "Map size"
+msgstr "Pamier mapy"
+
+msgid "Map size is experimental and may lead to unexpected results."
+msgstr ""
+"Pamier mapy z'iaŭlaiecca eksperymientalnym i moža pryvieści da niečakanych z'iaŭ."
+
+msgid "Map size:"
+msgstr "Pamier mapy:"
+
+msgid "Mass production"
+msgstr "Masavia vytvorčaść"
+
+msgid "Master"
+msgstr "Hałoŭnaia hučnaść"
+
+msgid "Maximum loan: %1%"
+msgstr "Maksimalnaia pazyka: %1%"
+
+msgid "Maximum segment length reached"
+msgstr "Dasiahnuta maksimalnaia daŭžynia sehmientu"
+
+msgid "Maximum time before departure"
+msgstr "Maks. čas staianki pierad ad'iezdam"
+
+msgid "Mediocre"
+msgstr "Siarednie"
+
+msgid "Menu"
+msgstr "Meniu"
+
+msgid "Menu music"
+msgstr "Muzyka ŭ meniu"
+
+msgid "Metropolis"
+msgstr "Metrapoliia"
+
+msgid "Min. bridge height"
+msgstr "Min. vyšynia mostu"
+
+msgid "Min. tunnel depth"
+msgstr "Min. hłybinia tunelu"
+
+msgid "Minimum time before departure"
+msgstr "Min. čas staianki pierad ad'iezdam"
+
+msgid "Minus old vehicle value"
+msgstr "Minus košt staroha transpartu"
+
+msgid "Misc."
+msgstr "Rozn."
+
+msgid "Miscellaneous"
+msgstr "Roznaie"
+
+msgid "Missing electric tracks"
+msgstr "Brak elektryčnych reiak"
+
+msgid "Missing tram tracks"
+msgstr "Brak tramvajnych reiak"
+
+msgid "Mission %1%"
+msgstr "Misiia %1%"
+
+msgid "Mission completed"
+msgstr "Misiia vykanana"
+
+msgid "Mission failed"
+msgstr "Misiia pravalena"
+
+msgid "Mission tasks"
+msgstr "Zadačy misii"
+
+msgid "Mission {mission_num}"
+msgstr "Misiia {mission_num}"
+
+msgid "Mission {missions_done} of {missions_total}"
+msgstr "Misiia {missions_done} z {missions_total}"
+
+msgid "Mission: %1%"
+msgstr "Misiia: %1%"
+
+msgid "Mixed rocks"
+msgstr "Źmiešanyia kamieni"
+
+msgid "Mixed trees"
+msgstr "Źmiešanyia drevy"
+
+msgid "Mod Browser"
+msgstr "Madyfikacii"
+
+msgid "Mod Details"
+msgstr "Detali madyfikacyi"
+
+msgid "Mod details"
+msgstr "Detali madyfikacyi"
+
+msgid "Mod not installed"
+msgstr "Madyfikacyi nie ŭstalavany"
+
+msgid "Mod parameters"
+msgstr "Paramietry madyfikacyi"
+
+msgid "Mod preset name"
+msgstr "Nazva narychtoŭku madyfikacyj"
+
+msgid "Mod publishing"
+msgstr "Publikacyia madyfikacyi"
+
+msgid "Mod size"
+msgstr "Pamier madyfikacyi"
+
+msgid ""
+"Mod upload could not proceed due to a filesystem issue. Please check the "
+"files in your staging area."
+msgstr ""
+"Zapampoŭka madyfikacyi nie moža być praciahnutaia z-za prablemy z fajłavaj "
+"systemaj. Kali łaska, praviercie fajły ŭ svaim padrychtoŭčym abšary."
+
+msgid "Mod.io info"
+msgstr "Infarmacyia mod.io"
+
+msgid "Modify for "
+msgstr "Adnavić za "
+
+msgid "Modify the terrain with a heightmap texture."
+msgstr "Źmianiaie miascovaść praz tekstury map vyšyń."
+
+msgid "Mods"
+msgstr "Madyfikacyi"
+
+msgid "Module bulldozer"
+msgstr "Buldozier modulaŭ"
+
+msgid "Money number format"
+msgstr "Farmat zapisu hrošaj"
+
+msgid "Month"
+msgstr "Miesiac"
+
+msgid "More details"
+msgstr "Padrabiaźniej"
+
+msgid "Mouse"
+msgstr "Myš"
+
+msgid "Mouse movement sensitivity"
+msgstr "Čullivaść ruchu myšy"
+
+msgid "Mouse settings"
+msgstr "Nałady myšy"
+
+msgid "Mouse wheel sensitivity"
+msgstr "Čullivaść koła myšy"
+
+msgid "Move down"
+msgstr "Ruch da dołu"
+
+msgid "Move mode"
+msgstr "Režym ruchu"
+
+msgid "Move up"
+msgstr "Ruch da hary"
+
+msgid "Move vehicle backward"
+msgstr "Pieramiaścić transpart nazad"
+
+msgid "Move vehicle down"
+msgstr "Pieramiaścić transpart da dołu"
+
+msgid "Move vehicle forward"
+msgstr "Pieramiaścić transpart napierad"
+
+msgid "Move vehicle to the back"
+msgstr "Pieramiaścić transpartny nazad"
+
+msgid "Move vehicle to the front"
+msgstr "Pieramiaścić transpartny napierad"
+
+msgid "Move vehicle up"
+msgstr "Pieramiaścić transpart da hary"
+
+msgid "Movement sensitivity (game camera)"
+msgstr "Čujnaść da ruchu (hulniavaia kamera)"
+
+msgid "Multiple units"
+msgstr "Ciahavy kopleks"
+
+msgid "Multiple vehicles."
+msgstr "Niekalki transpartu"
+
+msgid "Museum line"
+msgstr "Muziejnaia liniia"
+
+msgid "Music"
+msgstr "Muzyka"
+
+msgid "Music player"
+msgstr "Prajhravalnik muzyki"
+
+msgid "Mute"
+msgstr "Prycišyć"
+
+msgid "N/A"
+msgstr "N/D"
+
+msgid "NEW_GAME_TAKING_TOO_LONG_STR"
+msgstr "Ustalavańnie mapy zajmaie krychu bolš času. Hulnia nieŭzabavie pačniecca"
+
+msgid "Name"
+msgstr "Nazva"
+
+msgid "Narrow angle"
+msgstr "Vuzki kut"
+
+msgid "Navigable waters"
+msgstr "Sudachodnyia vody"
+
+msgid "Navigable waters layer"
+msgstr "Słoj sudnachodnych vod"
+
+msgid "Network Error"
+msgstr "Pamyłka sietki"
+
+msgid "Never"
+msgstr "Nikoli"
+
+msgid "New cargo demand"
+msgstr "Novy popyt na hruz"
+
+msgid "New industry founded"
+msgstr "Była zasnavana novaia pramysłovaść"
+
+msgid "New line"
+msgstr "Novaia liniia"
+
+msgid "New train"
+msgstr "Novy ciahnik"
+
+msgid "New vehicle"
+msgstr "Novy transpart"
+
+msgid "New vehicle available"
+msgstr "Dastupny novy transpart"
+
+msgid "New vehicles"
+msgstr "Novy transpart"
+
+msgid "Next"
+msgstr "Dalej"
+
+msgid "Next/previous image"
+msgstr "Nastupnaia/papiaredniaia vyiava"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "No Line"
+msgstr "Brak linii"
+
+msgid "No bridge"
+msgstr "Brak mastu"
+
+msgid "No cargo type"
+msgstr "Brak typu hruzu"
+
+msgid "No construction set!"
+msgstr "Brak budaŭničaj ustaloŭki!"
+
+msgid "No costs"
+msgstr "Brak koštu"
+
+msgid "No country for old trains"
+msgstr "Heta kraina nie dla starych ciahnikoŭ"
+
+msgid "No depot found"
+msgstr "Depo nia znojdziena"
+
+msgid "No electric path"
+msgstr "Brak elektryfikavanaj trasy"
+
+msgid "No filter currently set"
+msgstr "Abrana žadnych filtraŭ"
+
+msgid "No free seats"
+msgstr "Brak volnych miejscaŭ"
+
+msgid "No line passing"
+msgstr "Brak linij"
+
+msgid "No lines have been created yet. Create lines to see them here."
+msgstr "Nie stvorana žadnych linij. Stvarycie liniia, iakiia z'iaviacca tut."
+
+msgid "No logo"
+msgstr "Brak lohatypu"
+
+msgid ""
+"No maps available.\n"
+"\n"
+"Maps can be created with the map editor or\n"
+"downloaded from Steam Workshop."
+msgstr ""
+"Brak dastupnych map.\n"
+"\n"
+"Mapy možna stvarać u redaktary abo\n"
+"spampavać z majsterni Steam."
+
+msgid ""
+"No maps available.\n"
+"\n"
+"Maps can be created with the map editor."
+msgstr ""
+"Brak dastupnych map.\n"
+"\n"
+"Mapy možna stvarać u redaktary."
+
+msgid "No matches"
+msgstr "Brak vynikaŭ"
+
+msgid "No mods match your current search or filter"
+msgstr ""
+"Brak madyfikacyiaŭ, iakiia adpaviadaiuć tvajmu biahučamu pošuku abo filtru."
+
+msgid "No money:"
+msgstr "Brak hrošaj:"
+
+msgid "No parameters"
+msgstr "Brak parametraŭ"
+
+msgid "No path"
+msgstr "Brak darohi"
+
+msgid "No path (Big aircraft)"
+msgstr "Brak trasy (Vialikiia samaloty)"
+
+msgid "No path (Big ship)"
+msgstr "Brak trasy (Vialikiia karabli)"
+
+msgid "No path (Electric)"
+msgstr "Brak trasy (Elektryčny)"
+
+msgid "No path for big airplanes"
+msgstr "Brak trasy dla vialikich samalotaŭ"
+
+msgid "No path for big ships"
+msgstr "Brak trasy dla vialikich karabloŭ"
+
+msgid "No path found between %1% and %2%"
+msgstr "Brak šlachu miž miž „%1%” i „%2%”"
+
+msgid "No release notes provided"
+msgstr "Brak padrabiaznaj infarmacyi"
+
+msgid "No saved games available."
+msgstr "Brak zachavańniaŭ"
+
+msgid "No segment removable"
+msgstr "Brak vydalaiemych sehmentaŭ"
+
+msgid "No stations have been added yet. Add stations to see them here."
+msgstr "Brak dadadzienych stancyj. Dadajcie stancyi, kab iany z'iavilisia tut."
+
+msgid "No street connection"
+msgstr "Brak darožnaha złučeńnia"
+
+msgid "No tasks available"
+msgstr "Brak dastupnych zadač"
+
+msgid "No tunnel"
+msgstr "Brak tunelu"
+
+msgid "No vehicle in depot"
+msgstr "Brak transpartu ŭ depo"
+
+msgid "No vehicle to replace"
+msgstr "Brak transpartu na zamienu"
+
+msgid "No vehicles to replace!"
+msgstr "Brak transpartu na zamienu!"
+
+msgid "No vehicles with current filter setting available"
+msgstr "Brak transpartu ź biahučymi naładami filtru"
+
+msgid "Node locked"
+msgstr "Vuzieł zabłakavany"
+
+msgid "None"
+msgstr "Brak"
+
+msgid "Normal"
+msgstr "Narmalna"
+
+msgid "Not Working"
+msgstr "Nia dzieia"
+
+msgid "Not assigned to a terminal"
+msgstr "Nie pryznačany dla terminału"
+
+msgid "Not compatible for replacement"
+msgstr "Nie prydatny dla zamieny"
+
+msgid "Not contained by any line as waypoint"
+msgstr "Nie z'iaŭlaiecca punktam dla anivodnaj linii ŭ iakaści maršrutnaha punktu"
+
+msgid "Not enough money"
+msgstr "Zamała hrošaj"
+
+msgid "Not enough money."
+msgstr "Zamała hrošaj."
+
+msgid "Not in my backyard"
+msgstr "Nie na maim padvorku"
+
+msgid "Nothing waiting"
+msgstr "Ničoha nie čakaie"
+
+msgid "Notifications"
+msgstr "Paviedamleńni"
+
+msgid "Now demands "
+msgstr "Ciapier maie popyt na "
+
+msgid "Now what?"
+msgstr "I što zaraz?"
+
+msgid "Number of industries:"
+msgstr "Kolkaść pramysłovych ustanoŭ:"
+
+msgid "Number of items currently in stock"
+msgstr "Kolkaść tavaraŭ u naiaŭnaści"
+
+msgid "Number of lines"
+msgstr "Kolkaść linij"
+
+msgid "Number of towns"
+msgstr "Kolkaść miest"
+
+msgid "Number of towns:"
+msgstr "Kolkaść miest:"
+
+msgid "OK"
+msgstr "Dobra"
+
+msgid "Off"
+msgstr "Vykł."
+
+msgid "Ok"
+msgstr "Dobra"
+
+msgid "Old timer"
+msgstr "Vieteran"
+
+msgid "Oldest vehicle"
+msgstr "Najstarejšy transpart"
+
+msgid "On"
+msgstr "Ukł."
+
+msgid "One-way"
+msgstr "Adnakirunkovy"
+
+msgid "Only show air lines and hangars"
+msgstr "Pakazać tolki trasy palotaŭ i anharaŭ"
+
+msgid "Only show lines and depots that are visible in the main view"
+msgstr "Pakazvać tolki linii j depo, bačnyia ŭ režymie hałoŭnaha prahladu"
+
+msgid "Only show lines that are visible in the main view"
+msgstr "Pakazvać tolki linii, bačnyia ŭ režymie hałoŭnaha prahladu"
+
+msgid "Only show railroad lines and depots"
+msgstr "Pakazać tolki čyhunačnyia linii j depo"
+
+msgid "Only show road lines and depots"
+msgstr "Pakazać tolki darohi j depo"
+
+msgid "Only show ship lines and shipyards"
+msgstr "Pakazać tolki trasy sudnaŭ i vierfiaŭ"
+
+msgid "Only show tram lines and depots"
+msgstr "Pakazać tolki tramvajnyia linii j depo"
+
+msgid "Only show vehicles that are visible in the main view"
+msgstr "Pakazvać tolki transpart, bačny ŭ režymie hałoŭnaha prahladu"
+
+msgid "Open advanced game settings dialog"
+msgstr "Adkryć akno pašyranych naład hulni"
+
+msgid "Open console"
+msgstr "Adkryć kansol"
+
+msgid "Open folder"
+msgstr "Adkryć tečku"
+
+msgid "Open source"
+msgstr "Adkryć krynicu"
+
+msgid "Open userdata folder"
+msgstr "Adkryć tečku z dadzienymi karystalnika"
+
+msgid "Open vehicle manager"
+msgstr "Adkryć nałady transpartu"
+
+msgid "Open vehicle store to buy vehicles"
+msgstr "Adkryjcie kramu transpartu, aby kupić transpart"
+
+msgid "Open vehicle window on purchase"
+msgstr "Adkryvać akno traspartu pry kupli"
+
+msgid "OpenGL"
+msgstr "OpenGL"
+
+msgid "Optional: Enter email address"
+msgstr "Dadatkova: uviadzicie adras e-pošty"
+
+msgid "Optional: Enter name"
+msgstr "Dadatkova: uviadzicie imia"
+
+msgid "Options:"
+msgstr "Nałady:"
+
+msgid "Originally posted by {author}:"
+msgstr "Aryhinalnaia publikacyia aŭtaram ({author}):"
+
+msgid "Other"
+msgstr "Inšaie"
+
+msgid "Other infrastructure"
+msgstr "Inšaia infrastruktura"
+
+msgid "Out"
+msgstr "Vyjście"
+
+msgid "Out of map"
+msgstr "Pa-za mapaj"
+
+msgid "Output resolution"
+msgstr "Vychadnaia raździalalnaść"
+
+msgid "Overload"
+msgstr "Pierahruzka"
+
+msgid "Overloaded stations"
+msgstr "Pierahružanyia stancyi"
+
+msgid "Overview"
+msgstr "Ahlad"
+
+msgid "Overwrite camera config?"
+msgstr "Pierazapisać nałady kamery?"
+
+msgid "Overwrite description and preview image"
+msgstr "Pierapišy apisańnie j papiar. prahladnuiu vyiavu"
+
+msgid "Overwrite description, summary and preview image"
+msgstr "Pierapišy apisańnie, padsumavańnie j papiar. prahladnuiu vyiavu"
+
+msgid "Overwrite heightmap?"
+msgstr "Pierazapisać mapy vyšyń?"
+
+msgid "Overwrite mod preset?"
+msgstr "Pierazapisać narychtóŭka madyfikacyi?"
+
+msgid "Overwrite savegame?"
+msgstr "Pierapisać zachavańnie?"
+
+msgid "Own streets."
+msgstr "Ułasnaść vulicy."
+
+msgid "Ownership test failed"
+msgstr "Pravierka na ŭłasnaść nie atrymałasia"
+
+msgid "Paint steep side"
+msgstr "Zamalujcie stromki bok"
+
+msgid "Paint tools"
+msgstr "Pryłady malavańnia"
+
+msgid "Pan sensitivity (free camera)"
+msgstr "Čujnaść panaramy (volnaia kamera)"
+
+msgid "Pan sensitivity (game camera)"
+msgstr "Čujnaść panaramy (hulniavaia kamera)"
+
+msgid "Passenger"
+msgstr "Pasažyrskiia"
+
+msgid "Passenger stop can not be used by cargo vehicles"
+msgstr "Hruzavy transpart nia moža być užyty praz pasažyrski prypynak"
+
+msgid "Passenger stops can not be used by cargo vehicles"
+msgstr "Hruzavy transpart nia moža być užyty praz pasažyrskiia prypynki"
+
+msgid "Passenger wagons"
+msgstr "Pasažyrskiia vahony"
+
+msgid "Passengers"
+msgstr "Pasažyry"
+
+msgid "Passengers transported (last 12 months)"
+msgstr "Pieravieziena pasažyraŭ (apošniia 12 miesiacaŭ)"
+
+msgid "Passengers transported (total)"
+msgstr "Pieravieziena pasažyraŭ (usiaho)"
+
+msgid "Paste"
+msgstr "Ustavić"
+
+msgid "Pause"
+msgstr "Prypynak"
+
+msgid "Pause preview"
+msgstr "Prypynić ahlad"
+
+msgid "Paused"
+msgstr "Prypynieny"
+
+msgid "Penny pincher"
+msgstr "Peni Pitčer"
+
+msgid "Perspective panning"
+msgstr "Zruch u pierspiektyvy"
+
+msgid "Picture"
+msgstr "Vyiava"
+
+msgid "Pin"
+msgstr "Zamacavać"
+
+msgid "Place random rocks with a brush."
+msgstr "Razmiaščaie vypadkovyia kamieni z dapamohaj pendźlu."
+
+msgid "Place random trees with a brush."
+msgstr "Razmiaščaie vypadkovyia drevy z dapamohaj pendźlu."
+
+msgid "Platform:"
+msgstr "Platforma:"
+
+msgid "Play Map"
+msgstr "Hulać na mapie"
+
+msgid "Play a free game in all three climates."
+msgstr "Zhulać volnuiu hulniu va ŭsich troch klimatach."
+
+msgid "Play a map"
+msgstr "Hulać na mapie"
+
+msgid "Play map"
+msgstr "Hulać na mapie"
+
+msgid "Play next song"
+msgstr "Prajhrać nastupnuiu pieśniu"
+
+msgid "Play or pause current song"
+msgstr "Prajhrać abo prypynić biahučuiu pieśniu"
+
+msgid "Play previous song"
+msgstr "Prajhrać papiaredniuiu pieśniu"
+
+msgid "Player Owned"
+msgstr "Ułasnaść hulca"
+
+msgid "Player owned"
+msgstr "Ułasnaść hulca"
+
+msgid "Player ownership"
+msgstr "Ułasnaść hulca"
+
+msgid "Player ownership control tool"
+msgstr "Pryłada ustalavańnia ułasnaści hulcom"
+
+msgid "Playlist"
+msgstr "Śpis prajhravańnia"
+
+msgid "Please check that you're signed in to PlayStation Network"
+msgstr "Pravier uvachod u sietku PlayStation"
+
+msgid "Please check that you're signed in to Xbox Live"
+msgstr "Pravier uvachod u sietku Xbox Live"
+
+msgid "Please check your email for your code and enter it here."
+msgstr "Praviercie svaiu e-poštu j uviadzicie siudy atrymany kod."
+
+msgid "Please check your network connection and try again later."
+msgstr "Praviercie svaio złučeńnie ź sietkaj i pasprabujcie iznoŭ paźniej."
+
+msgid "Please login to publish mod"
+msgstr "Uvajdzi ŭ akaŭnt, kab apublikavać madyfikacyiu"
+
+msgid "Please try installing the latest drivers for your graphics card."
+msgstr "Ustalujcie apošniia drajvery videakarty."
+
+msgid "Please wait ..."
+msgstr "Čakajcie..."
+
+msgid "Please wait, models are being replaced..."
+msgstr "Kali łaska, pačakajcie, madeli zamianiaiucca..."
+
+msgid "Point to the terrain"
+msgstr "Paznačcie miascovaść"
+
+msgid "Poor"
+msgstr "Nizka"
+
+msgid "Population"
+msgstr "Nasielnictva"
+
+msgid "Power"
+msgstr "Moc"
+
+msgid "Power rating"
+msgstr "Naminalnaia moc"
+
+msgid "Power units"
+msgstr "Adzinki mocy"
+
+msgid "Precision mode"
+msgstr "Režym dakładnaści"
+
+msgid "Preparing game..."
+msgstr "Padrychtoŭka hulni..."
+
+msgid "Preparing..."
+msgstr "Padrychtoŭka..."
+
+msgid "Presets"
+msgstr "Chutkiia nałady"
+
+msgid "Press <Shift> to set custom color"
+msgstr "Naciśnicie <Shift>, aby ŭstalavać ułasny koler"
+
+msgid ""
+"Press [iaHint=IA_SELECT/] or [iaHint=IA_NAV_ACTIVATE_SPACE/] to continue..."
+msgstr ""
+"Naciśni [iaHint=IA_SELECT/] abo [iaHint=IA_NAV_ACTIVATE_SPACE/], kab "
+"praciahnuć…"
+
+msgid "Press any key"
+msgstr "Naciśnicie lubuiu klavišu"
+
+msgid "Previous resolution setting will be restored in %2d seconds!"
+msgstr "Papiaredniaia nałada raździalalnaść budzie adnoŭlena praz %2d s!"
+
+msgid "Private transport"
+msgstr "Asablivy transpart"
+
+msgid "Produced"
+msgstr "Vyrableny"
+
+msgid "Product"
+msgstr "Vyrab"
+
+msgid "Production"
+msgstr "Vytvorčaść"
+
+msgid "Production rating"
+msgstr "Acenka vyrabu"
+
+msgid "Profit last 12 months"
+msgstr "Prybytak za apošniia 12 miesiacaŭ"
+
+msgid "Prohibited area"
+msgstr "Zabaronienaia zona"
+
+msgid "Public transport"
+msgstr "Hramandski transpart"
+
+msgid "Publish"
+msgstr "Apublikavać"
+
+msgid "Publish Map"
+msgstr "Apublikavać mapu"
+
+msgid "Publish Savegame"
+msgstr "Apublikavać zachavańnie"
+
+msgid "Publishing..."
+msgstr "Publikavańnie..."
+
+msgid "Quality"
+msgstr "Akaść"
+
+msgid "Quality of life in {townName}"
+msgstr "Akaść žyćcia – {townName}"
+
+msgid "Quantity"
+msgstr "Kolkaść"
+
+msgid "Quit"
+msgstr "Vyści"
+
+msgid "Quit game"
+msgstr "Vyjści z hulni"
+
+msgid "Quit to main menu"
+msgstr "Vyjść da hałoŭnaha meniu"
+
+msgid "Quit to main menu or desktop"
+msgstr "Vyjści da hałoŭnaha meniu ci da pracoŭnaha stała"
+
+msgid "Rail"
+msgstr "Čyhunka"
+
+msgid "Railroad"
+msgstr "Čyhunačnaia daroha"
+
+msgid "Railroad crossing"
+msgstr "Čyhunačny pieraiezd"
+
+msgid "Raise"
+msgstr "Padniać"
+
+msgid "Raise the terrain."
+msgstr "Padniać miascovaść."
+
+msgid "Raise tool"
+msgstr "Prałada pad'iomu"
+
+msgid "Random"
+msgstr "Vypadkovy"
+
+msgid "Random seed"
+msgstr "Vypadkovaie nasieńnia"
+
+msgid "Randomize rotation"
+msgstr "Vypadkovaie kručeńnie"
+
+msgid "Range:"
+msgstr "Šerah:"
+
+msgid "Rate"
+msgstr "Pakazalnik"
+
+msgid "Rating"
+msgstr "Acenka"
+
+msgid "Rating from \"%1%\" to \"%2%\""
+msgstr "Acenka ad „%1%” da „%2%”"
+
+msgid "Reach 400 production at a manufacturing industry in free game."
+msgstr "U volnaj hulnie dasiahnicie ab'iomu pramysłovaj vytvorčaści ab 400."
+
+msgid "Reach a speed of at least 120 km/h with a train in free game."
+msgstr "U volnaj hulnie dasiahnicie chutkaść nie mienš za 120 km/h ciahnikom."
+
+msgid "Reach a speed of at least 300 km/h with a train in free game."
+msgstr "U volnaj hulnie dasiahnicie chutkaść nie mienš za 300 km/h ciahnikom."
+
+msgid "Reach an emission value of 80 in a town in free game."
+msgstr "U volnaj hulnie dasiahnicie ŭzroŭniu zabrudžvańnia 80 u miestie."
+
+msgid "Reach the maximum headquarters level in free game."
+msgstr "U volnaj hulnie dasiahnicie maksimalnaha ŭzroŭniu štab-kvatery."
+
+msgid "Reach the present in free game."
+msgstr "Dasiahnicie biahučaha času ŭ volnaj hulnie."
+
+msgid "Reach the year 2050 using only trains in free game."
+msgstr "U volnaj hulnie vykarystoŭvacie tolki ciahniki da 2050 hodu."
+
+msgid "Reading heightmap..."
+msgstr "Čytannie map vyšyń..."
+
+msgid "Real estate"
+msgstr "Nieruchomaść"
+
+msgid "Record key frame"
+msgstr "Zapišycie klučavy kadr"
+
+msgid "Reduce"
+msgstr "Pamienšyć"
+
+msgid "Refittable"
+msgstr "Adnaŭlalny"
+
+msgid "Reflection"
+msgstr "Adbićcio"
+
+msgid "Refresh"
+msgstr "Abnavić"
+
+msgid "Refresh finished"
+msgstr "Abnaŭleńnie skončana"
+
+msgid "Refund: %1%"
+msgstr "Zwrot %1%"
+
+msgid "Relative mode"
+msgstr "Režym adnosnaści"
+
+msgid "Reload all textures?"
+msgstr "Pierasčytać usie tekstury?"
+
+msgid "Relocate"
+msgstr "Pierasunuć"
+
+msgid "Remove all"
+msgstr "Vydalić usio"
+
+msgid "Remove all connections"
+msgstr "Vydalić usie spałučeńni"
+
+msgid "Remove all stations and waypoints"
+msgstr "Vydalić usie stancyi j maršrutnyia punkty"
+
+msgid "Remove all stations?"
+msgstr "Vydalić usie stancyi?"
+
+msgid "Remove attachment"
+msgstr "Vydalić układańnie"
+
+msgid "Remove station or waypoint"
+msgstr "Vydalić stancyiu ci maršrutny punkt"
+
+msgid "Remove vehicle"
+msgstr "Vydalić transpart"
+
+msgid "Rename"
+msgstr "Źmianić nazvu"
+
+msgid "Repay %1%"
+msgstr "Zapłacić %1%"
+
+msgid "Replace all vehicles"
+msgstr "Zamianić uvieś transpart"
+
+msgid "Replace current list of activated mods with this preset."
+msgstr "Zamianić biahučy śpis aktyŭnych madyfikacyj praz hetu narychtoŭkuiu."
+
+msgid "Replace for "
+msgstr "Zamianić na "
+
+msgid "Replace selected vehicle"
+msgid_plural "Replace selected vehicles"
+msgstr[0] "Zamianić vybrany transpart"
+msgstr[1] "Zamianić vybrany transpart"
+msgstr[2] "Zamianić vybrany transpart"
+
+msgid "Replace vehicle"
+msgid_plural "Replace vehicles"
+msgstr[0] "Zamianić transpart"
+msgstr[1] "Zamianić transpart"
+msgstr[2] "Zamianić transpart"
+
+msgid "Replace vehicles"
+msgstr "Zamianić transpart"
+
+msgid "Replacing existing"
+msgstr "Zamiana isnuiučaha elementu"
+
+msgid "Replacing train"
+msgstr "Zamiena ciahniku"
+
+msgid "Replacing vehicle"
+msgstr "Zamiena transpartu"
+
+msgid "Report"
+msgstr "Paviedamleńnie"
+
+msgid "Report Mod"
+msgstr "Paviedami pra madyfikacyiu"
+
+msgid "Report Type"
+msgstr "Typ paviedamleńnia"
+
+msgid "Report submitted"
+msgstr "Paviedamleńnie było dasłana"
+
+msgid "Requirements"
+msgstr "Patrabavańni"
+
+msgid "Resend Code"
+msgstr "Dasłać kod iznoŭ"
+
+msgid "Reset color"
+msgstr "Ckinuć koler"
+
+msgid "Reset filters"
+msgstr "Ckinuć filtry"
+
+msgid "Reset key mapping to default?"
+msgstr "Adnavić pryviazki klaviš pa zmaŭčańni?"
+
+msgid "Reset settings to default"
+msgstr "Adnavić nałady pa zmaŭčańni"
+
+msgid "Reset to default"
+msgstr "Adnavić pa zmaŭčańni"
+
+msgid "Reset vehicle"
+msgstr "Skinuć transpart"
+
+msgid "Residential"
+msgstr "Žyły"
+
+msgid "Residential area"
+msgstr "Žyłaia zona"
+
+msgid "Residential building"
+msgstr "Žyły budynak"
+
+msgid "Residents"
+msgstr "Žychary"
+
+msgid "Resolution"
+msgstr "Raździalalnaść"
+
+msgid "Resolution scale"
+msgstr "Škała raździaleńnia"
+
+msgid "Restart"
+msgstr "Pierazapusk"
+
+msgid "Restart game and apply settings"
+msgstr "Pierazapuścić hulniu j užyć nałady"
+
+msgid "Restart the mission"
+msgstr "Pierazapuscicie misiiu"
+
+msgid "Resume"
+msgstr "Praciahnuć"
+
+msgid "Resume game"
+msgstr "Praciahnuć hulniu"
+
+msgid "Retry"
+msgstr "Sprabavać iznoŭ"
+
+msgid "Return to campaign menu"
+msgstr "Viarnucca da meniu kampanii"
+
+msgid "Return to main menu"
+msgstr "Viarnucca da hałoŭnaha meniu"
+
+msgid "Return to previous page"
+msgstr "Viarnucca da papiaredniaj staronki"
+
+msgid "Reverse"
+msgstr "Adviarnuć"
+
+msgid "Road"
+msgstr "Darožny"
+
+msgid "Road depot"
+msgstr "Darožnaie depo"
+
+msgid "Road vehicle"
+msgid_plural "Road vehicles"
+msgstr[0] "Darožny trasnpart"
+msgstr[1] "Darožny trasnpart"
+msgstr[2] "Darožny trasnpart"
+
+msgid "Road vehicle {number}"
+msgstr "Darožny transpart {number}"
+
+msgid "Road vehicles"
+msgstr "Darožny transpart"
+
+msgid "Roads"
+msgstr "Darohi"
+
+msgid "Rotate sensitivity (free camera)"
+msgstr "Čujnaść kručeńnia (volnaia kamera)"
+
+msgid "Rotate sensitivity (game camera)"
+msgstr "Čujnaść kručeńnia (hulniavaia kamera)"
+
+msgid "Rotation"
+msgstr "Kručeńnie"
+
+msgid "Rude Content"
+msgstr "Vulharny źmiest"
+
+msgid "Rule"
+msgstr "Praviła"
+
+msgid "Running"
+msgstr "Pracuie"
+
+msgid "Running costs"
+msgstr "Košt utrymańnia"
+
+msgid "Running costs: +{percentage}%"
+msgstr "Košt utrymańnia: +{percentage}%"
+
+msgid "Sandbox mode"
+msgstr "Režym piasočnicy"
+
+msgid "Sandbox mode:"
+msgstr "Režym piasočnicy:"
+
+msgid "Save"
+msgstr "Zachavać"
+
+msgid "Save & play"
+msgstr "Zachavać i hulać"
+
+msgid "Save and apply settings"
+msgstr "Zachavać i užyć nałady"
+
+msgid "Save and play map"
+msgstr "Zachavać i hulać na mapie"
+
+msgid "Save as preset"
+msgstr "Zachavać iak narychtoŭku"
+
+msgid "Save camera config"
+msgstr "Zachavać nałady kamery"
+
+msgid ""
+"Save failed: no space left.\n"
+"Please free {mb} MB and try again."
+msgstr ""
+"Niemahčyma zachavać: brak miejsca.\n"
+"Aprastajcie {mb} MB i paŭtarycie sprobu."
+
+msgid ""
+"Save failed: storage limit reached.\n"
+"Please open save menu to free {mb} MB and try again."
+msgstr ""
+"Niemahčyma zachavać: dasiahnuty limit pamiaci.\n"
+"Adkryjcie mieniu zachavańniaŭ, kab aprastać {mb} MB, i paŭtarycie sprobu."
+
+msgid "Save game"
+msgstr "Zachavać"
+
+msgid "Save game name"
+msgstr "Nazva zachavańnia"
+
+msgid "Save key frames"
+msgstr "Zachavać klučavyia kadry"
+
+msgid "Save map"
+msgstr "Zachavać mapu"
+
+msgid "Save mod preset"
+msgstr "Zachavać narychtoŭku madyfikacyj"
+
+msgid "Save..."
+msgstr "Zachavać..."
+
+msgid "Save... get ready to play map"
+msgstr "Zapis... padrychtoŭka da hulni"
+
+msgid "Saved game \"%1%\""
+msgstr "Zachavanaia hulnia „%1%”"
+
+msgid "Savegame not ready"
+msgstr "Zachavańnie nie hatova"
+
+msgid "Saving..."
+msgstr "Zachavańnie..."
+
+msgid "Scale"
+msgstr "Škała"
+
+msgid "Scroll description"
+msgstr "Prakrucić apisańnie"
+
+msgid "Sculpturer"
+msgstr "Raźbiar"
+
+msgid "Search for line..."
+msgstr "Pošuk linii..."
+
+msgid "Search for mod..."
+msgstr "Pošuk madyfikacyi..."
+
+msgid "Search for modules..."
+msgstr "Pošuk modulu..."
+
+msgid "Search for vehicle..."
+msgstr "Pošuk transpartu..."
+
+msgid "Search..."
+msgstr "Pošuk..."
+
+msgid "Seed"
+msgstr "Nasieńnia"
+
+msgid "Seed:"
+msgstr "Nasieńnia:"
+
+msgid "Select"
+msgstr "Vybrać"
+
+msgid "Select Campaign"
+msgstr "Vybrać kampaniiu"
+
+msgid "Select bit depth of grayscale image"
+msgstr "Vybierycie bitovuiu hłybiniu vyiavy ŭ adcieńniach šeraha"
+
+msgid "Select generator"
+msgstr "Vybrać utvaralnik"
+
+msgid "Select options"
+msgstr "Vybrać opcyi"
+
+msgid "Select terminal for this stop"
+msgstr "Vybierycie terminał dla hetaha prypynku"
+
+msgid "Select terminal for this waypoint"
+msgstr "Vybierycie terminał hetaha maršrutnaha punktu"
+
+msgid "Select the campaign"
+msgstr "Vybiarycie kampaniiu"
+
+msgid "Select vehicle"
+msgstr "Vybierycie transpart"
+
+msgid "Sell"
+msgstr "Pradać"
+
+msgid "Sell all vehicles"
+msgstr "Pradać uvieś transpart"
+
+msgid "Sell all vehicles?"
+msgstr "Pradać uvieś transpart?"
+
+msgid "Sell selected vehicle"
+msgid_plural "Sell selected vehicles"
+msgstr[0] "Pradać vybrany transpart"
+msgstr[1] "Pradać vybrany transpart"
+msgstr[2] "Pradać vybrany transpart"
+
+msgid "Sell selected vehicle?"
+msgid_plural "Sell selected vehicles?"
+msgstr[0] "Pradać vybrany transpart?"
+msgstr[1] "Pradać vybrany transpart?"
+msgstr[2] "Pradać vybrany transpart?"
+
+msgid "Sell vehicle"
+msgstr "Pradać transpart"
+
+msgid "Send"
+msgstr "Adpravić"
+
+msgid "Send all vehicles to depot"
+msgstr "Adpravić uvieś transpart da depo"
+
+msgid "Send all vehicles to depot?"
+msgstr "Adpravić uvieś transpart da depo?"
+
+msgid "Send crash reports"
+msgstr "Adpraŭlać spravazdačy ab zboiach"
+
+msgid "Send selected vehicle to depot"
+msgid_plural "Send selected vehicles to depot"
+msgstr[0] "Adpravić vybrany transpart da depo"
+msgstr[1] "Adpravić vybrany transpart da depo"
+msgstr[2] "Adpravić vybrany transpart da depo"
+
+msgid "Send to depot"
+msgstr "Adpravić da depo"
+
+msgid "Sensitivity settings"
+msgstr "Nałady čujnaści"
+
+msgid "Set Bridge Type"
+msgstr "Ustalavać typ mastu"
+
+msgid "Set Railroad Crossing Type"
+msgstr "Ukažycie typ čyhunačnaha pieraiezdu"
+
+msgid "Set Tunnel Type"
+msgstr "Ustalavać typ tunelu"
+
+msgid "Set color"
+msgstr "Ustalavać koler"
+
+msgid "Set color for all vehicles"
+msgstr "Ustalavać koler usiaho transpartu"
+
+msgid "Set color for selected vehicle"
+msgid_plural "Set color for selected vehicles"
+msgstr[0] "Ustalavać koler vybranamu transpartu"
+msgstr[1] "Ustalavać koler vybranamu transpartu"
+msgstr[2] "Ustalavać koler vybranamu transpartu"
+
+msgid "Set line"
+msgstr "Ukazać liniiu"
+
+msgid "Set output frame rate to {framerate} fps"
+msgstr "Ustalujcie vychadnuiu častatu kadraŭ na {framerate}"
+
+msgid "Set output game speed up to {speed}"
+msgstr "Ustalujcie chutkaść vyvadu hulni na {speed}"
+
+msgid "Set output resolution to {width} x {height}"
+msgstr "Ustalujcie vychadnuiu raździalalnaść {width} x {height}"
+
+msgid "Settings"
+msgstr "Nałady"
+
+msgid "Settings..."
+msgstr "Nałady..."
+
+msgid "Settled down"
+msgstr "Svaio hniaździečka"
+
+msgid "Setup a line so that town residents use your vehicles in free game."
+msgstr "U volnaj hulnie stvarycie liniiu, iakaia absłuhoŭvaie žycharoŭ miesta."
+
+msgid "Shadows"
+msgstr "Cieni"
+
+msgid "Share"
+msgstr "Dasłać"
+
+msgid "Shared capacity of station buildings for full platforms"
+msgstr "Ahulnaia iomistaść budynkaŭ stancyj da poŭnych platform"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Ship"
+msgid_plural "Ships"
+msgstr[0] "Karabiel"
+msgstr[1] "Karabli"
+msgstr[2] "Karabli"
+
+msgid "Ship {number}"
+msgstr "Karabiel {number}"
+
+msgid "Shipment"
+msgstr "Dastaŭka"
+
+msgid "Shipped"
+msgstr "Dasłana"
+
+msgid "Shipping"
+msgstr "Adpraŭka"
+
+msgid "Ships"
+msgstr "Karabli"
+
+msgid "Shipyard"
+msgstr "Verf"
+
+msgid "Shop"
+msgstr "Krama"
+
+msgid "Shopping"
+msgstr "Zakupy"
+
+msgid "Shopping facilities"
+msgstr "Handlovyia ab'iekty"
+
+msgid "Show all"
+msgstr "Pakazać usio"
+
+msgid "Show details"
+msgstr "Padrabiaźniej"
+
+msgid "Show in browser"
+msgstr "Adkryć ŭ ahladalniku"
+
+msgid "Show load game dialog"
+msgstr "Pakazać akno zahruzki hulni"
+
+msgid "Show missing resources dialog"
+msgstr "Pakazvać papiaredžańni ab braku resursaŭ"
+
+msgid "Show only visible"
+msgstr "Pakazać tolki bačnyia"
+
+msgid "Show only visible lines"
+msgstr "Pakazać tolki bačnyia linii"
+
+msgid "Show quit dialog"
+msgstr "Pakazać akno vychadu z hulni"
+
+msgid "Show save game dialog"
+msgstr "Pakazać akno zachavańnia hulni"
+
+msgid "Show settings dialog"
+msgstr "Pakazać akno naład"
+
+msgid "Show unsupported hardware warning"
+msgstr "Pakazać papiaredžańnie ab niepadtrymoŭvanym abstalavańni"
+
+msgid "Show video memory usage warning"
+msgstr "Pakazać papiaredžańnie ab vykarystańni hrafičnaj pamiaci"
+
+msgid "Show/hide HUD icon filter menu"
+msgstr "Pakazać/schavać meniu filtra značkoŭ HUD"
+
+msgid "Show/hide air buildings menu"
+msgstr "Pakazać/schavać meniu pavietravych budynkaŭ"
+
+msgid "Show/hide air menu"
+msgstr "Pakazać/schavać meniu pavietranaha transpartu"
+
+msgid "Show/hide assets menu"
+msgstr "Pakazać/schavać meniu elementaŭ"
+
+msgid "Show/hide camera tool"
+msgstr "Pakazać/schavać pryłady kamery"
+
+msgid "Show/hide cargo layer"
+msgstr "Pakazać/schavać słoj hruzaŭ"
+
+msgid "Show/hide contour lines layer"
+msgstr "Pakazać/schavać słoj linij"
+
+msgid "Show/hide data layers menu"
+msgstr "Pakazać/schavać meniu słaioŭ dadzienych"
+
+msgid "Show/hide destinations layer"
+msgstr "Pakazać/schavać słoj kirunkaŭ"
+
+msgid "Show/hide emission layer"
+msgstr "Pakazać/schavać słoj zabrudžvańnia"
+
+msgid "Show/hide industry statistics"
+msgstr "Pakazać/schavać statystyku pramysłovaści"
+
+msgid "Show/hide land use layer"
+msgstr "Pakazać/schavać słoj zabudovy terytoryi"
+
+msgid "Show/hide landscaping menu"
+msgstr "Pakazać/schavać meniu kraiavidu"
+
+msgid "Show/hide line manager"
+msgstr "Pakazać/schavać nałady linii"
+
+msgid "Show/hide line statistics"
+msgstr "Pakazać/schavać statystyku linij"
+
+msgid "Show/hide music player"
+msgstr "Pakazać/schavać muzyčny prajhravalnik"
+
+msgid "Show/hide navigable waters layer"
+msgstr "Pakazać/schavać słoj sudnachodnych vody"
+
+msgid "Show/hide rail buildings menu"
+msgstr "Pakazać/schavać meniu budynkaŭ čyhunačnaha transpartu"
+
+msgid "Show/hide rail menu"
+msgstr "Pakazać/schavać menu čyhunki"
+
+msgid "Show/hide road buildings menu"
+msgstr "Pakazać/schavać meniu budynkaŭ darožnaha transpartu"
+
+msgid "Show/hide road menu"
+msgstr "Pakazać/schavać menu darohi"
+
+msgid "Show/hide station statistics"
+msgstr "Pakazać/schavać statystyku stancyi"
+
+msgid "Show/hide stations layer"
+msgstr "Pakazać/schavać słoj stancyj"
+
+msgid "Show/hide statistics window"
+msgstr "Pakazać/schavać akno statystyki"
+
+msgid "Show/hide street builder menu (curved mode)"
+msgstr "Pakazać/schavać meniu budovy vulic (vyhnuty režym)"
+
+msgid "Show/hide street builder menu (straight mode)"
+msgstr "Pakazać/schavać meniu budovy vulic (prosty režym)"
+
+msgid "Show/hide street builder menu (upgrade mode)"
+msgstr "Pakazać/schavać meniu budovy vulic (režym palapšeńnia)"
+
+msgid "Show/hide street constructions menu"
+msgstr "Pakazać/schavać meniu budavańnia vulic"
+
+msgid "Show/hide street modification tools menu"
+msgstr "Pakazać/schavać meniu pryład palapšeńnia vulicy"
+
+msgid "Show/hide street traffic layer"
+msgstr "Pakazać/schavać słoj vuličnaha ruchu"
+
+msgid "Show/hide street waypoints menu"
+msgstr "Pakazać/schavać meniu maršrutnych punktaŭ vulic"
+
+msgid "Show/hide streets menu"
+msgstr "Pakazać/schavać meniu vulic"
+
+msgid "Show/hide terrain paint tools menu"
+msgstr "Pakazać/schavać meniu pryład dla malavańnia miascovaści"
+
+msgid "Show/hide terrain tools menu"
+msgstr "Pakazać/schavać mieniu pryład miascovaści"
+
+msgid "Show/hide town statistics"
+msgstr "Pakazać/schavać statystyku miest"
+
+msgid "Show/hide track builder menu (upgrade mode)"
+msgstr "Pakazać/schavać meniu budovy čyhunki (režym palapšeńnia)"
+
+msgid "Show/hide track modification tools menu"
+msgstr "Pakazać/schavać meniu pryład palapšeńnia čyhunki"
+
+msgid "Show/hide track signals menu"
+msgstr "Pakazać/schavać meniu syhnałaŭ"
+
+msgid "Show/hide track speed limits layer"
+msgstr "Pakazać/schavać słoj abmiežavańniaŭ chutkaści čyhunki"
+
+msgid "Show/hide track waypoints menu"
+msgstr "Pakazać/schavać meniu čyhunačnych maršrutnych punktaŭ"
+
+msgid "Show/hide tracks menu"
+msgstr "Pakazać/schavać meniu čyhunki"
+
+msgid "Show/hide vehicle manager"
+msgstr "Pakazać/schavać nałady transpartu"
+
+msgid "Show/hide vehicle statistics"
+msgstr "Pakazać/schavać statystyku transpartu"
+
+msgid "Show/hide warnings window"
+msgstr "Pakazać/schavać akno papiaredžańniaŭ"
+
+msgid "Show/hide water buildings menu"
+msgstr "Pakazać/schavać meniu vodnych budynkaŭ"
+
+msgid "Show/hide water menu"
+msgstr "Pakazać/schavać meniu vodnaha transpartu"
+
+msgid "Showing {from}-{to} of {total} mods"
+msgstr "{from}–{to} z {total} madyfikacyiaŭ"
+
+msgid "Sign in with Email"
+msgstr "Uvajści ŭ akaŭnt praz e-poštu"
+
+msgid "Sign-In Error"
+msgstr "Pamyłka ŭvachodu"
+
+msgid "Signal #{number}"
+msgstr "Syhnał #{number}"
+
+msgid "Signals"
+msgstr "Syhnały"
+
+msgid "Signals must be removed first"
+msgstr "Spačatku vydalicie syhnały"
+
+msgid "Single"
+msgstr "Adzinočny"
+
+msgid "Size"
+msgstr "Pamier"
+
+msgid "Skip collision"
+msgstr "Prapuścić sutyknieńni"
+
+msgid "Sky"
+msgstr "Nieba"
+
+msgid "Slope threshold"
+msgstr "Miaža nachiłu"
+
+msgid "Smooth the terrain."
+msgstr "Vyhładžvaie miascovaść."
+
+msgid "Smooth tool"
+msgstr "Pryłada vyhładžvańnia"
+
+msgid ""
+"Some DLCs and/or mods could not be found. Please install them first in order "
+"to load this savegame."
+msgstr ""
+"Niekatory Ściahvaiemy Źmiest nia moža być znojdzieny. Kab sčytać hetaie "
+"zachavańnie, vy musicie spačatku ŭstalavać ich."
+
+msgid "Some cargo items are lost because station is overloaded."
+msgstr "Častka hruzu była stračana z-za pierahruzu stancyi."
+
+msgid "Some passengers leave because station is overloaded."
+msgstr "Častka pasažyraŭ syšła, z-za pierahruzu vakzału."
+
+msgid "Sort"
+msgstr "Sartavać"
+
+msgid "Sound Effects"
+msgstr "Hukavyia efekty"
+
+msgid "Sound effects"
+msgstr "Hukavyia efekty"
+
+msgid "Soundtrack"
+msgstr "Hukavaia ściežka"
+
+msgid "Source"
+msgstr "Krynica"
+
+msgid "Spawning animals..."
+msgstr "Stvareńnie žyvioł..."
+
+msgid "Specify vehicle"
+msgstr "Paznačcie transpart"
+
+msgid "Speed"
+msgstr "Chutkaść"
+
+msgid "Speed of light"
+msgstr "Chutkaść śviatła"
+
+msgid "Speed units"
+msgstr "Adzinki chutkaści"
+
+msgid "Speed: 1x"
+msgstr "Chutkaść: 1x"
+
+msgid "Speed: 2x"
+msgstr "Chutkaść: 2x"
+
+msgid "Speed: 4x"
+msgstr "Chutkaść: 4x"
+
+msgid "Standard Edition"
+msgstr "Zvyčajnaie vydańnie"
+
+msgid "Start"
+msgstr "Pačać"
+
+msgid "Start mission"
+msgstr "Pačnicie misiiu"
+
+msgid "Start preview"
+msgstr "Pačać ahlad"
+
+msgid "Start recording"
+msgstr "Pačać zapis"
+
+msgid "Start the editor"
+msgstr "Zapuscicie redaktar"
+
+msgid "Start the game"
+msgstr "Raspačać hulniu"
+
+msgid "Start upload"
+msgstr "Pačnicie zapampavańnie"
+
+msgid "Start year"
+msgstr "Pačatkovy hod"
+
+msgid "Start year:"
+msgstr "Pačatkovy hod:"
+
+msgid "Station"
+msgstr "Stancyia"
+
+msgid "Station %1% appears consecutively twice"
+msgstr "Stancyia \"%1%\" z'iaŭlaiecca dva razy zapar"
+
+msgid "Station appears consecutively twice"
+msgstr "Stancyia z'iaŭlaiecca dva razy zapar"
+
+msgid "Station statistics"
+msgstr "Statystyka stancyi"
+
+msgid "Station types don't match (e.g. bus stop and train station)"
+msgstr "Typy stancyj nie supadaiuć (n.p. aŭtobusny prypynak i čyhunačny vakzał)"
+
+msgid "Stations"
+msgstr "Stancyi"
+
+msgid "Stations layer"
+msgstr "Słoj stancyj"
+
+msgid "Stations report the following problems:"
+msgstr "Stancyi paviedamlaiuć pra nastupnyia prablemy:"
+
+msgid "Statistics"
+msgstr "Statystyka"
+
+msgid "Status"
+msgstr "Stan"
+
+msgid "Steam"
+msgstr "Paravy"
+
+msgid "Steam API init failed"
+msgstr "Pamyłka inicyializacyi API Steam"
+
+msgid "Steam Train"
+msgstr "Paravoz"
+
+msgid "Steam Workshop"
+msgstr "Majsternia Steam"
+
+msgid "Steam locomotives"
+msgstr "Paravyia lokamatyvy"
+
+msgid "Steam multiple units"
+msgstr "Paravy ciahavy kopleks"
+
+msgid "Stocks"
+msgstr "Zapasy"
+
+msgid "Stolen Content"
+msgstr "Skradzieny źmiest"
+
+msgid "Stop"
+msgstr "Spynić"
+
+msgid "Stop #{number}"
+msgstr "Prypynak #{number}"
+
+msgid "Stop can not be used with current vehicles"
+msgstr "Hety transpart nia moža karystacca hetym prypynakam"
+
+msgid "Stop preview"
+msgstr "Spynić piaredprahlad"
+
+msgid "Stopped"
+msgstr "Spyniŭsia"
+
+msgid "Stopping"
+msgstr "Spynieńnie"
+
+msgid "Stops must be removed first"
+msgstr "Spačatku vydalicie prypynki"
+
+msgid "Store the current list of activated mods in a mod preset"
+msgstr "Zachavać biahučy śpis aktyŭnych madyfikacyj iak narychtoŭku madyfikacyj"
+
+msgid "Store the current list of activated mods in a preset"
+msgstr "Zachavać biahučy śpis aktyŭnych madyfikacyj iak narychtoŭku"
+
+msgid "Stored"
+msgstr "Zachavana"
+
+msgid "Straight"
+msgstr "Prosty"
+
+msgid "Street constructions"
+msgstr "Vuličnyia zbudavańni"
+
+msgid "Street locked"
+msgstr "Vulica zabłakavana"
+
+msgid "Street traffic layer"
+msgstr "Słoj vuličnaha ruchu"
+
+msgid "Streets"
+msgstr "Vulicy"
+
+msgid "Strength"
+msgstr "Siła"
+
+msgid "Submit"
+msgstr "Dasłać"
+
+msgid "Subscribe"
+msgstr "Padpisacca"
+
+msgid "Subscribed"
+msgstr "Padpisany"
+
+msgid "Subscribers"
+msgstr "Padpisanty"
+
+msgid "Subscription state of {amount} mods updated."
+msgstr "Abnoŭleny stan padpiski nastupnaj kolkaści madyfikacyiaŭ: {amount}."
+
+msgid "Subtitle {num}"
+msgstr "Nadpisy {num}"
+
+msgid "Subtitles"
+msgstr "Nadpisy"
+
+msgid "Successfully connected all stations"
+msgstr "Usie stancyi paśpiachova padklučyny"
+
+msgid ""
+"Successfully connected all stations, disabled {num} alternative terminal"
+msgid_plural ""
+"Successfully connected all stations, disabled {num} alternative terminals"
+msgstr[0] ""
+"Usie stancyi paspiachova padłučany, {num} alternatyŭny terminał adklučany"
+msgstr[1] ""
+"Usie stancyi paspiachova padłučany, {num} alternatyŭnyia terminały adklučany"
+msgstr[2] ""
+"Usie stancyi paspiachova padłučany, {num} alternatyŭnyia terminały adklučany"
+
+msgid "Summary"
+msgstr "Padsumavańnie"
+
+msgid "Summary:"
+msgstr "Padsumavańnie:"
+
+msgid "Suppliers"
+msgstr "Pastaŭščyki"
+
+msgid "Supply"
+msgstr "Pastaŭka"
+
+msgid "Supply rating"
+msgstr "Acenka dastavy"
+
+msgid "TGA could not be read"
+msgstr "Niemahčyma pračytać fajł TGA"
+
+msgid "Tag(s):"
+msgstr "Teh(i):"
+
+msgid "Tags"
+msgstr "Tehi"
+
+msgid "Target population"
+msgstr "Metavaie nasielnictva"
+
+msgid "Task completed"
+msgstr "Zadańnie vykanana"
+
+msgid "Tasks"
+msgstr "Zadačy"
+
+msgid "Terminal %1%"
+msgstr "Terminał %1%"
+
+msgid "Terminals"
+msgstr "Terminały"
+
+msgid "Terrain"
+msgstr "Ziamla"
+
+msgid "Terrain textures"
+msgstr "Tekstury ziamli"
+
+msgid "Terrain tools"
+msgstr "Pryłady kraiavidu"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Textures"
+msgstr "Tekstury"
+
+msgid "Thank you for your feedback."
+msgstr "Dziakuiem za infarmacyiu."
+
+msgid "The camera config \"{}\" already exists. Do you want to overwrite it?"
+msgstr "Nałady kamery pad nazvaj \"{}\" užo isnuie. Vy chočacie pierazapisać ich?"
+
+msgid "The condition is very bad."
+msgstr "Zabłahi stan."
+
+msgid "The condition of multiple vehicles is very bad."
+msgstr "Stan niekatoraha transpartu zabłahi."
+
+msgid ""
+"The description contains unsupported or malformed elements and cannot be "
+"displayed here."
+msgstr ""
+"Apisańnie składaie niepadtrymoŭvanyia abo skažonyia elementy j nia moža być tut "
+"adlustravana."
+
+msgid "The existing mod on {backend} will be updated."
+msgstr "Isnuiučaia madyfikacyia ({backend}) budzie abnoŭlena."
+
+msgid "The future is now, old man"
+msgstr "Pryšłaść nadyjšła, stary"
+
+msgid "The heightmap \"%1%\" already exists. Do you want to overwrite it?"
+msgstr "Mapa vyšyń pad nazvaj \"%1%\" užo isnuie. Vy chočacie pierazapisać iaie?"
+
+msgid "The initial size of %1%"
+msgstr "Pačatkovy pamier %1%"
+
+msgid "The king of the sea"
+msgstr "Karol marej"
+
+msgid "The mod preset \"{}\" already exists. Do you want to overwrite it?"
+msgstr "Narychtoŭka madyfikacyj \"{}\" užo isnuie. Vy chočacie pierazapisać iaie?"
+
+msgid "The name of the animal"
+msgstr "Nazva žyvioły"
+
+msgid "The name of the construction"
+msgstr "Nazva budynku"
+
+msgid "The name of the depot"
+msgstr "Nazva depo"
+
+msgid "The name of the industry"
+msgstr "Nazva pramysłovaści"
+
+msgid "The name of the line"
+msgstr "Nazva linii"
+
+msgid "The name of the resident"
+msgstr "Nazva žycharu"
+
+msgid "The name of the signal"
+msgstr "Nazva syhnału"
+
+msgid "The name of the station"
+msgstr "Nazva stancyi"
+
+msgid "The name of the town"
+msgstr "Nazva miesta"
+
+msgid "The name of the transport vehicle"
+msgstr "Nazva transpartnaha srodku"
+
+msgid "The name of the waypoint"
+msgstr "Nazva maršrutnaha punktu"
+
+msgid "The number of jobs in %1%"
+msgstr "Kolkaść miejsc pracy ŭ %1%"
+
+msgid "The number of residents in %1% is growing"
+msgstr "Nasielnictva miesta %1% pavialičvaiecca"
+
+msgid "The number of residents in %1% is shrinking"
+msgstr "Nasielnictva miesta %1% pamianšaiecca"
+
+msgid "The number of residents in %1% is stable"
+msgstr "Nasielnictva miesta %1% stabilna"
+
+msgid "The number of shopping facilities in %1%"
+msgstr "Kolkaść handlovych ab'iektaŭ u %1%"
+
+msgid "The number or residents %1% will grow/shrink to"
+msgstr "Kolkaść žycharoŭ %1% pavialičycca/pamienšycca da"
+
+msgid "The savegame \"{}\" already exists. Do you want to overwrite it?"
+msgstr "Zachavańnie „{}” užo isnuie. Ci chacicie iaho pierazapisać?"
+
+msgid "The station is not connected to a street."
+msgstr "Stancyia nie padłučana da darohi."
+
+msgid "The total growth"
+msgstr "Ahulny pryrost"
+
+msgid "The ugly smell of success"
+msgstr "Brydki pach pośpiechu"
+
+msgid "There are %1% vehicles to be replaced"
+msgstr "Transpart da zamieny: %1%"
+
+msgid "There are no warnings!"
+msgstr "Brak zaŭvah!"
+
+msgid "There is one vehicle to be replaced"
+msgstr "Treba zamianić adzin transpart"
+
+msgid ""
+"This mod's format is deprecated. Please contact the author to obtain an up-"
+"to-date version."
+msgstr ""
+"Hety farmat madyfikacyi bolš nie padtrymlivaiecca. Skantaktujciesia ź aŭtaram, "
+"kab atrymać apošniuiu viersiiu."
+
+msgid ""
+"This requires reloading all textures, might take a long time and will "
+"momentarily freeze the game. Save your progression before triggering this "
+"operation."
+msgstr ""
+"Heta patrabuie pierazahruzki ŭsich tekstur, moža zaniać šmat času j na "
+"imhnieńnie zamarozić hulniu. Zachavajcie svoj postup pierad zapuskam hetaj "
+"apieracyi."
+
+msgid ""
+"This savegame contains vehicles for which improved models are available due "
+"to a game update."
+msgstr ""
+"Heta zachavańnie źmiaščaie transpart, iakiia atrymaŭ palepšanyia madeli praz "
+"abnaŭleńnie hulni."
+
+msgid ""
+"This savegame requires game resources which are not available, e.g. due to "
+"missing mods. Check the stdout.txt for detailed information and expect "
+"unwanted behavior of the game."
+msgstr ""
+"Heta zachavańnie patrabuie resursy, iakiia niedastupny, naprykład, z-za braku "
+"madyfikacyj. Padrabiaznaści hladzicie ŭ fajle stdout.txt. Čakajcie niepažadanyia "
+"z'iavy ŭ hulni."
+
+msgid ""
+"This savegame requires models which are not available, e.g. due to missing "
+"mods. Instances of the following models are replaced by placeholders:"
+msgstr ""
+"Heta zachavańnie patrabuie resursy, iakiia niedastupny, naprykład, z-za braku "
+"madyfikacyj. Asobniki nastupnych madelaŭ byli zamienieny na časovyia madeli:"
+
+msgid ""
+"This savegame requires models which are not available, e.g. due to missing "
+"mods. Instances of {number} models are replaced by placeholders."
+msgstr ""
+"Heta zachavańnie hulni patrabuie resursaŭ, iakiia niedastupnyia, naprykład, z-za "
+"adsutnaści madyfikacyiaŭ. Asobniki madelaŭ ({number}) byli zamienieny na "
+"časovyia madeli."
+
+msgid "This setting can only be changed in the main menu"
+msgstr "Hetuiu naładu možna źmianić tolki ŭ hałoŭnym meniu"
+
+msgid "This warning can be deactivated in the settings Advanced tab."
+msgstr "Heta papiaredžańnie možna adklučyć na kartkie dadatkovych naład."
+
+msgid "Thrust"
+msgstr "Paskareńnie"
+
+msgid "Tickets"
+msgstr "Bilet"
+
+msgid "Time"
+msgstr "Čas"
+
+msgid "Time scale"
+msgstr "Škała času"
+
+msgid "To Desktop"
+msgstr "Da pracoŭnaha stała"
+
+msgid "To main menu"
+msgstr "Da hałoŭnaha meniu"
+
+msgid "Today, {time}"
+msgstr "Siońnia, {time}"
+
+msgid "Toggle precedence"
+msgstr "Źmianić pieršynstvo"
+
+msgid ""
+"Toggle the button to jump to the first point where the path couldn't "
+"continue."
+msgstr ""
+"Pieraklučycie knopku, kab pierajści da pieršaha punktu, dzie niemahčyma "
+"praciahnuć maršrut."
+
+msgid "Toggle traffic light"
+msgstr "Zmianić śviatłafory"
+
+msgid "Too much curvature"
+msgstr "Kryvizna nadta vialikaia"
+
+msgid "Too much slope"
+msgstr "Schił nadta kruty"
+
+msgid "Tools"
+msgstr "Pryłady"
+
+msgid "Top length (rail)"
+msgstr "Najbolšaia daŭžynia (čyhunka)"
+
+msgid "Top speed"
+msgstr "Najbolšaia chutkaść"
+
+msgid "Top speed for slopes:"
+msgstr "Maksimalnaia chutkaść na ŭchile:"
+
+msgid "Total"
+msgstr "Usiaho"
+
+msgid "Total bridges"
+msgstr "Usiaho mastoŭ"
+
+msgid "Total electrified"
+msgstr "Usiaho ełektryfikavana"
+
+msgid "Total growth: %1% residents"
+msgstr "Ahulny pryrost: %1% žycharoŭ"
+
+msgid "Total high-speed"
+msgstr "Ahulnaia kolkaść zvyšchutkich"
+
+msgid "Total length of train is %s"
+msgstr "Ahulnaia daŭžynia ciahniku: %s"
+
+msgid "Total tracks"
+msgstr "Ahulnaia kolkasć trekaŭ"
+
+msgid "Total tunnels"
+msgstr "Ahulnaia kolkaść tunelaŭ"
+
+msgid "Town"
+msgstr "Miesta"
+
+msgid ""
+"Town authorities complain about following interrupted street connections:"
+msgstr "Ułady miesta skardziacca na nastupnyia pieraboi na darohach:"
+
+msgid "Town builder"
+msgstr "Stvaralnik miesta"
+
+msgid "Town growth"
+msgstr "Razvićcio miesta"
+
+msgid "Town names:"
+msgstr "Nazvy miestaŭ:"
+
+msgid "Town statistics"
+msgstr "Statystyka miesta"
+
+msgid "Towns"
+msgstr "Miesty"
+
+msgid "Towns cargo needs"
+msgstr "Popyt miestaŭ na tavary"
+
+msgid "Towns/industries"
+msgstr "Miesty / pramysłovaści"
+
+msgid "Track constructions"
+msgstr "Budavańnie reiak"
+
+msgid "Track speed limits layer"
+msgstr "Słoj abmiežavańnia chutkaści reiak"
+
+msgid "Tracks"
+msgstr "Rejki"
+
+msgid "Tractive effort"
+msgstr "Ciahavy vysiłak"
+
+msgid "Traffic"
+msgstr "Ruch"
+
+msgid "Traffic light control tool"
+msgstr "Instrument kiravańnia śviatłaforam"
+
+msgid "Traffic lights"
+msgstr "Śviatłafor"
+
+msgid "Train"
+msgid_plural "Trains"
+msgstr[0] "Ciahnik"
+msgstr[1] "Ciahniki"
+msgstr[2] "Ciahniki"
+
+msgid "Train Fever"
+msgstr "Train Fever"
+
+msgid "Train depot"
+msgstr "Ciahnikovaie depo"
+
+msgid "Train does not have a locomotive"
+msgstr "Ciahnik nia maie lokamatyvu"
+
+msgid "Train {number}"
+msgstr "Ciahnik {number}"
+
+msgid "Trains"
+msgstr "Ciahniki"
+
+msgid "Trains mutually blocked"
+msgstr "Ciahniki błakuiuć adzin adnaho"
+
+msgid "Tram"
+msgid_plural "Trams"
+msgstr[0] "Tramvaj"
+msgstr[1] "Tramvai"
+msgstr[2] "Tramvai"
+
+msgid "Tram depot"
+msgstr "Tramvajnaie depo"
+
+msgid "Tram track"
+msgstr "Tramvajnyia rejki"
+
+msgid "Tram track tool"
+msgstr "Pryłada tramvajnych reiak"
+
+msgid "Tram {number}"
+msgstr "Tramvaj {number}"
+
+msgid "Trams"
+msgstr "Tramvai"
+
+msgid "Trans-Siberian Railway"
+msgstr "Tranśsibirskaia mahistral"
+
+msgid "Transport"
+msgstr "Transpart"
+
+msgid "Transport Fever"
+msgstr "Transport Fever"
+
+msgid "Transport Fever 2"
+msgstr "Transport Fever 2"
+
+msgid "Transport belt"
+msgstr "Transpartnaia stužka"
+
+msgid "Transport corporation"
+msgstr "Transpartnaia karparacyia"
+
+msgid "Transport master"
+msgstr "Transpartny majstra"
+
+msgid "Transport millionaire"
+msgstr "Transpartny milianer"
+
+msgid "Transport shark"
+msgstr "Transpartnaia akuła"
+
+msgid "Transport shark (Hard mode)"
+msgstr "Transpartnaia akuła (ciažki režym)"
+
+msgid "Transport tycoon"
+msgstr "Transpartny mahnat"
+
+msgid "Transport tycoon (Hard mode)"
+msgstr "Transpartny mahnat (ciažki režym)"
+
+msgid "Transported"
+msgstr "Pieraviezieny"
+
+msgid "Travel back and forward in time using the time control in sandbox mode."
+msgstr "U režymie piasočnicy zdziejśnicie padarožža ŭ časie praz kantrolu času."
+
+msgid "Trending"
+msgstr "Papularnyia"
+
+msgid "Trophy set for Transport Fever 2"
+msgstr "Nabor trafeiaŭ Transport Fever 2"
+
+msgid "Truck"
+msgstr "Hruzavik"
+
+msgid "Truck Fever"
+msgstr "Truck Fever"
+
+msgid "Truck station"
+msgstr "Stancyia hruzavikoŭ"
+
+msgid "Try to fix problem automatically"
+msgstr "Pasprabujcie vypravić prablemu aŭtamatyčna"
+
+msgid "Tunnel"
+msgstr "Tunel"
+
+msgid "Turn music on"
+msgstr "Uklučyć muzyku"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Types of stations %1% and %2% don't match"
+msgstr "Typy stancyj (%1% i %2%) nie sumiaščalnyia"
+
+msgid "USA"
+msgstr "ZŠA"
+
+msgid "Unable to align terrain"
+msgstr "Niemahčyma vyraŭniać ziamlu"
+
+msgid "Unable to find path to depot"
+msgstr "Niemahčyma znajści maršrut da depo"
+
+msgid "Unable to find path to stop"
+msgstr "Niemahčyma znajści maršrut da prypynku"
+
+msgid ""
+"Unable to load. The current save contains content that is not included in "
+"your version."
+msgstr ""
+"Niemahčyma cčytać. Biahučaie zachavańnie źmiaščaie źmieściva, iakoie nie "
+"ŭklučana ŭ vašu viersiiu."
+
+msgid "Unconnected streets"
+msgstr "Niazłučanyia vulicy"
+
+msgid "Understood!"
+msgstr "Zrazumieŭ!"
+
+msgid "Unemployed"
+msgstr "Biespracoŭny"
+
+msgid "Uninstall pending"
+msgstr "Vydalaiecca"
+
+msgid "Uninstalling mod"
+msgstr "Vydaleńnie madyfikacyi"
+
+msgid "Unknown"
+msgstr "Nieviadomaie"
+
+msgid "Unknown Entity"
+msgstr "Nieviadomaia sutnasć"
+
+msgid "Unload"
+msgstr "Razhruzić"
+
+msgid "Unload only"
+msgstr "Tolki razhruzka"
+
+msgid "Unloaded"
+msgstr "Razhrudžanny"
+
+msgid "Unlock all trophies."
+msgstr "Razbłakujcie ŭsie trafei."
+
+msgid "Unsaved changes will be lost."
+msgstr "Niezachavanyia źmieny buduć stračany."
+
+msgid "Unsubscribe"
+msgstr "Adpisacca"
+
+msgid "Up"
+msgstr "U haru"
+
+msgid "Update"
+msgstr "Abnavić"
+
+msgid "Update models"
+msgstr "Abnavić madeli"
+
+msgid "Update pending"
+msgstr "Abnaŭlaiecca"
+
+msgid "Upgrade"
+msgstr "Palepšyć"
+
+msgid "Upgrade streets with bus lanes."
+msgstr "Palepšyć vulicy na aŭtobusnyia linii."
+
+msgid "Upgrade streets with traffic lights."
+msgstr "Palepšyć vulicy na śviatłafory."
+
+msgid "Upgrade streets with tram tracks."
+msgstr "Palepšyć vulicy na tramvajnyia rejki."
+
+msgid "Upgrade tracks for higher speeds."
+msgstr "Palepšyć čyhunku na najbolšuiu chutkaść."
+
+msgid "Upgrade tracks with catenary."
+msgstr "Palepšyć rejki praz elektrafikacyiu."
+
+msgid "Upload"
+msgstr "Zapampavać"
+
+msgid "Upload Complete"
+msgstr "Zapampavańnie skončana"
+
+msgid "Upload was successful."
+msgstr "Paśpiachova zapampavana."
+
+msgid "Uploaded"
+msgstr "Zapampavana"
+
+msgid "Uploading mods"
+msgstr "Zapampavańnie madyfikacyj"
+
+msgid "Uploading..."
+msgstr "Zapampoŭvańnie..."
+
+msgid "Upper {townName}"
+msgstr "{townName} Hornaie miesta"
+
+msgid "Use <Alt> + <Enter> to toggle between full-screen and windowed mode."
+msgstr "<Alt> + <Enter> pieraklučycca pamiž režymami adlustravańnia."
+
+msgid "Use default connections"
+msgstr "Užyć spałučeńni pa zmaŭčańni"
+
+msgid "Use hardware mouse cursor"
+msgstr "Užyć aparatny kursor myšy"
+
+msgid "Use the <<{horn}>> button to sound the horn"
+msgstr "Naciśni <<{horn}>>, aby skarystać hukavy sihnał"
+
+msgid ""
+"Use the <<{next}>> and <<{prev}>> buttons to change the position of the "
+"cockpit camera"
+msgstr ""
+"Užyvaj knopki <<{next}>> i <<{prev}>>, aby źmianić pohlad kamery kabiny"
+
+msgid "Use the paint tool to change the terrain in free game."
+msgstr "Źmianicie miascovaść praz malavańnie miascovaści ŭ volnaj hulnie."
+
+msgid "Use the terrain tool to change the terrain in free game."
+msgstr "Źmianicie miascovaść praz pryłady miascovaści ŭ volnaj hulnie."
+
+msgid "User interface mode"
+msgstr "Typ interfiejsu"
+
+msgid "User profile creation failed"
+msgstr "Pamyłka stvareńnia profilu karystalnika"
+
+msgid "VSync"
+msgstr "V-Synchranizacyia"
+
+msgid "Vacant"
+msgstr "Volny"
+
+msgid "Validation Error"
+msgstr "Pamyłka paćviardžeńnia"
+
+msgid "Value"
+msgstr "Vartaść"
+
+msgid "Vehicle"
+msgstr "Transpart"
+
+msgid "Vehicle condition"
+msgstr "Stan transpartu"
+
+msgid "Vehicle condition {percentage}%"
+msgstr "Stan transpartu: {percentage}%"
+
+msgid "Vehicle in depot"
+msgstr "Transpart u depo"
+
+msgid "Vehicle in the way"
+msgstr "Transpart iedzie"
+
+msgid "Vehicle lifetime"
+msgstr "Cykł žyćcia transpartu"
+
+msgid "Vehicle lifetime check interval (minutes)"
+msgstr "Častata pravierki terminu tryvańnia transpartu (chviliny)"
+
+msgid "Vehicle manager"
+msgstr "Nałady transpartu"
+
+msgid "Vehicle statistics"
+msgstr "Statystyka transpartu"
+
+msgid "Vehicle store"
+msgstr "Krama transpartu"
+
+msgid "Vehicle to replace"
+msgstr "Transpart da zamieny"
+
+msgid "Vehicle will be sold on arrival"
+msgstr "Transpart budzie pradadzieny pa prybyćci"
+
+msgid "Vehicles"
+msgstr "Transpart"
+
+msgid "Vehicles in depot"
+msgstr "Transpart u depo"
+
+msgid "Vehicles never expire"
+msgstr "Termin dzieiańnia transpartu nie abmiežavany"
+
+msgid "Vehicles never expire:"
+msgstr "Termin dzieiańnia transpartu nie abmiežavany:"
+
+msgid "Vehicles on line"
+msgstr "Transpart na linii"
+
+msgid "Vehicles report following problems:"
+msgstr "Transpartny paviedamlaie pra nastupnyia prablemy:"
+
+msgid "Vehicles to replace"
+msgstr "Transpart da zamieny"
+
+msgid "Vehicles:"
+msgstr "Transpart:"
+
+msgid "Very bad"
+msgstr "Zabłaha"
+
+msgid "Very good"
+msgstr "Zadobra"
+
+msgid "Very high"
+msgstr "Zavysoka"
+
+msgid "Very poor"
+msgstr "Zasłaba"
+
+msgid "Video"
+msgstr "Videa"
+
+msgid "View"
+msgstr "Prahlad"
+
+msgid "View Statistics"
+msgstr "Prahlad statystyki"
+
+msgid "Voice-over"
+msgstr "Ahučvańnie"
+
+msgid "Voice-over {num}"
+msgstr "Ahučvańnie – {num}"
+
+msgid "Volume settings"
+msgstr "Nałady hučnaści"
+
+msgid "Vulkan"
+msgstr "Vulkan"
+
+msgid "Wagons"
+msgstr "Hruzavyia vahony"
+
+msgid "Wait"
+msgstr "Pačakajcie"
+
+msgid "Waiting for free path"
+msgstr "Čakaie na volnuiu darohu"
+
+msgid ""
+"Warning: Disabling will remove mod content and replace it with default "
+"assets."
+msgstr ""
+"Uvaha: adklučeńnie pryviadzie da vydaleńnia źmiestu madyfikacyi j iahonaj "
+"zamieny na zvyčajnyia elementy."
+
+msgid "Warning: adding this mod may lead to unexpected results."
+msgstr "Uvaha: dadańnie hetaj madyfikacyi moža vyklikać niečakanyia z'iavy."
+
+msgid "Warning: adding this mod will likely cause the game to crash."
+msgstr "Uvaha: dadańnie hetaj madyfikacyi moža vyklikać zboj hulni."
+
+msgid ""
+"Warning: video RAM usage critical ({percentage}). The game may close "
+"unexpectedly. It is highly recommended to reduce the texture settings."
+msgstr ""
+"Uvaha: krytyčny ŭzrovień vykarystoŭvanaj apieratyŭnaj pamiaci ({percentage}). "
+"Hulnia moža niečakana zakrycca. My raim vybrać bolš nizkiia paramietry "
+"teksturaŭ."
+
+msgid "Warnings"
+msgstr "Papiaredžańni"
+
+msgid "Water"
+msgstr "Vodny"
+
+msgid "Water level:"
+msgstr "Uzrovień vady:"
+
+msgid "Waypoint #{number}"
+msgstr "Maršrutny punkt #{number}"
+
+msgid "Waypoint outside of navigable waters"
+msgstr "Maršrutny punkt pa-za miežami sudnachodnych vod"
+
+msgid "Waypoints"
+msgstr "Maršrutnyia punkty"
+
+msgid "Weight"
+msgstr "Vaha"
+
+msgid "Weight %1% + %2% (Cargo)"
+msgstr "Vaha %1% + %2% (hruz)"
+
+msgid "Weight units"
+msgstr "Adzinki vahi"
+
+msgid "What is mod.io"
+msgstr "Što takoie mod.io?"
+
+msgid "Win"
+msgstr "Pieramoha"
+
+msgid "Window settings"
+msgstr "Nałady vokna"
+
+msgid "Windowed"
+msgstr "Vakonny"
+
+msgid "With lines"
+msgstr "Suviaź"
+
+msgid "Work"
+msgstr "Praca"
+
+msgid "Workplaces"
+msgstr "Miejsca pracy"
+
+msgid "Write STL"
+msgstr "Zapisać STL"
+
+msgid "Write additional STL file with heightmap data"
+msgstr "Zapisać dadatkovy fajł STL z dadzienymi map vyšyń"
+
+msgid "Wrong carrier"
+msgstr "Niapravilny pieravozčyk"
+
+msgid "Year"
+msgstr "Hod"
+
+msgid "Year built"
+msgstr "Hod zbudovy"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "Yesterday, {time}"
+msgstr "Učoraj, {time}"
+
+msgid "You did it!"
+msgstr "Ty zdoleŭ!"
+
+msgid "You have finished the {campaignName} campaign!"
+msgstr "Vy zaviaršyli kampaniiu „{campaignName}”!"
+
+msgid "You have finished {campaignName}"
+msgstr "Vy zaviaršyli kampaniiu {campaignName}"
+
+msgid "You may retry the installation attempt or unsubscribe from the mod."
+msgstr "Možacie paŭtaryć sprobu ŭstaloŭki abo spynić padpisku na madyfikacyiu."
+
+msgid "Zoom in to build"
+msgstr "Prybliźcie, kab zbudavać"
+
+msgid "Zoom out from cursor"
+msgstr "Addalić ad kursoru"
+
+msgid "Zoom sensitivity (game camera)"
+msgstr "Čujnaść maštabavańnia (kamiera hulni)"
+
+msgid "Zoom to cursor"
+msgstr "Pavialičyć na kursor"
+
+msgid "[UserData]/"
+msgstr "[UserData]/"
+
+msgid "[not found] "
+msgstr "[nia znojdziena] "
+
+msgid "[{key}] is already used by:"
+msgstr "Kluč [{key}] užo užyty praz:"
+
+msgid "[{key}] is used by a predefined function and can not be assigned."
+msgstr ""
+"Klaviša [{key}] užyvaiecca zahadzia vyznačanaj funkcyiaj i nia moža być "
+"naznačana"
+
+msgid "around {mission_year}"
+msgstr "kala {mission_year}"
+
+msgid "can not reach next"
+msgstr "nia moža dasiahnuć nastupnaha"
+
+msgctxt "destination"
+msgid "None"
+msgstr "Brak"
+
+msgctxt "difficulty"
+msgid "Easy"
+msgstr "Łiohka"
+
+msgctxt "difficulty"
+msgid "Hard"
+msgstr "Ciažka"
+
+msgctxt "difficulty"
+msgid "Medium"
+msgstr "Siaredni"
+
+msgctxt "difficulty"
+msgid "Very hard"
+msgstr "Zaciažka"
+
+msgctxt "distance-unit"
+msgid "Feet"
+msgstr "Stopy"
+
+msgctxt "distance-unit"
+msgid "Mile"
+msgstr "Mila"
+
+msgctxt "distance-unit"
+msgid "Yard"
+msgstr "Ard"
+
+msgctxt "distance-unit"
+msgid "km"
+msgstr "km"
+
+msgctxt "distance-unit"
+msgid "m"
+msgstr "m"
+
+msgctxt "force-unit"
+msgid "kN"
+msgstr "kN"
+
+msgctxt "force-unit"
+msgid "kgf"
+msgstr "kh/s"
+
+msgctxt "force-unit"
+msgid "lbf"
+msgstr "funt/s"
+
+msgid "from %1%"
+msgstr "ad %1%"
+
+msgctxt "game-speed"
+msgid "1/{factor}x"
+msgstr "1/{factor}x"
+
+msgctxt "game-speed"
+msgid "{factor}x"
+msgstr "{factor}x"
+
+msgctxt "gameSpeed"
+msgid "1x"
+msgstr "1x"
+
+msgctxt "gameSpeed"
+msgid "2x"
+msgstr "2x"
+
+msgctxt "gameSpeed"
+msgid "4x"
+msgstr "4x"
+
+msgctxt "graphic-settings"
+msgid "Performance"
+msgstr "Pradukcyjnaść"
+
+msgctxt "graphic-settings"
+msgid "Quality"
+msgstr "Akaść"
+
+msgctxt "main station name"
+msgid "{townName}"
+msgstr "{townName}"
+
+msgctxt "map-size"
+msgid "Huge"
+msgstr "Vielizarny"
+
+msgctxt "map-size"
+msgid "Large"
+msgstr "Vialiki"
+
+msgctxt "map-size"
+msgid "Medium"
+msgstr "Siaredni"
+
+msgctxt "map-size"
+msgid "Megalomaniac"
+msgstr "Maniia vialikaści"
+
+msgctxt "map-size"
+msgid "Small"
+msgstr "Mały"
+
+msgctxt "map-size"
+msgid "Tiny"
+msgstr "Malutki"
+
+msgctxt "map-size"
+msgid "Very Large"
+msgstr "Zavialiki"
+
+msgid "max. wait time"
+msgstr "maks. čas čakańnia"
+
+msgid "min. wait time"
+msgstr "min. čas čakańnia"
+
+msgctxt "mod-state"
+msgid "Built-in mods"
+msgstr "Ubudavanyia madyfikacyi"
+
+msgctxt "mod-state"
+msgid "DLC"
+msgstr "Ściahvaiemy Źmiest"
+
+msgctxt "mod-state"
+msgid "Shared via {}"
+msgstr "Ahulnadastupna praz: {}"
+
+msgctxt "mod-state"
+msgid "Staging area"
+msgstr "Padrychtoŭčy abšar"
+
+msgctxt "mod-state"
+msgid "Uploaded to Steam Workshop"
+msgstr "Dasłana da majsterni Steam"
+
+msgctxt "mod-state"
+msgid "User mods"
+msgstr "Madyfikacyi karystalnika"
+
+msgctxt "mod-tags"
+msgid "Airport"
+msgstr "Łiotnišča"
+
+msgctxt "mod-tags"
+msgid "Animal"
+msgstr "Žyvioły"
+
+msgctxt "mod-tags"
+msgid "Asia"
+msgstr "Aziia"
+
+msgctxt "mod-tags"
+msgid "Asset"
+msgstr "Element"
+
+msgctxt "mod-tags"
+msgid "Bridge"
+msgstr "Most"
+
+msgctxt "mod-tags"
+msgid "Brush Asset"
+msgstr "Element pendźla"
+
+msgctxt "mod-tags"
+msgid "Building"
+msgstr "Budynak"
+
+msgctxt "mod-tags"
+msgid "Bus"
+msgstr "Aŭtobus"
+
+msgctxt "mod-tags"
+msgid "Bus Station"
+msgstr "Aŭtobusny vakzał"
+
+msgctxt "mod-tags"
+msgid "Campaign"
+msgstr "Kampaniia"
+
+msgctxt "mod-tags"
+msgid "Car"
+msgstr "Mašyna"
+
+msgctxt "mod-tags"
+msgid "Cargo Harbor"
+msgstr "Hruzavy pryčał"
+
+msgctxt "mod-tags"
+msgid "Cargo Station"
+msgstr "Hruzavaia stancyia"
+
+msgctxt "mod-tags"
+msgid "Depot"
+msgstr "Depo"
+
+msgctxt "mod-tags"
+msgid "Dry"
+msgstr "Suchi"
+
+msgctxt "mod-tags"
+msgid "Europe"
+msgstr "Eŭropa"
+
+msgctxt "mod-tags"
+msgid "Industry"
+msgstr "Pramysłovaść"
+
+msgctxt "mod-tags"
+msgid "Localization"
+msgstr "Pierakład"
+
+msgctxt "mod-tags"
+msgid "Locomotive"
+msgstr "Łiokamatyŭ"
+
+msgctxt "mod-tags"
+msgid "Map"
+msgstr "Mapa"
+
+msgctxt "mod-tags"
+msgid "Map/Savegame"
+msgstr "Mapa/zachavańnie"
+
+msgctxt "mod-tags"
+msgid "Misc"
+msgstr "Roznaie"
+
+msgctxt "mod-tags"
+msgid "Mission"
+msgstr "Misiia"
+
+msgctxt "mod-tags"
+msgid "Multiple Unit"
+msgstr "Ciahavy kopleks"
+
+msgctxt "mod-tags"
+msgid "Passenger Harbor"
+msgstr "Pasažyrskaia pryčał"
+
+msgctxt "mod-tags"
+msgid "Person"
+msgstr "Asoby"
+
+msgctxt "mod-tags"
+msgid "Plane"
+msgstr "Samalot"
+
+msgctxt "mod-tags"
+msgid "Railroad Crossing"
+msgstr "Čyhunačny pieraiezd"
+
+msgctxt "mod-tags"
+msgid "Road Depot"
+msgstr "Darožnaie depo"
+
+msgctxt "mod-tags"
+msgid "Savegame"
+msgstr "Zachavańnie"
+
+msgctxt "mod-tags"
+msgid "Scenario"
+msgstr "Scenar"
+
+msgctxt "mod-tags"
+msgid "Script Mod"
+msgstr "Skryptavanyia"
+
+msgctxt "mod-tags"
+msgid "Shader"
+msgstr "Šejdar"
+
+msgctxt "mod-tags"
+msgid "Ship"
+msgstr "Karabiel"
+
+msgctxt "mod-tags"
+msgid "Shipyard"
+msgstr "Verf"
+
+msgctxt "mod-tags"
+msgid "Signal"
+msgstr "Syhnał"
+
+msgctxt "mod-tags"
+msgid "Sound"
+msgstr "Huk"
+
+msgctxt "mod-tags"
+msgid "Station"
+msgstr "Stancyia"
+
+msgctxt "mod-tags"
+msgid "Street"
+msgstr "Vulica"
+
+msgctxt "mod-tags"
+msgid "Street Construction"
+msgstr "Vuličnyia budovy"
+
+msgctxt "mod-tags"
+msgid "Temperate"
+msgstr "Umierany"
+
+msgctxt "mod-tags"
+msgid "Town Building"
+msgstr "Budynak miesta"
+
+msgctxt "mod-tags"
+msgid "Track"
+msgstr "Rejka"
+
+msgctxt "mod-tags"
+msgid "Track Asset"
+msgstr "Elementy reiak"
+
+msgctxt "mod-tags"
+msgid "Track/Street"
+msgstr "Rejka/vulica"
+
+msgctxt "mod-tags"
+msgid "Train Depot"
+msgstr "Ciahnikovaie depo"
+
+msgctxt "mod-tags"
+msgid "Train Station"
+msgstr "Čyhunačny vakzał"
+
+msgctxt "mod-tags"
+msgid "Tram"
+msgstr "Tramvaj"
+
+msgctxt "mod-tags"
+msgid "Tram Depot"
+msgstr "Tramvajnaie depo"
+
+msgctxt "mod-tags"
+msgid "Tram Station"
+msgstr "Prypynak tramvaiaŭ"
+
+msgctxt "mod-tags"
+msgid "Tropical"
+msgstr "Trapičny"
+
+msgctxt "mod-tags"
+msgid "Truck"
+msgstr "Hruzavik"
+
+msgctxt "mod-tags"
+msgid "Truck Station"
+msgstr "Stancyia hruzavikoŭ"
+
+msgctxt "mod-tags"
+msgid "Tunnel"
+msgstr "Tunel"
+
+msgctxt "mod-tags"
+msgid "USA"
+msgstr "ZŠA"
+
+msgctxt "mod-tags"
+msgid "Vehicle"
+msgstr "Transpart"
+
+msgctxt "mod-tags"
+msgid "Wagon"
+msgstr "Vahon"
+
+msgid "mod.io"
+msgstr "mod.io"
+
+msgid "mod.io Terms Of Use"
+msgstr "umovy karystańnia mod.io"
+
+msgid "none"
+msgstr "brak"
+
+msgid "not combinable"
+msgstr "niemahčyma padklučycca"
+
+msgid "not reachable from previous"
+msgstr "niedastupny z papiaredniaha"
+
+msgctxt "number-format"
+msgid "Full"
+msgstr "Poŭny"
+
+msgctxt "number-format"
+msgid "Short"
+msgstr "Skaročany"
+
+msgctxt "platform"
+msgid "Use your Console-Account"
+msgstr "Skarystać akaŭnt kansoli"
+
+msgctxt "platform"
+msgid "Use your Epic Games-Account"
+msgstr "Skarystać akaŭnt Epic Games"
+
+msgctxt "platform"
+msgid "Use your Steam-Account"
+msgstr "Skarystać akaŭnt Steam"
+
+msgctxt "platform"
+msgid "use your GOG-Account"
+msgstr "Skarystać akaŭnt GOG"
+
+msgctxt "platform-pc"
+msgid "Achievement earned"
+msgstr "Dasiahnieńnie atrymana"
+
+msgctxt "platform-pc"
+msgid "Achievements"
+msgstr "Dasiahnieńni"
+
+msgctxt "platform-pc"
+msgid "Achievements can't be earned if the following settings are used:"
+msgstr "Dasiahnieńni buduć adklučany ŭ hulnie z nastupnymi naładami:"
+
+msgctxt "platform-pc"
+msgid ""
+"Achievements cannot be earned in this game because mods are or have been "
+"active."
+msgstr ""
+"Dasiahnieńni adklučany u hetaj hulni, tamu što madyfikacyi aktyŭny abo byli "
+"raniej."
+
+msgctxt "platform-pc"
+msgid "Controller"
+msgstr "Kantroler"
+
+msgctxt "platform-pc"
+msgid "Controller connected"
+msgstr "Kantroler pad'iadnany"
+
+msgctxt "platform-pc"
+msgid "Controller disconnected"
+msgstr "Kantroler raz'iadnany"
+
+msgctxt "platform-pc"
+msgid "Controller settings"
+msgstr "Nałady kantroleru"
+
+msgctxt "platform-pc"
+msgid ""
+"Mods are active or advanced settings are modified. Achievements cannot be "
+"earned!"
+msgstr ""
+"Aktyŭny madyfikaci abo dadatkovyia nałady źmienieny. Dasiahnientni adklučany!"
+
+msgctxt "platform-pc"
+msgid "See Deluxe Edition info"
+msgstr "Prahlad infarmacyi ab Raskošnym vydańni"
+
+msgctxt "platform-pc"
+msgid "See your achievements"
+msgstr "Prahladzieć maie dasiahnieńni"
+
+msgctxt "platform-pc"
+msgid "Swap sticks (game camera)"
+msgstr "Pamianiajć padvažniki (kamera hulni)"
+
+msgctxt "platform-pc"
+msgid "Swap sticks (menu navigation)"
+msgstr "Pamianiajć padvažniki (navihacyia pa mieniu)"
+
+msgctxt "platform-playstation"
+msgid ""
+"Cheats are active or advanced settings are modified. Trophies cannot be "
+"earned!"
+msgstr "Kody aktyŭny abo dadatkovyia nałady źmienieny. Trafei adklučany!"
+
+msgctxt "platform-playstation"
+msgid "Controller"
+msgstr "Kantroler"
+
+msgctxt "platform-playstation"
+msgid "Controller connected"
+msgstr "Kantroler pad'iadnany"
+
+msgctxt "platform-playstation"
+msgid "Controller disconnected"
+msgstr "Kantroler raz'iadnany"
+
+msgctxt "platform-playstation"
+msgid "Controller settings"
+msgstr "Nałady kantroleru"
+
+msgctxt "platform-playstation"
+msgid "Swap sticks (game camera)"
+msgstr "Pamianiajć padvažniki (kamera hulni)"
+
+msgctxt "platform-playstation"
+msgid "Swap sticks (menu navigation)"
+msgstr "Pamianiajć padvažniki (navihacyia pa mieniu)"
+
+msgctxt "platform-playstation"
+msgid "Trophies can't be earned if the following settings are used:"
+msgstr "Trafei buduć adklučany pry hulni z nastupnymi naładami:"
+
+msgctxt "platform-playstation"
+msgid ""
+"Trophies cannot be earned in this game because cheats are or have been "
+"active."
+msgstr "Trafei adklučany u hetaj hulni, tamu što kody aktyŭny abo byli raniej."
+
+msgctxt "platform-xbox"
+msgid "Achievements can't be earned if the following settings are used:"
+msgstr "Dasiahnieńni buduć adklučany ŭ hulnie z nastupnymi naładami:"
+
+msgctxt "platform-xbox"
+msgid ""
+"Achievements cannot be earned in this game because cheats are or have been "
+"active."
+msgstr ""
+"Dasiahnieńni adklučany u hetaj hulni, tamu što kody aktyŭny abo byli raniej."
+
+msgctxt "platform-xbox"
+msgid ""
+"Cheats are active or advanced settings are modified. Achievements cannot be "
+"earned!"
+msgstr "Kody aktyŭny abo dadatkovyia nałady źmienieny. Dasiahnieńni adklučany!"
+
+msgctxt "platform-xbox"
+msgid "Controller"
+msgstr "Kantroler"
+
+msgctxt "platform-xbox"
+msgid "Controller connected"
+msgstr "Kantroler pad'iadnany"
+
+msgctxt "platform-xbox"
+msgid "Controller disconnected"
+msgstr "Kantroler raz'iadnany"
+
+msgctxt "platform-xbox"
+msgid "Controller settings"
+msgstr "Nałady kantroleru"
+
+msgctxt "platform-xbox"
+msgid "Swap sticks (game camera)"
+msgstr "Pamianiajć padvažniki (kamera hulni)"
+
+msgctxt "platform-xbox"
+msgid "Swap sticks (menu navigation)"
+msgstr "Pamianiajć padvažniki (navihacyia pa mieniu)"
+
+msgctxt "plural"
+msgid "Aircraft"
+msgstr "Samalot"
+
+msgctxt "power-unit"
+msgid "hp"
+msgstr "ks"
+
+msgctxt "power-unit"
+msgid "kW"
+msgstr "kVt"
+
+msgctxt "settings"
+msgid "Basics"
+msgstr "Asnovy"
+
+msgctxt "settings"
+msgid "Localization"
+msgstr "Pierakład"
+
+msgctxt "slope"
+msgid "Flat"
+msgstr "Płoski"
+
+msgctxt "slope"
+msgid "High"
+msgstr "Vysoki"
+
+msgctxt "slope"
+msgid "Medium"
+msgstr "Siaredni"
+
+msgctxt "speed-unit"
+msgid "km/h"
+msgstr "km/h"
+
+msgctxt "speed-unit"
+msgid "mph"
+msgstr "mil/h"
+
+msgctxt "stats"
+msgid "Bulldozer"
+msgstr "Buldozier"
+
+msgctxt "stats"
+msgid "Depots"
+msgstr "Depo"
+
+msgctxt "stats"
+msgid "Other"
+msgstr "Inšaie"
+
+msgctxt "stats"
+msgid "Roads"
+msgstr "Darohi"
+
+msgctxt "stats"
+msgid "Signals"
+msgstr "Syhnały"
+
+msgctxt "stats"
+msgid "Stations"
+msgstr "Stancyi"
+
+msgctxt "stats"
+msgid "Tracks"
+msgstr "Rejki"
+
+msgctxt "stop-name"
+msgid "{streetName}"
+msgstr "{streetName}"
+
+msgid "to %1%"
+msgstr "da %1%"
+
+msgctxt "town-size"
+msgid "Huge"
+msgstr "Vielizarny"
+
+msgctxt "town-size"
+msgid "Large"
+msgstr "Vialiki"
+
+msgctxt "town-size"
+msgid "Medium"
+msgstr "Siaredni"
+
+msgctxt "town-size"
+msgid "Small"
+msgstr "Mały"
+
+msgctxt "town-size"
+msgid "Tiny"
+msgstr "Malutki"
+
+msgctxt "unemployed-persons"
+msgid "none"
+msgstr "brak"
+
+msgid "unknown error"
+msgstr "nieviadomaia pamyłka"
+
+msgid "unlimited"
+msgstr "biez abmiežavańniaŭ"
+
+msgctxt "vacant-jobs"
+msgid "none"
+msgstr "brak"
+
+msgctxt "value"
+msgid "High"
+msgstr "Vysoki"
+
+msgctxt "value"
+msgid "Low"
+msgstr "Nizka"
+
+msgctxt "value"
+msgid "Medium"
+msgstr "Siaredni"
+
+msgctxt "value"
+msgid "Very high"
+msgstr "Zavysoka"
+
+msgctxt "value"
+msgid "Very low"
+msgstr "Zanizka"
+
+msgctxt "vehicle-size"
+msgid "Large"
+msgstr "Vialiki"
+
+msgctxt "vehicle-size"
+msgid "Small"
+msgstr "Mały"
+
+msgid "via"
+msgstr "praz"
+
+msgctxt "weight-unit"
+msgid "kg"
+msgstr "kh"
+
+msgctxt "weight-unit"
+msgid "lb"
+msgstr "funt"
+
+msgctxt "weight-unit"
+msgid "t/short ton"
+msgstr "t/tonu amerykanskuiu"
+
+msgctxt "weight-unit"
+msgid "t/tonne"
+msgstr "t/tonu metryčnuiu"
+
+msgid "{angle} deg field of view"
+msgstr "Pole zroku: {angle} hradusaŭ"
+
+msgid "{angle}°"
+msgstr "{angle}°"
+
+msgid "{bytes} B"
+msgstr "{bytes} B"
+
+msgid "{cargoType}: {loadSpeed}x"
+msgstr "{cargoType}: {loadSpeed}x"
+
+msgid "{costs} + {percentage}% (Maintenance)"
+msgstr "{costs} + {percentage}% (utrzymanie)"
+
+msgid "{distance} ft"
+msgstr "{distance} funt"
+
+msgid "{distance} km"
+msgstr "{distance} km"
+
+msgid "{distance} m"
+msgstr "{distance} m"
+
+msgid "{distance} mi"
+msgstr "{distance} mil(i)"
+
+msgid "{distance} yd"
+msgstr "{distance} iardy"
+
+msgid "{force} kN"
+msgstr "{force} kN"
+
+msgid "{force} kgf"
+msgstr "{force} kh/s"
+
+msgid "{force} lbf"
+msgstr "{force} funt/s"
+
+msgid "{framerate} fps"
+msgstr "{framerate} k/s"
+
+msgid "{gigaBytes} GB"
+msgstr "{gigaBytes} HB"
+
+msgid "{kiloBytes} KB"
+msgstr "{kiloBytes} KB"
+
+msgid "{length} x {width} km, {towns}, {industries}"
+msgstr "{length} x {width} km, {towns}, {industries}"
+
+msgid "{loadSpeed}x"
+msgstr "{loadSpeed}x"
+
+msgid "{megaBytes} MB"
+msgstr "{megaBytes} MB"
+
+msgid "{minutes} min"
+msgstr "{minutes} chv"
+
+msgid "{minutes} min {seconds} s"
+msgstr "{minutes} chv {seconds} s"
+
+msgid "{min} - {max}"
+msgstr "{min} – {max}"
+
+msgid "{min} to {max}"
+msgstr "{min} da {max}"
+
+msgid "{mission_start_year} - {mission_end_year}"
+msgstr "{mission_start_year} - {mission_end_year}"
+
+msgid "{modBackend}: {message}"
+msgstr "{modBackend}: {message}"
+
+msgid "{numVisibleEntries} / {numTotalEntries}"
+msgstr "{numVisibleEntries} / {numTotalEntries}"
+
+msgid "{number} building will be moved"
+msgid_plural "{number} buildings will be moved"
+msgstr[0] "Budynak {number} budzie pierasunaty"
+msgstr[1] "Budynkaŭ da pierasoŭvańnia: {number}"
+msgstr[2] "Budynkaŭ da pierasoŭvańnia: {number}"
+
+msgid "{number} building will be removed"
+msgid_plural "{number} buildings will be removed"
+msgstr[0] "Nastupny budynak budzie vydaleny: {number}"
+msgstr[1] "Nastupnyia budynki buduć vydaleny: {number}"
+msgstr[2] "Nastupnyia budynki buduć vydaleny: {number}"
+
+msgid "{number} field will be removed"
+msgid_plural "{number} fields will be removed"
+msgstr[0] "Pole {number} budzie vydalena"
+msgstr[1] "Pali {number} buduć vydaleny"
+msgstr[2] "Pali {number} buduć vydaleny"
+
+msgid "{number} models have been replaced successfully."
+msgstr "Paśpiachova zamieniena nastupnaia kolkaść madelaŭ: {number}"
+
+msgid "{number} module will be removed"
+msgid_plural "{number} modules will be removed"
+msgstr[0] "Modul budzie vydaleny: {number}"
+msgstr[1] "Moduli buduć vydaleny: {number}"
+msgstr[2] "Moduli buduć vydaleny: {number}"
+
+msgid "{number} referenced bridge types not found."
+msgstr "Nia znojdziena {number} typaŭ mastoŭ."
+
+msgid "{number} referenced ground textures not found."
+msgstr "Nia znojdziena {number} tekstur ziamli."
+
+msgid "{number} referenced materials not found."
+msgstr "Nia znojdziena {number} paznačanych materyiałaŭ."
+
+msgid "{number} referenced street types not found."
+msgstr "Nia znojdziena {number} typaŭ vulic."
+
+msgid "{number} referenced track types not found."
+msgstr "Nia znojdziena {number} tupaŭ reiak."
+
+msgid "{number} referenced tunnel types not found."
+msgstr "Nia znojdziena {number} typaŭ tunelaŭ."
+
+msgid "{num} mission"
+msgid_plural "{num} missions"
+msgstr[0] "Misiia: {num}"
+msgstr[1] "Misii: {num}"
+msgstr[2] "Misii: {num}"
+
+msgid "{occupiedSlots} of {maxSlots}"
+msgstr "{occupiedSlots} z {maxSlots}"
+
+msgid "{part}/{total}"
+msgstr "{part}/{total}"
+
+msgid "{percentage}% of lifetime ({years} remaining)"
+msgstr "{percentage}% termin tryvańnia (zastaiecca: {years})"
+
+msgid "{percentage}% of {total}"
+msgstr "{percentage}% z  {total}"
+
+msgid "{percentage}% positive"
+msgstr "{percentage}% pazityŭnych"
+
+msgid ""
+"{percent} overlength: travel time is {seconds1} s, {seconds2} s allowed!"
+msgstr ""
+"{percent} – zadoŭha: čas u darozie składaie {seconds1} s, dazvolena {seconds2} "
+"s!"
+
+msgid "{power} hp"
+msgstr "{power} ks"
+
+msgid "{power} kW"
+msgstr "{power} kVt"
+
+msgid "{prefix}{rating}%"
+msgstr "{prefix}{rating}%"
+
+msgid "{seconds} s"
+msgstr "{seconds} s"
+
+msgid "{speed} km/h"
+msgstr "{speed} km/h"
+
+msgid "{speed} mph"
+msgstr "{speed} mil/h"
+
+msgid "{steepness}: not enough power!"
+msgstr "{steepness}: za mała mocy!"
+
+msgid "{supply}/{demand}"
+msgstr "{supply}/{demand}"
+
+msgid "{supply}/{demand} {iconToolTip}"
+msgstr "{supply}/{demand} {iconToolTip}"
+
+msgid "{townName} Airport"
+msgstr "{townName} - Łiotnišča"
+
+msgid "{townName} Annex"
+msgstr "{townName} - Dadatak"
+
+msgid "{townName} Branch"
+msgstr "{townName} - Razhalinavańnie"
+
+msgid "{townName} Cargo"
+msgstr "{townName} - Hruzavy"
+
+msgid "{townName} Cargo Airport"
+msgstr "{townName} – Hruzavoie lotnišča"
+
+msgid "{townName} Cargo Port"
+msgstr "{townName} – Hruzavy port"
+
+msgid "{townName} Central"
+msgstr "{townName} Centr"
+
+msgid "{townName} East"
+msgstr "{townName} Uschod"
+
+msgid "{townName} Exchange"
+msgstr "{townName} Vuzieł"
+
+msgid "{townName} Halt"
+msgstr "{townName} Prypynak"
+
+msgid "{townName} North"
+msgstr "{townName} Poŭnač"
+
+msgid "{townName} Port"
+msgstr "{townName} – Port"
+
+msgid "{townName} Sidings"
+msgstr "{townName} Raz’iezd"
+
+msgid "{townName} Signal #{number}"
+msgstr "{townName} Syhnał #{number}"
+
+msgid "{townName} South"
+msgstr "{townName} Poŭdzień"
+
+msgid "{townName} Transfer"
+msgstr "{townName} Pierachodny"
+
+msgid "{townName} Waypoint #{number}"
+msgstr "{townName} Maršrutny punkt #{number}"
+
+msgid "{townName} West"
+msgstr "{townName} Zachad"
+
+msgid "{townName} {depotName}"
+msgstr "{townName} {depotName}"
+
+msgid "{townName} {depotName} #{number}"
+msgstr "{townName} {depotName} #{number}"
+
+msgid "{townName} {industryName}"
+msgstr "{townName} {industryName}"
+
+msgid "{townName} {industryName} #{number}"
+msgstr "{townName} {industryName} #{number}"
+
+msgid "{townName} {stationName} #{number}"
+msgstr "{townName} {stationName} #{number}"
+
+msgid "{used}/{total}"
+msgstr "{used}/{total}"
+
+msgid "{username} Transport"
+msgstr "Transpart ({username})"
+
+msgid "{weight} kg"
+msgstr "{weight} kh"
+
+msgid "{weight} lb"
+msgstr "{weight} funt"
+
+msgid "{weight} t"
+msgstr "{weight} t"
+
+msgid "{width} x {height}"
+msgstr "{width} x {height}"
+
+msgid "{} (Error code: {code})"
+msgstr "{} (Kod pamyłki: {code})"
+
+msgid "{}: Off"
+msgstr "{}: vykł."
+
+msgid "{}: On"
+msgstr "{}: ukł."
