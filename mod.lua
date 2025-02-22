@@ -15,7 +15,10 @@ function data()
             },
         },
         options = {
-            nameList = { { "belarus", _("Беларускі пераклад") } },
+            nameList = { 
+                { "belarus", _("Беларускі пераклад") },
+                { "belarus_LT", _("Biełaruski pierakład") }
+            },
         },
         runFn = function(settings)
         end
