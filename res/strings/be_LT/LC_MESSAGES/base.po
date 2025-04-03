@@ -1382,19 +1382,19 @@ msgid "Curved"
 msgstr "Vyhnuty"
 
 msgid "Custom"
-msgstr "Svaie"
+msgstr "Ułasnyia"
 
 msgid "Custom Settings"
-msgstr "Svaie nałady"
+msgstr "Ułasnyia nałady"
 
 msgid "Custom cargo"
-msgstr "Svaie hruzy"
+msgstr "Ułasnyia hruzy"
 
 msgid "Custom colors"
-msgstr "Svaie kolery"
+msgstr "Ułasnyia kolery"
 
 msgid "Custom game settings"
-msgstr "Svaie nałady hulni"
+msgstr "Ułasnyia nałady hulni"
 
 msgid "Cycle game speed"
 msgstr "Źmiena chutkaści hulni"
@@ -1696,7 +1696,7 @@ msgid "Enable"
 msgstr "Uklučyć"
 
 msgid "Enable Custom settings"
-msgstr "Uklučyć svaie nałady"
+msgstr "Uklučyć ułasnyia nałady"
 
 msgid "Enable all"
 msgstr "Uklučyć usie"
@@ -1708,7 +1708,7 @@ msgid "Enable camera tool"
 msgstr "Uklučyć pryłady kamery"
 
 msgid "Enable custom game settings"
-msgstr "Uklučyć svaie nałady hulni"
+msgstr "Uklučyć ułasnyia nałady hulni"
 
 msgid "Enable guide system"
 msgstr "Uklučyć systemu dapamohi"
@@ -2730,7 +2730,7 @@ msgstr ""
 "\n"
 "Kab zrabić ich dastupnymi dla šyrokaj supolnaści karystalnikaŭ kansolaŭ i "
 "karystalnikaŭ, iakiia nie vykarystoŭvaiuć Steam, aŭtaram madyfikacyiaŭ "
-"nieabchodna specyialna zapampavać svaie mody na mod.io, što možna lohka "
+"nieabchodna specyialna zapampavać ułasnyia mody na mod.io, što možna lohka "
 "zrabić praz pryładu publikacyi madyfikacyiaŭ u hulni. Mody z mod.io možna "
 "niepasredna ściahvać, ustaloŭvać i aŭtamatyčna abnaŭlać praz ubudavany "
 "ahladalnik madyfikacyiaŭ u hulni. Vialiki dziakuj usim aŭtaram madyfikacyiaŭ "
