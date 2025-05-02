@@ -935,7 +935,7 @@ msgid "Cargo items produced by this building"
 msgstr "Грузы вырабляемыя гэтым будынкам"
 
 msgid "Cargo layer"
-msgstr "Слаі грузаў"
+msgstr "Слой грузаў"
 
 msgid "Cargo needs"
 msgstr "Попыт на грузы"
