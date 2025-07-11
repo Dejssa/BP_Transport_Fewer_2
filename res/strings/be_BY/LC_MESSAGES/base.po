@@ -1821,7 +1821,7 @@ msgid "Export"
 msgstr "Экспарт"
 
 msgid "Export heightmap"
-msgstr "Экспарт мап вышынь"
+msgstr "Экспарт мапаў вышынь"
 
 msgid "Extracting"
 msgstr "Распакоўваньне"
@@ -2257,10 +2257,10 @@ msgid "Heightmap height invalid. Valid heights: %1%."
 msgstr "Няправільная вышыня мапы вышыні. Дазволеная вышыня: %1%."
 
 msgid "Heightmap texture tool"
-msgstr "Прылада тэкстураваньня мап вышынь"
+msgstr "Прылада тэкстураваньня мапаў вышынь"
 
 msgid "Heightmap texture tool: Invert"
-msgstr "Прылада тэкстураваньня мап вышынь: адвярнуць"
+msgstr "Прылада тэкстураваньня мапаў вышынь: адвярнуць"
 
 msgid "Heightmap too large. Number of pixels must not exceed %1%M."
 msgstr ""
@@ -2785,7 +2785,7 @@ msgid "Manage vehicles"
 msgstr "Наладзіць транспарт"
 
 msgid "Map Editor"
-msgstr "Рэдактар мап"
+msgstr "Рэдактар мапаў"
 
 msgid "Map Parameters"
 msgstr "Парамэтры мапы"
@@ -2922,7 +2922,7 @@ msgid "Modify for "
 msgstr "Аднавіць за "
 
 msgid "Modify the terrain with a heightmap texture."
-msgstr "Зьмяняе мясцовасьць праз тэкстуры мап вышынь."
+msgstr "Зьмяняе мясцовасьць праз тэкстуры мапаў вышынь."
 
 msgid "Mods"
 msgstr "Мадыфікацыі"
@@ -2931,7 +2931,7 @@ msgid "Module bulldozer"
 msgstr "Бульдозер модуляў"
 
 msgid "Money number format"
-msgstr "Фармат запісу грошай"
+msgstr "Фармат запісу грошаў"
 
 msgid "Month"
 msgstr "Месяц"
@@ -3098,7 +3098,7 @@ msgid ""
 "Maps can be created with the map editor or\n"
 "downloaded from Steam Workshop."
 msgstr ""
-"Брак даступных мап.\n"
+"Брак даступных мапаў.\n"
 "\n"
 "Мапы можна ствараць у рэдактары або\n"
 "спампаваць з майстэрні Steam."
@@ -3108,7 +3108,7 @@ msgid ""
 "\n"
 "Maps can be created with the map editor."
 msgstr ""
-"Брак даступных мап.\n"
+"Брак даступных мапаў.\n"
 "\n"
 "Мапы можна ствараць у рэдактары."
 
@@ -3120,7 +3120,7 @@ msgstr ""
 "Брак мадыфікацыяў, якія адпавядаюць твайму бягучаму пошуку або фільтру."
 
 msgid "No money:"
-msgstr "Брак грошай:"
+msgstr "Брак грошаў:"
 
 msgid "No parameters"
 msgstr "Брак парамэтраў"
@@ -3201,10 +3201,10 @@ msgid "Not contained by any line as waypoint"
 msgstr "Не з'яўляецца пунктам для аніводнай лініі ў якасьці маршрутнага пункту"
 
 msgid "Not enough money"
-msgstr "Замала грошай"
+msgstr "Замала грошаў"
 
 msgid "Not enough money."
-msgstr "Замала грошай."
+msgstr "Замала грошаў."
 
 msgid "Not in my backyard"
 msgstr "Не на маім падворку"
@@ -3657,7 +3657,7 @@ msgid "Reach the year 2050 using only trains in free game."
 msgstr "У вольнай гульне выкарыстоўваце толькі цягнікі да 2050 году."
 
 msgid "Reading heightmap..."
-msgstr "Чытанне мап вышынь..."
+msgstr "Чытанне мапаў вышынь..."
 
 msgid "Real estate"
 msgstr "Нерухомасьць"
@@ -5360,7 +5360,7 @@ msgid "Write STL"
 msgstr "Запісаць STL"
 
 msgid "Write additional STL file with heightmap data"
-msgstr "Запісаць дадатковы файл STL з дадзенымі мап вышынь"
+msgstr "Запісаць дадатковы файл STL з дадзенымі мапаў вышынь"
 
 msgid "Wrong carrier"
 msgstr "Няправільны перавозчык"
