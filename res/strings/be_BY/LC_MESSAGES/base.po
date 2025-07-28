@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-04-05 14:07+0300\n"
+"PO-Revision-Date: 2025-07-28 22:17+0300\n"
 "Last-Translator: Alaksiej (Dejssa)\n"
 "Language-Team: Dejssa\n"
 "Language: be\n"
@@ -15,10 +15,10 @@ msgstr ""
 "X-Generator: Poedit 3.5\n"
 
 msgid "  - activate your dedicated graphics card (if available)"
-msgstr " - пераключыцеся на выдзеленую графічную картку, калі такая маецца"
+msgstr " - пераключыцеся на дыскрэтныю графічную картку, калі такая маецца"
 
 msgid "  - install the latest graphics drivers"
-msgstr " - усталюйце найноўшыя графічныя драйверы"
+msgstr " - усталюйце найноўшыя графічныя драйвэры"
 
 msgid " (terminal %1%)"
 msgstr " (тэрмінал %1%)"
@@ -43,9 +43,9 @@ msgstr[2] "Транспарт: %1%"
 
 msgid "%1% Vehicle selected"
 msgid_plural "%1% Vehicles selected"
-msgstr[0] "Выбраны транспарт.: %1%"
-msgstr[1] "Выбраны транспарт.: %1%"
-msgstr[2] "Выбраны транспарт.: %1%"
+msgstr[0] "Выбраны транспарт: %1%"
+msgstr[1] "Выбраны транспарт: %1%"
+msgstr[2] "Выбраны транспарт: %1%"
 
 msgid "%1% capacity"
 msgstr "Ёмістасьць: %1%"
@@ -53,7 +53,7 @@ msgstr "Ёмістасьць: %1%"
 msgid "%1% day"
 msgid_plural "%1% days"
 msgstr[0] "%1% дзень"
-msgstr[1] "%1% дзён"
+msgstr[1] "%1% дні"
 msgstr[2] "%1% дзён"
 
 msgid "%1% industry"
@@ -81,7 +81,7 @@ msgid "%1% month"
 msgid_plural "%1% months"
 msgstr[0] "%1% месяц"
 msgstr[1] "%1% месяцы"
-msgstr[2] "%1% месяцы"
+msgstr[2] "%1% месяцаў"
 
 msgid "%1% per vehicle"
 msgstr "%1%/транспарт"
@@ -114,7 +114,7 @@ msgid "%1% year"
 msgid_plural "%1% years"
 msgstr[0] "%1% год"
 msgstr[1] "%1% гады"
-msgstr[2] "%1% гады"
+msgstr[2] "%1% гадоў"
 
 msgid "%1%, %2%"
 msgstr "%1%, %2%"
@@ -153,47 +153,46 @@ msgid "%d for having a very long vehicle"
 msgstr "%d за доўгі транспарт"
 
 msgid "%d for having transported at least 100000 passengers"
-msgstr "%d пунтаў за транспарціроўку мінімум 100 000 пасажыраў"
+msgstr "%d за перавоз мінімум 100 000 пасажыраў"
 
 msgid "%d for having transported at least 100000 units of cargo"
-msgstr "%d пунтаў за транспарціроўку мінімум 100 000 адзінак тавару"
+msgstr "%d за перавоз мінімум 100 000 адзінак тавару"
 
 msgid "%d for high-speed rail network"
-msgstr "%d пунтаў за сетку высакахуткаснай чыгункі"
+msgstr "%d за сетку высакахуткаснай чыгункі"
 
 msgid "%d for rail network bridges"
-msgstr "%d пунтаў за масты чыгуначнай сеткі"
+msgstr "%d за масты чыгуначнай сеткі"
 
 msgid "%d for rail network electrification"
-msgstr "%d пунтаў за электрыфікацыю чыгуначнай сеткі"
+msgstr "%d за электрыфікацыю чыгуначнай сеткі"
 
 msgid "%d for rail network length"
-msgstr "%d пунтаў за даўжыню чыгуначнай сеткі"
+msgstr "%d за даўжыню чыгуначнай сеткі"
 
 msgid "%d for rail network tunnels"
-msgstr "%d пунтаў за тунэлі чыгуначнай сеткі"
+msgstr "%d за тунэлі чыгуначнай сеткі"
 
 msgid "%d point(s) for company value"
-msgstr "%d пунктаў за кошт кампаніі"
+msgstr "%d за кошт кампаніі"
 
 msgid "%d point(s) for having more than 10 trains"
-msgstr "%d пунктаў за маёмасьць больш за 10 цягнікоў"
+msgstr "%d за ўладаньне больш за 10 цягнікоў"
 
 msgid "%d point(s) for having more than 100 road vehicles"
-msgstr "%d пунктаў за маёмасьць больш за 100 адзінак дарожнага транспарту"
+msgstr "%d за ўладаньне больш за 100 адзінак дарожнага транспарту"
 
 msgid "%d point(s) for having more than 20 trams"
-msgstr "%d пунктаў за маёмасьць больш за 20 трамваяў"
+msgstr "%d за ўладаньне больш за 20 трамваяў"
 
 msgid "%d point(s) for having more than 5 aircraft"
-msgstr "%d пунктаў за маёмасьць больш за 5 самалётаў"
+msgstr "%d за ўладаньне больш за 5 самалётаў"
 
 msgid "%d point(s) for having more than 5 ships"
-msgstr "%d пунктаў за маёмасьць больш за 5 караблёў"
+msgstr "%d за ўладаньне больш за 5 караблёў"
 
 msgid "%d point(s) for maximum vehicle age"
-msgstr ""
-"%d пунктаў за маёмасьць транспартам, які дасягнуў максімальнага ўзросту"
+msgstr "%d за ўладаньне транспарту, які дасягнуў максімальнага ўзросту"
 
 msgid "'{otherAction}': [{otherCombo}]"
 msgstr "'{otherAction}': [{otherCombo}]"
@@ -205,10 +204,10 @@ msgstr[1] "(%1% адсекаў)"
 msgstr[2] "(%1% адсекаў)"
 
 msgid "(+ Early Supporter content)"
-msgstr "(+ Зьмест раняшняга падтрымшчыку)"
+msgstr "(+ Зьмест раньняга падтрымшчыка)"
 
 msgid "(+ Pre-order content)"
-msgstr "(+ Зьмест перад. замоўцы)"
+msgstr "(+ Зьмест перадзамоўцы)"
 
 msgid "(No target)"
 msgstr "(Брак цэлі)"
@@ -289,7 +288,7 @@ msgid ">= 0"
 msgstr ">= 0"
 
 msgid "A game update is required to load this savegame."
-msgstr "Для загрузкі гэтай захаваньня патрабуецца абнаўленьне."
+msgstr "Для счытваньня гэтага захаваньня патрабуецца абнаўленьне."
 
 msgid "A grieving day"
 msgstr "Дзень смутку"
@@ -318,7 +317,7 @@ msgid ""
 msgstr ""
 "Маршрут знойдзены, але на адным або некалькіх участках адсутнічаюць "
 "трамвайныя рэйкі. Транспарт патрэбуе трамвайныя рэйкі. Скарыстайцеся "
-"поладамі трамвайнай рэйкі, каб зьмяніць гэтыя ўчасткі."
+"прыладамі трамвайнай рэйкі, каб зьмяніць гэтыя ўчасткі."
 
 msgid ""
 "A path has been found, but only small aircraft are allowed on this path. "
@@ -332,7 +331,7 @@ msgid ""
 "Consider using small ships or large docks."
 msgstr ""
 "Маршрут знойдзены, але ім могуць карыстацца толькі малыя караблі. "
-"Скарыстайцеся малымі караблямі або вялікімі партамі."
+"Скарыстайцеся малымі караблямі або вялікімі портамі."
 
 msgid "A station appears consecutively twice"
 msgstr "Станцыя з'яўляецца двойчы запар"
@@ -344,8 +343,8 @@ msgid ""
 "Abandoned industry! Closes forever and disappears from the map if not "
 "operational within %1%"
 msgstr ""
-"Закінута прамысловасьць! Яна будзе зачынены назаўжды й зьнікне з мапы, калі "
-"не пачне працаваць на працягу %1%"
+"Закінутая прамысловасьць! Яна будзе зачынена й зьнікне з мапы, калі не пачне "
+"працаваць на працягу %1%"
 
 msgid "Abandoned industry! Closes in %1%."
 msgstr "Закінута прамысловасьць! Яна зачыніцца праз %1%."
@@ -365,26 +364,27 @@ msgstr "Рахунак"
 msgid ""
 "Accumulate a fortune of 1 billion (without debt) in free game with hard mode."
 msgstr ""
-"Набудзьце дабрабыту аб 1 мільярдзе (без пазык) у вольнай гульне, цяжкі рэжым."
+"Набудзьце дабрабыт аб 1 мільярдзе (без пазыкаў) у вольнай гульне, цяжкі "
+"рэжым."
 
 msgid "Accumulate a fortune of 1 billion (without debt) in free game."
-msgstr "Набудзьце дабрабыту аб 1 мільярдзе (без пазык) у вольнай гульне."
+msgstr "Набудзьце дабрабыт аб 1 мільярдзе (без пазыкаў) у вольнай гульне."
 
 msgid "Accumulate a fortune of 1 million (without debt) in free game."
-msgstr "Набудзьце дабрабыту аб 1 мільёне (без пазык) у вольнай гульне."
+msgstr "Набудзьце дабрабыт аб 1 мільёне (без пазыкаў) у вольнай гульне."
 
 msgid "Accumulate a fortune of 10 millions (without debt) in free game."
-msgstr "Набудзьце дабрабыту аб 10 мільёнах (без пазык) у вольнай гульне."
+msgstr "Набудзьце дабрабыт аб 10 мільёнах (без пазыкаў) у вольнай гульне."
 
 msgid ""
 "Accumulate a fortune of 100 millions (without debt) in free game with hard "
 "mode."
 msgstr ""
-"Набудзьце дабрабыту аб 100 мільёнах (без пазык) у вольнай гульне, цяжкі "
+"Набудзьце дабрабыт аб 100 мільёнах (без пазыкаў) у вольнай гульне, цяжкі "
 "рэжым."
 
 msgid "Accumulate a fortune of 100 millions (without debt) in free game."
-msgstr "Набудзьце дабрабыту аб 100 мільёнах (без пазык) у вольнай гульне."
+msgstr "Набудзьце дабрабыт аб 100 мільёнах (без пазыкаў) у вольнай гульне."
 
 msgid "Actions"
 msgstr "Дзеяньні"
@@ -408,7 +408,7 @@ msgid "Add a subtitle"
 msgstr "Дадаць падзагаловак"
 
 msgid "Add mods from preset to the end of the list of activated mods."
-msgstr "Дадаць мадыфікацыі з наладаў ў канец сьпісу актыўных мадыфікацый."
+msgstr "Дадаць мадыфікацыі з наладаў ў канец сьпісу актыўных мадыфікацыяў."
 
 msgid "Add station"
 msgstr "Дадаць станцыю"
@@ -453,7 +453,7 @@ msgid "All cargo"
 msgstr "Усе грузы"
 
 msgid "All locomotives"
-msgstr "Усе лёкаматывы"
+msgstr "Усе лякаматывы"
 
 msgid "All missions completed!"
 msgstr "Усе місіі выкананы!"
@@ -488,7 +488,7 @@ msgstr "Амэрыканскі транспарт"
 
 msgid ""
 "An integrated graphic chip is active. For best performance, make sure to:"
-msgstr "Убудаваная відэакарта актыўна. Для найлепшай прадукцыйнасіці:"
+msgstr "Убудаваная відэакарта актыўна. Для найлепшай прадукцыйнасьці:"
 
 msgid "Angle: {angle}°"
 msgstr "Кут: {angle}°"
@@ -518,10 +518,10 @@ msgid "Apply the settings and close"
 msgstr "Ужыць налады й закрыць"
 
 msgid "Approximate annual throughput per station"
-msgstr "Прыкладная гадавая прапушчальнасьць станцыі"
+msgstr "Прыблізная гадавая прапушчальнасьць станцыі"
 
 msgid "Are you sure you want to log out?"
-msgstr "Ці сапраўды вы жадаеце выйсьці?"
+msgstr "Ці вы ўпэнены, што хаціце выйсьці?"
 
 msgid "Ascending"
 msgstr "Нарастаюча"
@@ -545,8 +545,7 @@ msgid "At home"
 msgstr "Дома"
 
 msgid "At least %1% GB of graphics memory are recommended for these settings."
-msgstr ""
-"У выпадку такіх налад мінімальны памер памяці відэакарты складае %1% ГБ."
+msgstr "Для такіх наладаў, раіцца мінімальны памер памяці відэакарты %1% ГБ."
 
 msgid "At work"
 msgstr "На працы"
@@ -586,7 +585,7 @@ msgid "Autosaves to keep"
 msgstr "Захаваць аўтазахаваньні"
 
 msgid "Available heightmaps:"
-msgstr "Даступныя мапы вышыні:"
+msgstr "Даступныя мапы вышыняў:"
 
 msgid "Average"
 msgstr "Сярэдне"
@@ -602,7 +601,7 @@ msgstr ""
 "жыхароў места {townName}"
 
 msgid "BONUS TASKS"
-msgstr "ДАДАТКОВЫЯ ЗАДАЧЫ"
+msgstr "ДАДАТКОВЫЯ ЗАДАНЬНІ"
 
 msgid "Back"
 msgstr "Назад"
@@ -641,7 +640,7 @@ msgid "Big ship is incompatible with small harbour"
 msgstr "Маленькі порт ня можа абслугоўваць вялікія караблі"
 
 msgid "Big spender"
-msgstr "Велізарныя выдаткі"
+msgstr "Вялізарныя выдаткі"
 
 msgid "Bit depth must be 1, 8 or 16."
 msgstr "Неабходная разраднасць 1, 8 або 16."
@@ -656,13 +655,13 @@ msgid "Bonus task completed"
 msgstr "Дадатковае заданьне выканана"
 
 msgid "Bonus tasks"
-msgstr "Дадатковыя задачы"
+msgstr "Дадатковыя заданьні"
 
 msgid "Borderless"
 msgstr "Бяз рамкі"
 
 msgid "Borrow %1%"
-msgstr "Пазычаць %1%"
+msgstr "Пазычыць %1%"
 
 msgid "Bridge"
 msgstr "Мост"
@@ -677,22 +676,22 @@ msgid "Brush size"
 msgstr "Памер пэндзалю"
 
 msgid "Build"
-msgstr "Збудаваць"
+msgstr "Пабудаваць"
 
 msgid "Build a bus stop in free game."
-msgstr "Збудаваць прыпынак аўтобусу ў вольнай гульне."
+msgstr "Пабудаваць прыпынак аўтобусу ў вольнай гульне."
 
 msgid "Build a passenger train station in free game."
-msgstr "Збудаваць пасажырскі чыгуначны вакзал у вольнай гульне."
+msgstr "Пабудаваць пасажырскі чыгуначны вакзал у вольнай гульне."
 
 msgid "Build a town"
-msgstr "Збудаваць места"
+msgstr "Пабудаваць места"
 
 msgid "Build a train line with at least 10 trains in motion in free game."
-msgstr "У вольнай гульне пабудуйце чыгуначную лінію, прынамсі, з 10 цягнікоў."
+msgstr "У вольнай гульне пабудуйце чыгуначную лінію з, прынамсі, 10 цягнікамі."
 
 msgid "Build date"
-msgstr "Дата збудовы"
+msgstr "Дата пабудовы"
 
 msgid "Build high bridges over rivers so that ships can pass under."
 msgstr "Будуйце праз рэкі высокія масты, каб пад імі маглі плыць караблі."
@@ -701,7 +700,7 @@ msgid "Build the company headquarters in free game."
 msgstr "Пабудуйце штаб-кватэру кампаніі ў вольнай гульне."
 
 msgid "Build town not possible"
-msgstr "Будова места не магчыма"
+msgstr "Будова места немагчыма"
 
 msgid "Building town..."
 msgstr "Места будуецца..."
@@ -725,7 +724,7 @@ msgid "Bus lane"
 msgstr "Аўтобусная лінія"
 
 msgid "Bus lane tool"
-msgstr "Прылада аўтобуснай лініі"
+msgstr "Інструмэнт аўтобуснай лініі"
 
 msgid "Bus/Tram station"
 msgstr "Станцыя аўтобусаў/трамваяў"
@@ -773,16 +772,16 @@ msgid "Buy vehicles"
 msgstr "Купіць транспарт"
 
 msgid "By car"
-msgstr "Машынай"
+msgstr "Машынаю"
 
 msgid "By foot"
-msgstr "Пешам"
+msgstr "Пешшу"
 
 msgid "By submitting this item, you agree to the workshop terms of service."
-msgstr "Дасылаючы зьмест, вы згаджаецеся з умовамі майстэрні Steam."
+msgstr "Дасылаючы зьмест, вы пагаджаецеся з умовамі майстэрні Steam."
 
 msgid "By submitting this mod, you agree to the mod.io terms of Use."
-msgstr "Дасылаючы зьмест, вы згаджаецеся з умовамі майстэрні mod.io."
+msgstr "Дасылаючы зьмест, вы пагаджаецеся з умовамі майстэрні mod.io."
 
 msgid "Cadet"
 msgstr "Кадэт"
@@ -794,22 +793,22 @@ msgid "Camera Manager"
 msgstr "Налады камэры"
 
 msgid "Camera config name"
-msgstr "Назва налад камэры"
+msgstr "Назва налады камэры"
 
 msgid "Camera focal length"
 msgstr "Фокусная адлегласьць камэры"
 
 msgid "Camera move down"
-msgstr "Перамясьціць камэру назад"
+msgstr "Рух камэры назад"
 
 msgid "Camera move left"
-msgstr "Перамясьціць камэру леваруч"
+msgstr "Рух камэры леваруч"
 
 msgid "Camera move right"
-msgstr "Перамясьціць камэру праваруч"
+msgstr "Рух камэры праваруч"
 
 msgid "Camera move up"
-msgstr "Перамясьціць камэру наперад"
+msgstr "Рух камэры наперад"
 
 msgid "Camera rotate left"
 msgstr "Круціць камэру леваруч"
@@ -824,46 +823,46 @@ msgid "Camera tilt up"
 msgstr "Нахіліць камэру да гары"
 
 msgid "Camera tool"
-msgstr "Прылада камэры"
+msgstr "Інструмэнт камэры"
 
 msgid "Camera tool: Add keyframe"
-msgstr "Прылада камэры: Дадаць ключавы кадр"
+msgstr "Інструмэнт камэры: Дадаць ключавы кадр"
 
 msgid "Camera tool: Capture"
-msgstr "Прылада камэры: Здымак экрану"
+msgstr "Інструмэнт камэры: Здымак экрану"
 
 msgid "Camera tool: Clear keyframes"
-msgstr "Прылада камэры: Выдаліць ключавыя кадры"
+msgstr "Інструмэнт камэры: Выдаліць ключавыя кадры"
 
 msgid "Camera tool: Load"
-msgstr "Прылада камэры: Счытаць"
+msgstr "Інструмэнт камэры: Счытаць"
 
 msgid "Camera tool: Pause"
-msgstr "Прылада камэры: Прыпыніць"
+msgstr "Інструмэнт камэры: Прыпыніць"
 
 msgid "Camera tool: Play"
-msgstr "Прылада камэры: Прайграць"
+msgstr "Інструмэнт камэры: Прайграць"
 
 msgid "Camera tool: Save"
-msgstr "Прылада камэры: Захаваць"
+msgstr "Інструмэнт камэры: Захаваць"
 
 msgid "Camera tool: Start recording"
-msgstr "Прылада камэры: Пачаць запіс"
+msgstr "Інструмэнт камэры: Пачаць запіс"
 
 msgid "Camera tool: Stop"
-msgstr "Прылада камэры: Спыніць"
+msgstr "Інструмэнт камэры: Спыніць"
 
 msgid "Camera tool: Toggle play/pause"
-msgstr "Прылада камэры: Пераключэньне - прайграць/прыпыніць"
+msgstr "Інструмэнт камэры: Пераключэньне - прайграць/прыпыніць"
 
 msgid "Camera tool: Toggle play/stop"
-msgstr "Прылада камэры: Пераключэньне - прайграць/спыніць"
+msgstr "Інструмэнт камэры: Пераключэньне - прайграць/спыніць"
 
 msgid "Camera zoom in"
-msgstr "Павялічыць від"
+msgstr "Наблізіць камэру"
 
 msgid "Camera zoom out"
-msgstr "Аддаліць від"
+msgstr "Аддаліць камэру"
 
 msgid "Campaign"
 msgstr "Кампанія"
@@ -896,10 +895,10 @@ msgid "Cancel publishing"
 msgstr "Скасаваць публікаваньне"
 
 msgid "Cannot bulldoze headquarters, use relocate instead!"
-msgstr "Нельга разбурыць штаб-квартэру. Спрабуйце перанесьці яго!"
+msgstr "Ня можна разбурыць штаб-квартэру. Спрабуйце перанесьці яе!"
 
 msgid "Cannot get enough"
-msgstr "Цягнікоў ніколі не занадта"
+msgstr "Цягнікоў не бывае занадта"
 
 msgid "Capacity"
 msgstr "Ёмістасьць"
@@ -911,7 +910,7 @@ msgid "Capture images"
 msgstr "Захаваць выявы"
 
 msgid "Capture latlong"
-msgstr "Запісаць даўжыню/шырыню"
+msgstr "Запісаць шырату/даўжыню"
 
 msgid "Capture videos"
 msgstr "Захаваць відэа"
@@ -929,7 +928,7 @@ msgid "Cargo hub"
 msgstr "Грузавы вузел"
 
 msgid "Cargo items consumed by this building"
-msgstr "Грузы ўжываемыя гэтым будынкам"
+msgstr "Грузы спажываемыя гэтым будынкам"
 
 msgid "Cargo items produced by this building"
 msgstr "Грузы вырабляемыя гэтым будынкам"
@@ -1004,13 +1003,13 @@ msgid "Charts"
 msgstr "Дыяграма"
 
 msgid "Cheats"
-msgstr "Коды"
+msgstr "Махлярства"
 
 msgid "Check for available disk space (Code: {code})"
-msgstr "Праверце даступнае мейсца на дыску (код: {code})"
+msgstr "Праверце даступнае месца на дыску (код: {code})"
 
 msgid "Choose heightmap"
-msgstr "Выберыце мапу вышынь"
+msgstr "Выберыце мапу вышыняў"
 
 msgid "Choose the game's difficulty"
 msgstr "Выберыце складанасьць гульні"
@@ -1047,13 +1046,13 @@ msgstr ""
 "працягнуць маршрут."
 
 msgid "Click to change date speed"
-msgstr "Націсьні, каб зьмяніць хуткасьць дзён"
+msgstr "Націсьніце, каб зьмяніць хуткасьць часу"
 
 msgid "Click to choose a logo..."
-msgstr "Націсьні, каб абраць лагатып..."
+msgstr "Націсьніце, каб абраць лягатып..."
 
 msgid "Click to modify balance"
-msgstr "Націсьні, каб зьмяніць каштарыс"
+msgstr "Націсьніце, каб зьмяніць каштарыс"
 
 msgid "Climate"
 msgstr "Клімат"
@@ -1080,7 +1079,7 @@ msgid "Clone vehicle"
 msgstr "Скланаваць транспарт"
 
 msgid "Cloning can only be performed for {number} vehicles at once"
-msgstr "Адначасова нельга кланаваць больш за {number} транспарту"
+msgstr "Адначасова ня можна кланаваць больш за {number} транспарту"
 
 msgid "Close"
 msgstr "Закрыць"
@@ -1089,7 +1088,7 @@ msgid "Close all"
 msgstr "Закрыць усё"
 
 msgid "Close mod detail window"
-msgstr "Закрыць акно дэталяў моду"
+msgstr "Закрыць акно дэталяў мода"
 
 msgid "Closed."
 msgstr "Закрыта."
@@ -1140,7 +1139,7 @@ msgid "Commercial supply"
 msgstr "Гандлёвая дастава"
 
 msgid "Company"
-msgstr "Таварыства"
+msgstr "Кампанія"
 
 msgid "Company finances"
 msgstr "Каштарыс кампаніі"
@@ -1152,16 +1151,16 @@ msgid "Complete campaign \"%1%\" to unlock"
 msgstr "Каб адблякаваць, завяршыце кампанію „%1%”"
 
 msgid "Complete the entire campaign."
-msgstr "Скончыць усю кампанію."
+msgstr "Кончыць усю кампанію."
 
 msgid "Complete the first and second era of the campaign."
-msgstr "Скончыць першую й другую эры кампаніі."
+msgstr "Кончыць першую й другую эры кампаніі."
 
 msgid "Complete the first era of the campaign."
-msgstr "Скончыць першую эру кампаніі."
+msgstr "Кончыць першую эру кампаніі."
 
 msgid "Complete the first mission of the campaign."
-msgstr "Скончыць першую місію кампаніі."
+msgstr "Кончыць першую місію кампаніі."
 
 msgid "Condition"
 msgstr "Стан"
@@ -1197,7 +1196,7 @@ msgid "Confirm destruction?"
 msgstr "Упэўнены зь зьнішчэньнем?"
 
 msgid "Confirm disposal"
-msgstr "Пацьвердзіць выпродаж"
+msgstr "Пацьвердзіць пазбаўленьне"
 
 msgid "Confirm mass clone"
 msgstr "Пацьвердзіць масавае кланаваньне"
@@ -1218,7 +1217,7 @@ msgid "Construction"
 msgstr "Будынак"
 
 msgid "Construction locked"
-msgstr "Будынак заблакаваны"
+msgstr "Будынак заблякаваны"
 
 msgid "Construction not possible"
 msgstr "Будоўля немагчыма"
@@ -1278,7 +1277,7 @@ msgid "Consumption"
 msgstr "Спажываньне"
 
 msgid "Contained by following lines as waypoint"
-msgstr "Належаць да наступных ліній як маршрутны пункт"
+msgstr "Належаць да наступных лініяў як маршрутны пункт"
 
 msgid "Context help"
 msgstr "Кантэкстная дапамога"
@@ -1296,10 +1295,10 @@ msgid "Continue to external website?"
 msgstr "Перайсьці да зьнешняй вэб-старонкі?"
 
 msgid "Contour lines layer"
-msgstr "Слой контурных ліній"
+msgstr "Слой контурных лініяў"
 
 msgid "Coord.sys."
-msgstr "Сыстэма каардынат"
+msgstr "Сыстэма каардынатў"
 
 msgid "Copy"
 msgstr "Капіяваць"
@@ -1320,7 +1319,7 @@ msgid "Could not connect all stations"
 msgstr "Не атрымалася падлучыць усе станцыі"
 
 msgid "Could not refresh"
-msgstr "Не ўдалося абнавіць"
+msgstr "Немагчыма абнавіць"
 
 msgid ""
 "Could not save game. Please check free\n"
@@ -1336,7 +1335,7 @@ msgid "Create New Map"
 msgstr "Стварыць новую мапу"
 
 msgid "Create a line with at least two stops in free game."
-msgstr "У вольнай гульне стварыце лінію прынамсі зь дзьвюма прыпынкамі."
+msgstr "У вольнай гульне стварыце лінію прынамсі зь двума прыпынкамі."
 
 msgid "Create a new line"
 msgstr "Стварыць новую лінію"
@@ -1345,13 +1344,13 @@ msgid "Creating fields..."
 msgstr "Стварэньне палей..."
 
 msgid "Creating industries..."
-msgstr "Стварэньне прамысловых устаноў..."
+msgstr "Стварэньне прамысловых установаў..."
 
 msgid "Creating streets..."
-msgstr "Стварэньне вуліц..."
+msgstr "Стварэньне вуліцаў..."
 
 msgid "Creating towns..."
-msgstr "Стварэньне мест..."
+msgstr "Стварэньне местаў..."
 
 msgid "Credits"
 msgstr "Аўтары"
@@ -1495,7 +1494,7 @@ msgid "Descending"
 msgstr "Сыходзячы"
 
 msgid "Description"
-msgstr "Опіс"
+msgstr "Апісаньне"
 
 msgid "Destination"
 msgstr "Накіраваны да"
@@ -1522,19 +1521,19 @@ msgid "Diesel Train"
 msgstr "Дызэльны цягнік"
 
 msgid "Diesel locomotives"
-msgstr "Дызэльны лёкаматыў"
+msgstr "Дызэльны лякаматыў"
 
 msgid "Diesel multiple units"
 msgstr "Дызэльны цягавы коплекс"
 
 msgid "Different cargo types transported"
-msgstr "Дастаўленыя розныя віды грузаў"
+msgstr "Дастаўлены розныя тыпы грузаў"
 
 msgid "Difficulty"
-msgstr "Цяжкасьць"
+msgstr "Складасьць"
 
 msgid "Difficulty:"
-msgstr "Цяжкасьць:"
+msgstr "Складасьць:"
 
 msgid "Directory: {folder}"
 msgstr "Тэчка: {folder}"
@@ -1576,7 +1575,7 @@ msgid "Do you wish to proceed?"
 msgstr "Ці хочаце працягнуць?"
 
 msgid "Docks outside of navigable waters"
-msgstr "Докі па-за межамі суднаходных вод"
+msgstr "Докі па-за межамі суднаходных водаў"
 
 msgid "Don't take any additional loan until the year 2050 in free game."
 msgstr "Не бярыце аніводнай дадатковай пазыкі да 2050 года ў вольнай гульне."
@@ -1585,7 +1584,7 @@ msgid "Double slip switch"
 msgstr "Двайны cкрыжаваны перамыкач"
 
 msgid "Down"
-msgstr "Да долу"
+msgstr "Дадолу"
 
 msgid "Download pending"
 msgstr "Сьцягваньне чакаецца"
@@ -1606,7 +1605,7 @@ msgid "Duration"
 msgstr "Час трываньня"
 
 msgid "E.P.E.C."
-msgstr "УСЁ.ПАЎСЮЛЬ."
+msgstr "Ш.Т.А."
 
 msgid "Earn 1 million with airplanes within a month in free game."
 msgstr "Зарабіце 1 мільён на дастаўцы самалётамі за месяц у вольнай гульне."
@@ -1624,7 +1623,7 @@ msgid "Earn all medals of the entire campaign."
 msgstr "Зарабіце ўсе мэдалі за ўсю кампанію."
 
 msgid "Edge scrolling"
-msgstr "Краёвая пракрутка"
+msgstr "Пракрутка па краю"
 
 msgid "Edit all vehicles"
 msgstr "Рэдагаваць увесь транспарт"
@@ -1651,16 +1650,16 @@ msgid "Electric"
 msgstr "Электрычны"
 
 msgid "Electric Train"
-msgstr "Элэктрычны цягнік"
+msgstr "Электрычны цягнік"
 
 msgid "Electric locomotives"
-msgstr "Элэктрычны лёкаматыў"
+msgstr "Элэктрычны лякаматыў"
 
 msgid "Electric multiple units"
 msgstr "Электрычны цягавы коплекс"
 
 msgid "Electrification tool"
-msgstr "Прылада электрыфікацыі"
+msgstr "Інструмэнт электрыфікацыі"
 
 msgid "Email"
 msgstr "Э-пошта"
@@ -1705,7 +1704,7 @@ msgid "Enable all mods currently visible in the list"
 msgstr "Уключыць усе мадыфікацыі, бачныя ў сьпісе"
 
 msgid "Enable camera tool"
-msgstr "Уключыць прылады камэры"
+msgstr "Уключыць інструмэнты камэры"
 
 msgid "Enable custom game settings"
 msgstr "Уключыць уласныя налады гульні"
@@ -1718,7 +1717,7 @@ msgstr "Уключыць мадыфікацыю"
 
 msgid "Enable mods from a mod preset. Already enabled mods are not disabled."
 msgstr ""
-"Уключыць мадыфікацыі з папярэдняй нарэхтоўкі. Раней уключаныя мадыфікацыі ня "
+"Уключыць мадыфікацыі з папярэдняй нарыхтоўкі. Раней уключаныя мадыфікацыі ня "
 "будуць адключаны."
 
 msgid "Enable mouse/keyboard"
@@ -1737,7 +1736,7 @@ msgid "Enabled/disabled mod(s) may lead to unexpected results."
 msgstr "Уключаныя/адключаныя модыфікацыі могуць выклікаць нечаканыя з'явы."
 
 msgid "Enabled/disabled mod(s) will likely cause the game to crash!"
-msgstr "Уключэньне/выключэньне мадыфікацый можа прывесьці да збою гульні!"
+msgstr "Уключэньне/выключэньне мадыфікацыяў можа прывесьці да збою гульні!"
 
 msgid "Engine Type"
 msgid_plural "Engine Types"
@@ -1746,13 +1745,13 @@ msgstr[1] "Тыпы рухавікоў"
 msgstr[2] "Тыпы рухавікоў"
 
 msgid "Enter a file name!"
-msgstr "Увядзіце назву файлу!"
+msgstr "Увядзіце назву файла!"
 
 msgid "Enter bank balance!"
 msgstr "Увядзіце баланс рахунку!"
 
 msgid "Enter change note"
-msgstr "Увядзіце нататку зьмен"
+msgstr "Увядзіце нататку зьменаў"
 
 msgid "Enter cockpit"
 msgstr "Увайсьці ў кабіну"
@@ -1785,16 +1784,16 @@ msgid "Environment:"
 msgstr "Асяродзьдзе:"
 
 msgid "Erase assets with a brush."
-msgstr "Дазваляе выдаляць элементы пэндзьлям."
+msgstr "Дазваляе выдаляць элемэнты пэндзьлям."
 
 msgid "Erase the terrain painting (restore the default material)."
 msgstr "Сьцерьці маляваньне мясцовасьці (вяртае матэрыял па змаўчаньні)."
 
 msgid "Eraser tool"
-msgstr "Прылада – гумка"
+msgstr "Інструмэнт – гумка"
 
 msgid "Error loading settings file"
-msgstr "Памылка загрузкі файлу налад"
+msgstr "Памылка загрузкі файлу наладаў"
 
 msgid "Europe"
 msgstr "Эўропа"
@@ -1821,7 +1820,7 @@ msgid "Export"
 msgstr "Экспарт"
 
 msgid "Export heightmap"
-msgstr "Экспарт мапаў вышынь"
+msgstr "Экспарт мапаў вышыняў"
 
 msgid "Extracting"
 msgstr "Распакоўваньне"
@@ -1902,10 +1901,10 @@ msgid "First"
 msgstr "Першы"
 
 msgid "First aircraft arrived"
-msgstr "Першы самалёт на мейсцы"
+msgstr "Першы самалёт на месцы"
 
 msgid "First bus arrived"
-msgstr "Першы аўтобус на мейсцы"
+msgstr "Першы аўтобус на месцы"
 
 msgid "First bus stop"
 msgstr "Першы прыпынак"
@@ -1917,7 +1916,7 @@ msgid "First cargo item waiting"
 msgstr "Першы груз чакае на адпраўку"
 
 msgid "First electric train arrived"
-msgstr "Першы электрычны цягнік на мейсцы"
+msgstr "Першы электрычны цягнік на месцы"
 
 msgid "First industry upgraded"
 msgstr "Першае паляпшэньне прамысловасьці"
@@ -1932,10 +1931,10 @@ msgid "First passenger waiting"
 msgstr "Першы пасажыр чакае на адпраўку"
 
 msgid "First ship arrived"
-msgstr "Першы карабель на мейсцы"
+msgstr "Першы карабель на месцы"
 
 msgid "First steam train arrived"
-msgstr "Першы паравоз на мейсцы"
+msgstr "Першы паравоз на месцы"
 
 msgid "First train station"
 msgstr "Першы чыгуначны вакзал"
@@ -1953,7 +1952,7 @@ msgid "Flip vehicle"
 msgstr "Разьвярнуць траспарт"
 
 msgid "Foc."
-msgstr "Фокус."
+msgstr "Засярод."
 
 msgid "Focus Mods"
 msgstr "Засярод. на мадыфікацыях"
@@ -2019,13 +2018,13 @@ msgid "Generate"
 msgstr "Утварыць"
 
 msgid "Generate a random seed"
-msgstr "Утварыць выпадковае насеньня"
+msgstr "Утварыць выпадковае зерне"
 
 msgid "Generate heightmap"
-msgstr "Утварыць мапы вышынь"
+msgstr "Утварыць мапы вышыняў"
 
 msgid "Generate industries"
-msgstr "Утварыць прамысловых устаноў"
+msgstr "Утварыць прамысловыя установы"
 
 msgid "Generate streets"
 msgstr "Утварыць вуліцы"
@@ -2034,22 +2033,22 @@ msgid "Generate towns"
 msgstr "Утварыць месты"
 
 msgid "Generating industries..."
-msgstr "Утварэньне прамысловых устаноў..."
+msgstr "Утварэньне прамысловых установаў..."
 
 msgid "Generating map..."
 msgstr "Утварэньне мапы..."
 
 msgid "Generating preview..."
-msgstr "Утварэньне папяр. прагляду..."
+msgstr "Утварэньне перадпрагляду..."
 
 msgid "Generating streets..."
-msgstr "Утварэньне вуліц..."
+msgstr "Утварэньне вуліцаў..."
 
 msgid "Generating terrain..."
 msgstr "Утварэньне мясцовасьці..."
 
 msgid "Generating towns..."
-msgstr "Спараджа́ньне мест..."
+msgstr "Спараджа́ньне местаў..."
 
 msgid "Generator"
 msgstr "Утваральнік"
@@ -2064,7 +2063,7 @@ msgid "Geometry"
 msgstr "Геамэтрыя"
 
 msgid "Glacier express"
-msgstr "Глетчарны экспрэс"
+msgstr "Ледавы экспрэс"
 
 msgid "Go back to menu"
 msgstr "Вярнуцца да мэню"
@@ -2076,7 +2075,7 @@ msgid "Go to previous page"
 msgstr "Перайсьці да папярэдняй старонкі"
 
 msgid "Go to station"
-msgstr "Направіцца да станцыі"
+msgstr "Да станцыі"
 
 msgid "Going to depot"
 msgstr "У дарозе да дэпо"
@@ -2127,7 +2126,7 @@ msgid "HUD: Toggle income labels"
 msgstr "HUD: Пераключэньне цэтлікаў заробкаў"
 
 msgid "HUD: Toggle industries"
-msgstr "HUD: Пераключэньне прамысловасьцей"
+msgstr "HUD: Пераключэньне прамысловасьцяў"
 
 msgid "HUD: Toggle rail vehicles"
 msgstr "HUD: Пераключэньне чыгуначнага транспарту"
@@ -2151,41 +2150,41 @@ msgid "Hangar"
 msgstr "Ангар"
 
 msgid "Have 100km of railway tunnels in free game."
-msgstr "Збудуйце 100км чыгуначных тунэляў у вольнай гульне."
+msgstr "Мець 100км чыгуначных тунэляў у вольнай гульне."
 
 msgid "Have 400km of tracks in free game."
-msgstr "Пракладзіце 400км цыгункі ў вольнай гульне."
+msgstr "Мець 400км чыгункі ў вольнай гульне."
 
 msgid "Have 50km of railway bridges in free game."
-msgstr "Пабудуйце 50 км чыгуначных мастоў у вольнай гульне."
+msgstr "Мець 50 км чыгуначных мастоў у вольнай гульне."
 
 msgid "Have a cargo item transported with one of your vehicles in free game."
 msgstr "Перавезьці груз на транспарце ў вольнай гульне."
 
 msgid "Have a cargo item waiting at a terminal in free game."
-msgstr "Мейце груз чакаюшчыў у тэрмінале ў вольнай гульне."
+msgstr "Мець груз чакаюшчы ў тэрмінале ў вольнай гульне."
 
 msgid ""
 "Have a line with every passenger road vehicle type available from 1850 to "
 "2020 in free game."
 msgstr ""
-"У вольнай гульне мейце лінію, якая будзе ужываць увесь даступны транспарт ад "
+"У вольнай гульне меце лінію, якая будзе ужываць увесь даступны транспарт ад "
 "1850 да 2020."
 
 msgid "Have a monthly maintenance cost of 200 million in free game."
-msgstr "У вольнай гульне мейце штомесячны кошт утрыманьня аб 200 мільёнаў."
+msgstr "У вольнай гульне мець штомесячны кошт утрыманьня аб 200 мільёнаў."
 
 msgid "Have a passenger on a vehicle in free game."
 msgstr "Перавезьці пасажыра на транспарце ў вольнай гульне."
 
 msgid "Have a town with a population of at least 1500 in free game."
 msgstr ""
-"У вольнай гульне дасягніце насельніцтва аднаго зь мест не мешн за 1500 "
+"У вольнай гульне дасягніце насельніцтва аднаго зь местаў не мешн за 1500 "
 "жыхароў."
 
 msgid "Have a town with a population of at least 750 in free game."
 msgstr ""
-"У вольнай гульне дасягніце насельніцтва аднаго зь мест не мешн за 750 "
+"У вольнай гульне дасягніце насельніцтва аднаго зь местаў не мешн за 750 "
 "жыхароў."
 
 msgid "Have a train filled with at least 100 passengers in free game."
@@ -2203,18 +2202,18 @@ msgstr ""
 "дазволеную станцыю."
 
 msgid "Have a train that reaches higher than 450 meters in free game."
-msgstr "У вольнай гульне зрабіце цягнік на даўжэй за 450 мэтраў."
+msgstr "У вольнай гульне зрабіце цягнік даўжэй за 450 мэтраў."
 
 msgid ""
 "Have all tracks electrified and high speed in free game. Have at least 100km "
 "of tracks."
 msgstr ""
-"У вольнай гульне электрыфікуйце й адаптуйце чыгунку да высокіх хуткасьцей. "
-"Пракласьці прынамсі 100 км."
+"У вольнай гульне электрыфікуйце й адаптуйце чыгунку да высокіх хуткасьцяў. "
+"Мець прынамсі 100 км чыгункі."
 
 msgid "Have at least 300 cargo items waiting at a train station in free game."
 msgstr ""
-"У вольнай гульне мейце не менш за 300 тавараў, чакаюшчых на транспарціроўку "
+"У вольнай гульне мець ня менш за 300 тавараў, чакаюшчых на транспарціроўку "
 "на вакзале."
 
 msgid "Have at least 300 passengers waiting in a train station in free game."
@@ -2229,11 +2228,10 @@ msgstr ""
 "прамысловасьці."
 
 msgid "Have two trains stuck facing each other in free game."
-msgstr ""
-"У вольнай гульне зрабіце два цягніка, якія стаяць адзін насупраць аднаго."
+msgstr "У вольнай гульне зрабіце два цягніка, якія стаяць тварам у твар."
 
 msgid "Heading for depot"
-msgstr "Накірованы да дэпо"
+msgstr "Накіраваны да дэпо"
 
 msgid "Heading for {stopName}"
 msgstr "Накіраваны да: {stopName}"
@@ -2251,23 +2249,23 @@ msgid "Height at screen center: {height}"
 msgstr "Вышыня на цэнтры экрана: {height}"
 
 msgid "Heightmap"
-msgstr "Мапа вышынь"
+msgstr "Мапа вышыняў"
 
 msgid "Heightmap height invalid. Valid heights: %1%."
-msgstr "Няправільная вышыня мапы вышыні. Дазволеная вышыня: %1%."
+msgstr "Няправільная вышыня мапы вышыняў. Дазволеная вышыня: %1%."
 
 msgid "Heightmap texture tool"
-msgstr "Прылада тэкстураваньня мапаў вышынь"
+msgstr "Інструмэнт тэкстураваньня мапаў вышыняў"
 
 msgid "Heightmap texture tool: Invert"
-msgstr "Прылада тэкстураваньня мапаў вышынь: адвярнуць"
+msgstr "Інструмэнт тэкстураваньня мапаў вышыняў: адвярнуць"
 
 msgid "Heightmap too large. Number of pixels must not exceed %1%M."
 msgstr ""
-"Мапа вышынь завялікая. Колькасьць пікселяў ня можа бы больш за %1% мільёнаў."
+"Мапа вышыняў завялікая. Колькасьць пікселяў ня можа бы больш за %1% мільёнаў."
 
 msgid "Heightmap width invalid. Valid widths: %1%."
-msgstr "Няправільная шырыня мапы вышыні. Дазволеная шырыня: %1%."
+msgstr "Няправільная шырыня мапы вышыняў. Дазволеная шырыня: %1%."
 
 msgid "Help"
 msgstr "Дапамога"
@@ -2282,7 +2280,7 @@ msgid "High-speed"
 msgstr "Шыбкі"
 
 msgid "High-speed track tool"
-msgstr "Прылада чыгункі высокай хуткасьці"
+msgstr "Інструмэнт чыгункі высокай хуткасьці"
 
 msgid "Horse"
 msgstr "Конь"
@@ -3465,7 +3463,7 @@ msgid "Player ownership"
 msgstr "Уласнасьць гульца"
 
 msgid "Player ownership control tool"
-msgstr "Прылада усталяваньня уласнасьці гульцом"
+msgstr "Інструмэнт усталяваньня уласнасьці гульцом"
 
 msgid "Playlist"
 msgstr "Сьпіс прайграваньня"
@@ -4355,7 +4353,7 @@ msgid "Smooth the terrain."
 msgstr "Выгладжвае мясцовасьць."
 
 msgid "Smooth tool"
-msgstr "Прылада выгладжваньня"
+msgstr "Інструмэнт выгладжваньня"
 
 msgid ""
 "Some DLCs and/or mods could not be found. Please install them first in order "
@@ -4954,7 +4952,7 @@ msgid "Tram track"
 msgstr "Трамвайныя рэйкі"
 
 msgid "Tram track tool"
-msgstr "Прылада трамвайных рэяк"
+msgstr "Інструмэнт трамвайных рэяк"
 
 msgid "Tram {number}"
 msgstr "Трамвай {number}"
@@ -5408,7 +5406,7 @@ msgid "[not found] "
 msgstr "[ня знойдзена] "
 
 msgid "[{key}] is already used by:"
-msgstr "Ключ [{key}] ужо ужыты праз:"
+msgstr "Ключ [{key}] ужо ўжыты праз:"
 
 msgid "[{key}] is used by a predefined function and can not be assigned."
 msgstr ""
@@ -5435,7 +5433,7 @@ msgstr "Цяжка"
 
 msgctxt "difficulty"
 msgid "Medium"
-msgstr "Сярэдні"
+msgstr "Сярэдне"
 
 msgctxt "difficulty"
 msgid "Very hard"
@@ -5443,7 +5441,7 @@ msgstr "Зацяжка"
 
 msgctxt "distance-unit"
 msgid "Feet"
-msgstr "Стопы"
+msgstr "Футы"
 
 msgctxt "distance-unit"
 msgid "Mile"
@@ -5510,7 +5508,7 @@ msgstr "{townName}"
 
 msgctxt "map-size"
 msgid "Huge"
-msgstr "Велізарны"
+msgstr "Вялізарны"
 
 msgctxt "map-size"
 msgid "Large"
@@ -5522,7 +5520,7 @@ msgstr "Сярэдні"
 
 msgctxt "map-size"
 msgid "Megalomaniac"
-msgstr "Манія вялікасьці"
+msgstr "Манія вялічча"
 
 msgctxt "map-size"
 msgid "Small"
@@ -5548,7 +5546,7 @@ msgstr "Убудаваныя мадыфікацыі"
 
 msgctxt "mod-state"
 msgid "DLC"
-msgstr "Сьцягваемы Зьмест"
+msgstr "Сьцягваемы зьмест"
 
 msgctxt "mod-state"
 msgid "Shared via {}"
@@ -5610,6 +5608,7 @@ msgctxt "mod-tags"
 msgid "Car"
 msgstr "Машына"
 
+#, fuzzy
 msgctxt "mod-tags"
 msgid "Cargo Harbor"
 msgstr "Грузавы прычал"
@@ -5640,7 +5639,7 @@ msgstr "Пераклад"
 
 msgctxt "mod-tags"
 msgid "Locomotive"
-msgstr "Лёкаматыў"
+msgstr "Лякаматыў"
 
 msgctxt "mod-tags"
 msgid "Map"
@@ -5660,11 +5659,11 @@ msgstr "Місія"
 
 msgctxt "mod-tags"
 msgid "Multiple Unit"
-msgstr "Цягавы коплекс"
+msgstr "Цягавы комплекс"
 
 msgctxt "mod-tags"
 msgid "Passenger Harbor"
-msgstr "Пасажырская прычал"
+msgstr "Пасажырскі прычал"
 
 msgctxt "mod-tags"
 msgid "Person"
@@ -5688,7 +5687,7 @@ msgstr "Захаваньне"
 
 msgctxt "mod-tags"
 msgid "Scenario"
-msgstr "Сцэнар"
+msgstr "Сцэнарый"
 
 msgctxt "mod-tags"
 msgid "Script Mod"
@@ -5748,7 +5747,7 @@ msgstr "Рэйка/вуліца"
 
 msgctxt "mod-tags"
 msgid "Train Depot"
-msgstr "Цягніковае дэпо"
+msgstr "Чыгуначнае дэпо"
 
 msgctxt "mod-tags"
 msgid "Train Station"
@@ -5764,7 +5763,7 @@ msgstr "Трамвайнае дэпо"
 
 msgctxt "mod-tags"
 msgid "Tram Station"
-msgstr "Прыпынак трамваяў"
+msgstr "Трамвайная станцыя"
 
 msgctxt "mod-tags"
 msgid "Tropical"
@@ -5776,7 +5775,7 @@ msgstr "Грузавік"
 
 msgctxt "mod-tags"
 msgid "Truck Station"
-msgstr "Станцыя грузавікоў"
+msgstr "Грузавая станцыя"
 
 msgctxt "mod-tags"
 msgid "Tunnel"
@@ -5819,23 +5818,23 @@ msgstr "Скарочаны"
 
 msgctxt "platform"
 msgid "Use your Console-Account"
-msgstr "Скарыстаць акаўнт кансолі"
+msgstr "Скарыстаць ул. запіс кансолі"
 
 msgctxt "platform"
 msgid "Use your Epic Games-Account"
-msgstr "Скарыстаць акаўнт Epic Games"
+msgstr "Скарыстаць ул. запіс Epic Games"
 
 msgctxt "platform"
 msgid "Use your Steam-Account"
-msgstr "Скарыстаць акаўнт Steam"
+msgstr "Скарыстаць ул. запіс Steam"
 
 msgctxt "platform"
 msgid "use your GOG-Account"
-msgstr "Скарыстаць акаўнт GOG"
+msgstr "Скарыстаць ул. запіс GOG"
 
 msgctxt "platform-pc"
 msgid "Achievement earned"
-msgstr "Дасягненьне атрымана"
+msgstr "Дасягненьне здабыта"
 
 msgctxt "platform-pc"
 msgid "Achievements"
@@ -5850,31 +5849,31 @@ msgid ""
 "Achievements cannot be earned in this game because mods are or have been "
 "active."
 msgstr ""
-"Дасягненьні адключаны у гэтай гульні, таму што мадыфікацыі актыўны або былі "
+"Дасягненьні адключаны у гэтай гульні, таму што ўжыты мадыфікацыі або былі "
 "раней."
 
 msgctxt "platform-pc"
 msgid "Controller"
-msgstr "Кантролер"
+msgstr "Гэймпад"
 
 msgctxt "platform-pc"
 msgid "Controller connected"
-msgstr "Кантролер пад'яднаны"
+msgstr "Гэймпад пад'яднаны"
 
 msgctxt "platform-pc"
 msgid "Controller disconnected"
-msgstr "Кантролер раз'яднаны"
+msgstr "Гэймпад раз'яднаны"
 
 msgctxt "platform-pc"
 msgid "Controller settings"
-msgstr "Налады кантролеру"
+msgstr "Налады гэймпада"
 
 msgctxt "platform-pc"
 msgid ""
 "Mods are active or advanced settings are modified. Achievements cannot be "
 "earned!"
 msgstr ""
-"Актыўны мадыфікаці або дадатковыя налады зьменены. Дасягнентні адключаны!"
+"Ужытыя мадыфікаці або дадатковыя налады зьменены. Дасягнентні адключаны!"
 
 msgctxt "platform-pc"
 msgid "See Deluxe Edition info"
@@ -5886,92 +5885,96 @@ msgstr "Праглядзець мае дасягненьні"
 
 msgctxt "platform-pc"
 msgid "Swap sticks (game camera)"
-msgstr "Памяняйць падважнікі (камэра гульні)"
+msgstr "Памена падважнікаў (камэра гульні)"
 
 msgctxt "platform-pc"
 msgid "Swap sticks (menu navigation)"
-msgstr "Памяняйць падважнікі (навігацыя па меню)"
+msgstr "Памена падважнікаў (навігацыя па меню)"
 
 msgctxt "platform-playstation"
 msgid ""
 "Cheats are active or advanced settings are modified. Trophies cannot be "
 "earned!"
-msgstr "Коды актыўны або дадатковыя налады зьменены. Трафэі адключаны!"
+msgstr ""
+"Актывавана махлярства або дадатковыя налады зьменены. Трафэі адключаны!"
 
 msgctxt "platform-playstation"
 msgid "Controller"
-msgstr "Кантролер"
+msgstr "Гэймпад"
 
 msgctxt "platform-playstation"
 msgid "Controller connected"
-msgstr "Кантролер пад'яднаны"
+msgstr "Гэймпад пад'яднаны"
 
 msgctxt "platform-playstation"
 msgid "Controller disconnected"
-msgstr "Кантролер раз'яднаны"
+msgstr "Гэймпад раз'яднаны"
 
 msgctxt "platform-playstation"
 msgid "Controller settings"
-msgstr "Налады кантролеру"
+msgstr "Налады гэймпада"
 
 msgctxt "platform-playstation"
 msgid "Swap sticks (game camera)"
-msgstr "Памяняйць падважнікі (камэра гульні)"
+msgstr "Памена падважнікаў (камэра гульні)"
 
 msgctxt "platform-playstation"
 msgid "Swap sticks (menu navigation)"
-msgstr "Памяняйць падважнікі (навігацыя па меню)"
+msgstr "Памена падважнікаў (навігацыя па меню)"
 
 msgctxt "platform-playstation"
 msgid "Trophies can't be earned if the following settings are used:"
-msgstr "Трафэі будуць адключаны пры гульні з наступнымі наладамі:"
+msgstr "Трафэі будуць адключаны з наступнымі наладамі:"
 
 msgctxt "platform-playstation"
 msgid ""
 "Trophies cannot be earned in this game because cheats are or have been "
 "active."
-msgstr "Трафэі адключаны у гэтай гульні, таму што коды актыўны або былі раней."
+msgstr ""
+"Трафэі адключаны ў гэтай гульні, бо актывавана махлярства або было раней."
 
 msgctxt "platform-xbox"
 msgid "Achievements can't be earned if the following settings are used:"
-msgstr "Дасягненьні будуць адключаны ў гульне з наступнымі наладамі:"
+msgstr "Дасягненьні будуць адключаны з наступнымі наладамі:"
 
 msgctxt "platform-xbox"
 msgid ""
 "Achievements cannot be earned in this game because cheats are or have been "
 "active."
 msgstr ""
-"Дасягненьні адключаны у гэтай гульні, таму што коды актыўны або былі раней."
+"Дасягненьні адключаны у гэтай гульні, бо актывавана махлярства або было "
+"раней."
 
 msgctxt "platform-xbox"
 msgid ""
 "Cheats are active or advanced settings are modified. Achievements cannot be "
 "earned!"
-msgstr "Коды актыўны або дадатковыя налады зьменены. Дасягненьні адключаны!"
+msgstr ""
+"Актывавана махлярства або дадатковыя налады зьменены. Дасягненьні адключаны!"
 
 msgctxt "platform-xbox"
 msgid "Controller"
-msgstr "Кантролер"
+msgstr "Гэймпад"
 
 msgctxt "platform-xbox"
 msgid "Controller connected"
-msgstr "Кантролер пад'яднаны"
+msgstr "Гэймпад пад'яднаны"
 
 msgctxt "platform-xbox"
 msgid "Controller disconnected"
-msgstr "Кантролер раз'яднаны"
+msgstr "Гэймпад раз'яднаны"
 
 msgctxt "platform-xbox"
 msgid "Controller settings"
-msgstr "Налады кантролеру"
+msgstr "Налады гэймпада"
 
 msgctxt "platform-xbox"
 msgid "Swap sticks (game camera)"
-msgstr "Памяняйць падважнікі (камэра гульні)"
+msgstr "Памена падважнікаў (камэра гульні)"
 
 msgctxt "platform-xbox"
 msgid "Swap sticks (menu navigation)"
-msgstr "Памяняйць падважнікі (навігацыя па меню)"
+msgstr "Памена падважнікаў (навігацыя па меню)"
 
 msgctxt "plural"
 msgid "Aircraft"
@@ -6050,7 +6053,7 @@ msgstr "да %1%"
 
 msgctxt "town-size"
 msgid "Huge"
-msgstr "Велізарны"
+msgstr "Вялізарны"
 
 msgctxt "town-size"
 msgid "Large"
@@ -6238,16 +6241,16 @@ msgid "{number} referenced bridge types not found."
 msgstr "Ня знойдзена {number} тыпаў мастоў."
 
 msgid "{number} referenced ground textures not found."
-msgstr "Ня знойдзена {number} тэкстур зямлі."
+msgstr "Ня знойдзена {number} тэкстураў зямлі."
 
 msgid "{number} referenced materials not found."
 msgstr "Ня знойдзена {number} пазначаных матэрыялаў."
 
 msgid "{number} referenced street types not found."
-msgstr "Ня знойдзена {number} тыпаў вуліц."
+msgstr "Ня знойдзена {number} тыпаў вуліцаў."
 
 msgid "{number} referenced track types not found."
-msgstr "Ня знойдзена {number} тупаў рэяк."
+msgstr "Ня знойдзена {number} тупаў рэйкаў."
 
 msgid "{number} referenced tunnel types not found."
 msgstr "Ня знойдзена {number} тыпаў тунэляў."
@@ -6265,7 +6268,7 @@ msgid "{part}/{total}"
 msgstr "{part}/{total}"
 
 msgid "{percentage}% of lifetime ({years} remaining)"
-msgstr "{percentage}% тэрмін трываньня (застаецца: {years})"
+msgstr "{percentage}% тэрмін службы (застаецца: {years})"
 
 msgid "{percentage}% of {total}"
 msgstr "{percentage}% з  {total}"
